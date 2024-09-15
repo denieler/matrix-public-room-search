@@ -2,13 +2,55 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Matrix Public Rooms</title>
+  <title>Matrix Public Rooms | Search and Discover Public Chat Rooms</title>
+  <!-- Meta Tags for SEO -->
+  <meta name="description" content="Search and discover Matrix.org public rooms. Find and join public chat rooms on the Matrix network.">
+  <meta name="keywords" content="Matrix, Matrix.org, public rooms, chat rooms, search, discover, join, communication, messaging">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <!-- Open Graph Meta Tags -->
+  <meta property="og:title" content="Matrix Public Rooms">
+  <meta property="og:description" content="Search and discover Matrix.org public rooms. Find and join public chat rooms on the Matrix network.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://search-matrix-rooms.denieler.com">
+  <meta property="og:image" content="https://search-matrix-rooms.denieler.com/assets/matrix-logo.jpg">
+
+  <!-- Twitter Card Meta Tags -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Matrix Public Rooms">
+  <meta name="twitter:description" content="Search and discover Matrix.org public rooms. Find and join public chat rooms on the Matrix network.">
+  <meta name="twitter:image" content="https://search-matrix-rooms.denieler.com/assets/matrix-logo.jpg">
+
+  <!-- Structured Data for SEO -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "Matrix Public Rooms",
+    "description": "Search and discover Matrix.org public rooms. Find and join public chat rooms on the Matrix network.",
+    "url": "https://search-matrix-rooms.denieler.com/",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Your Organization Name",
+      "url": "https://search-matrix-rooms.denieler.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://search-matrix-rooms.denieler.com/assets/matrix-logo.jpg"
+      }
+    }
+  }
+  </script>
+
+  <!-- Favicon -->
+  <link rel="icon" href="/assets/favicon.svg" type="image/x-icon">
+
   <!-- Tailwind CSS CDN -->
   <script src="https://cdn.tailwindcss.com"></script>
 </head>
 <body class="bg-gray-100 text-gray-900">
   <div class="container mx-auto py-8">
-    <h1 class="text-3xl font-bold mb-6 text-center">Matrix Public Rooms</h1>
+    <h1 class="text-3xl font-bold mb-6 text-center">Matrix (org) Public Rooms</h1>
+    <p class="text-lg text-gray-700 mb-6 text-center">Welcome to our Matrix Public Rooms directory. Here you can search and discover public chat rooms available on the Matrix network. Join conversations, connect with communities, and explore topics that interest you.</p>
     <div class="mb-4">
       <input type="text" id="search-input" placeholder="Search rooms..." class="w-full p-2 border border-gray-300 rounded">
     </div>
@@ -61,14 +103,13 @@
             const server = mxcMatch[1];
             const mediaId = mxcMatch[2];
             const avatarUrl = `https://${server}/_matrix/media/v3/thumbnail/${server}/${mediaId}?width=64&height=64&method=scale`;
-            // avatarImg = `<img src="${avatarUrl}" alt="Avatar" class="w-16 h-16 rounded-full mb-4">`;
-            avatarImg = `<img src="${avatarUrl}" alt="Avatar" class="w-16 h-16 rounded-full mb-4" onerror="this.onerror=null; this.src='/assets/room-default-icon.svg';">`;
+            avatarImg = `<img src="${avatarUrl}" alt="Room Avatar" class="w-16 h-16 rounded-full mb-4" onerror="this.onerror=null; this.src='/assets/room-default-icon.svg';">`;
           }
         }
 
         roomCard.innerHTML = `
           ${avatarImg}
-          <h2 class="text-xl font-semibold mb-2">${room.name || 'Unnamed Room'}</h2>
+          <h3 class="text-xl font-semibold mb-2">${room.name || 'Unnamed Room'}</h3>
           <p class="text-gray-600 mb-2"><strong>Room ID:</strong> ${room.room_id}</p>
           <p class="text-gray-600 mb-2"><strong>Server:</strong> ${room.server}</p>
           <p class="text-gray-600 mb-2"><strong>Members:</strong> ${room.num_joined_members}</p>
