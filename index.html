@@ -107,10 +107,11 @@
           }
         }
 
+        roomUrl = `https://matrix.to/#/${room.room_id}`;
         roomCard.innerHTML = `
           ${avatarImg}
           <h3 class="text-xl font-semibold mb-2">${room.name || 'Unnamed Room'}</h3>
-          <p class="text-gray-600 mb-2"><strong>Room ID:</strong> ${room.room_id}</p>
+          <p class="text-gray-600 mb-2"><strong>Room ID:</strong> <a href=${roomUrl}>${room.room_id}</a></p>
           <p class="text-gray-600 mb-2"><strong>Server:</strong> ${room.server}</p>
           <p class="text-gray-600 mb-2"><strong>Members:</strong> ${room.num_joined_members}</p>
           <p style="display: -webkit-box; -webkit-line-clamp: 15; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis;" class="text-gray-700">${room.topic || 'No topic available'}</p>
