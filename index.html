@@ -116,7 +116,7 @@
         roomUrl = `https://matrix.to/#/${room.room_id}`;
         roomCard.innerHTML = `
           ${avatarImg}
-          <h3 class="text-xl font-semibold mb-2">${room.name || 'Unnamed Room'}</h3>
+          <h3 class="text-xl font-semibold mb-2 break-all">${room.name || 'Unnamed Room'}</h3>
           <p class="text-gray-600 mb-2"><strong>Room ID:</strong> <a href=${roomUrl}>${room.room_id}</a></p>
           <p class="text-gray-600 mb-2"><strong>Server:</strong> ${room.server}</p>
           <p class="text-gray-600 mb-2"><strong>Members:</strong> ${room.num_joined_members}</p>
