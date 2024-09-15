@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Matrix Public Rooms</title>
+  <!-- Tailwind CSS CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100 text-gray-900">
+  <div class="container mx-auto py-8">
+    <h1 class="text-3xl font-bold mb-6 text-center">Matrix Public Rooms</h1>
+    <div class="mb-4">
+      <input type="text" id="search-input" placeholder="Search rooms..." class="w-full p-2 border border-gray-300 rounded">
+    </div>
+    <div id="rooms-container" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+      <!-- Rooms will be loaded here -->
+    </div>
+  </div>
+
+  <script>
+    let roomsData = [];
+
+    // Fetch the rooms data from rooms.json
+    fetch('rooms.json')
+      .then(response => response.json())
+      .then(data => {
+        // Filter out rooms with fewer than 5 members (additional safeguard)
+        roomsData = data.filter(room => room.num_joined_members >= 5)
+            .filter(room =>
+              !room.name?.toLowerCase().includes('русск') &&
+              !room.name?.toLowerCase().includes('russian') &&
+              !room.topic?.toLowerCase().includes('русск')  &&
+              !room.topic?.toLowerCase().includes('russian')
+            );
+        displayRooms(roomsData);
+      })
+      .catch(error => {
+        console.error('Error loading rooms data:', error);
+        const container = document.getElementById('rooms-container');
+        container.innerHTML = '<p class="text-red-500">Error loading rooms data.</p>';
+      });
+
+    function displayRooms(rooms) {
+      const container = document.getElementById('rooms-container');
+      container.innerHTML = ''; // Clear existing content
+
+      if (rooms.length === 0) {
+        container.innerHTML = '<p class="text-gray-600">No rooms found.</p>';
+        return;
+      }
+
+      rooms.forEach(room => {
+        const roomCard = document.createElement('div');
+        roomCard.className = 'bg-white p-6 rounded-lg shadow-md hover:shadow-lg transition-shadow duration-300';
+
+        // Construct avatar URL if available
+        let avatarImg = '';
+        if (room.avatar_url) {
+          const mxcMatch = room.avatar_url.match(/^mxc:\/\/([^\/]+)\/(.+)$/);
+          if (mxcMatch) {
+            const server = mxcMatch[1];
+            const mediaId = mxcMatch[2];
+            const avatarUrl = `https://${server}/_matrix/media/v3/thumbnail/${server}/${mediaId}?width=64&height=64&method=scale`;
+            // avatarImg = `<img src="${avatarUrl}" alt="Avatar" class="w-16 h-16 rounded-full mb-4">`;
+            avatarImg = `<img src="${avatarUrl}" alt="Avatar" class="w-16 h-16 rounded-full mb-4" onerror="this.onerror=null; this.src='/assets/room-default-icon.svg';">`;
+          }
+        }
+
+        roomCard.innerHTML = `
+          ${avatarImg}
+          <h2 class="text-xl font-semibold mb-2">${room.name || 'Unnamed Room'}</h2>
+          <p class="text-gray-600 mb-2"><strong>Room ID:</strong> ${room.room_id}</p>
+          <p class="text-gray-600 mb-2"><strong>Server:</strong> ${room.server}</p>
+          <p class="text-gray-600 mb-2"><strong>Members:</strong> ${room.num_joined_members}</p>
+          <p style="display: -webkit-box; -webkit-line-clamp: 15; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis;" class="text-gray-700">${room.topic || 'No topic available'}</p>
+        `;
+
+        container.appendChild(roomCard);
+      });
+    }
+
+    // Search functionality
+    document.getElementById('search-input').addEventListener('input', function() {
+      const query = this.value.toLowerCase();
+      const filteredRooms = roomsData.filter(room => {
+        return (
+          (room.name && room.name.toLowerCase().includes(query)) ||
+          (room.topic && room.topic.toLowerCase().includes(query)) ||
+          (room.server && room.server.toLowerCase().includes(query))
+        );
+      });
+      displayRooms(filteredRooms);
+    });
+  </script>
+</body>
+</html>
