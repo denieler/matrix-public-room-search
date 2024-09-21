@@ -123,7 +123,7 @@ def main():
         if rooms:
             saved_rooms = save_rooms_to_db(cursor, server, rooms)
             conn.commit()
-            print(f"Saved/Updated {saved_rooms} rooms from {server} (rooms with >=5 members)")
+            print(f"\033[32mSaved/Updated {saved_rooms} rooms from {server} (rooms with >=5 members)\033[0m")
         else:
             print(f"No rooms found or error fetching from {server}")
     # Close the database connection
