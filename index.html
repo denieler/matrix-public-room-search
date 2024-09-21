@@ -3,6 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <title>Matrix Public Rooms | Search and Discover Public Chat Rooms</title>
+
   <!-- Meta Tags for SEO -->
   <meta name="description" content="Search and discover Matrix.org public rooms. Find and join public chat rooms on the Matrix network.">
   <meta name="keywords" content="Matrix, Matrix.org, public rooms, chat rooms, search, discover, join, communication, messaging">
@@ -47,18 +48,21 @@
   }
   </script>
 
+  <!-- Tailwind CSS -->
+  <script src="https://cdn.tailwindcss.com"></script>
+
+  <!-- shadcn UI styles -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@shadcn/ui@latest/dist/index.min.css" />
+
   <!-- Favicon -->
   <link rel="icon" href="/assets/favicon.svg" type="image/x-icon">
-
-  <!-- Tailwind CSS CDN -->
-  <script src="https://cdn.tailwindcss.com"></script>
 </head>
-<body class="bg-gray-100 text-gray-900">
+<body class="bg-background text-foreground">
   <div class="container mx-auto py-8 px-4">
-    <h1 class="text-3xl font-bold mb-6 text-center">Matrix (org) Public Rooms</h1>
-    <p class="text-lg text-gray-700 mb-6 text-center">Welcome to our Matrix Public Rooms directory. Here you can search and discover public chat rooms available on the Matrix network. Join conversations, connect with communities, and explore topics that interest you.</p>
+    <h1 class="scroll-m-20 text-4xl font-extrabold tracking-tight lg:text-5xl mb-6 text-center">Matrix (org) Public Rooms</h1>
+    <p class="text-xl text-muted-foreground mb-6 text-center">Welcome to our Matrix Public Rooms directory. Here you can search and discover public chat rooms available on the Matrix network. Join conversations, connect with communities, and explore topics that interest you.</p>
     <div class="mb-4">
-      <input type="text" id="search-input" placeholder="Search rooms..." class="w-full p-2 border border-gray-300 rounded">
+      <input type="text" id="search-input" placeholder="Search rooms..." class="flex h-10 w-full rounded-md border border-input bg-background px-3 py-2 text-sm ring-offset-background file:border-0 file:bg-transparent file:text-sm file:font-medium placeholder:text-muted-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:cursor-not-allowed disabled:opacity-50">
     </div>
     <div id="rooms-container" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
       <!-- Rooms will be loaded here -->
@@ -72,7 +76,6 @@
     fetch('rooms.json')
       .then(response => response.json())
       .then(data => {
-        // Filter out rooms with fewer than 5 members (additional safeguard)
         roomsData = data.filter(room => room.num_joined_members >= 5)
             .filter(room =>
               !room.name?.toLowerCase().includes('русск') &&
@@ -85,46 +88,58 @@
       .catch(error => {
         console.error('Error loading rooms data:', error);
         const container = document.getElementById('rooms-container');
-        container.innerHTML = '<p class="text-red-500">Error loading rooms data.</p>';
+        container.innerHTML = '<p class="text-destructive">Error loading rooms data.</p>';
       });
 
     function displayRooms(rooms) {
       const container = document.getElementById('rooms-container');
-      container.innerHTML = ''; // Clear existing content
+      container.innerHTML = '';
 
       if (rooms.length === 0) {
-        container.innerHTML = '<p class="text-gray-600">No rooms found.</p>';
+        container.innerHTML = '<p class="text-muted-foreground">No rooms found.</p>';
         return;
       }
 
       rooms.forEach(room => {
         const roomCard = document.createElement('div');
-        roomCard.className = 'bg-white p-6 rounded-lg shadow-md hover:shadow-lg transition-shadow duration-300';
+        roomCard.className = 'rounded-lg border bg-card text-card-foreground shadow-sm';
 
-        // Construct avatar URL if available
-        let avatarImg = '';
-        if (room.avatar_url) {
-          const mxcMatch = room.avatar_url.match(/^mxc:\/\/([^\/]+)\/(.+)$/);
-          if (mxcMatch) {
-            const server = mxcMatch[1];
-            const mediaId = mxcMatch[2];
-            const avatarUrl = `https://${server}/_matrix/media/v3/thumbnail/${server}/${mediaId}?width=64&height=64&method=scale`;
-            avatarImg = `<img src="${avatarUrl}" alt="Room Avatar" class="w-16 h-16 rounded-full mb-4" onerror="this.onerror=null; this.src='/assets/room-default-icon.svg';">`;
-          }
-        }
+        let avatarImg = getAvatarUrl(room.avatar_url);
+        let roomUrl = `https://matrix.to/#/${room.room_id}`;
 
-        roomUrl = `https://matrix.to/#/${room.room_id}`;
         roomCard.innerHTML = `
-          ${avatarImg}
-          <h3 class="text-xl font-semibold mb-2 break-all">${room.name || 'Unnamed Room'}</h3>
-          <p class="text-gray-600 mb-2"><strong>Room ID:</strong> <a href=${roomUrl}>${room.room_id}</a></p>
-          <p class="text-gray-600 mb-2"><strong>Server:</strong> ${room.server}</p>
-          <p class="text-gray-600 mb-2"><strong>Members:</strong> ${room.num_joined_members}</p>
-          <p style="display: -webkit-box; -webkit-line-clamp: 15; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis;" class="text-gray-700">${room.topic || 'No topic available'}</p>
+          <div class="p-4">
+            <div class="flex items-center space-x-4 mb-4">
+              <div class="relative flex-shrink-0 w-10 h-10 rounded-full overflow-hidden bg-secondary">
+                ${avatarImg ? `<img src="${avatarImg}" alt="Room Avatar" class="w-full h-full object-cover" onerror="this.onerror=null; this.src='/assets/room-default-icon.svg';">` : ''}
+              </div>
+              <h3 class="scroll-m-20 text-2xl font-semibold tracking-tight break-all">${room.name || 'Unnamed Room'}</h3>
+            </div>
+            <p class="text-sm text-muted-foreground mb-2">
+              <strong>Room ID:</strong> 
+              <a href="${roomUrl}" class="text-primary hover:underline break-all">
+                <span class="inline-block max-w-full truncate">${room.room_id}</span>
+              </a>
+            </p>
+            <p class="text-sm text-muted-foreground mb-2"><strong>Server:</strong> ${room.server}</p>
+            <p class="text-sm text-muted-foreground mb-2"><strong>Members:</strong> ${room.num_joined_members}</p>
+            <p class="text-sm line-clamp-4">${room.topic || 'No topic available'}</p>
+          </div>
         `;
 
         container.appendChild(roomCard);
       });
+    }
+
+    function getAvatarUrl(avatarUrl) {
+      if (!avatarUrl) return null;
+      const mxcMatch = avatarUrl.match(/^mxc:\/\/([^\/]+)\/(.+)$/);
+      if (mxcMatch) {
+        const server = mxcMatch[1];
+        const mediaId = mxcMatch[2];
+        return `https://${server}/_matrix/media/v3/thumbnail/${server}/${mediaId}?width=64&height=64&method=scale`;
+      }
+      return null;
     }
 
     // Search functionality
