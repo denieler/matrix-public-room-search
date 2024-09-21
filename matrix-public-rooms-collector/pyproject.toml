@@ -1,5 +1,8 @@
 [tool.poetry]
 name = "matrix-public-rooms-collector"
+authors = [
+    "Daniel Ostapenko <danielostapenko@gmail.com>",
+]
 version = "0.1.0"
 description = ""
 readme = "README.md"
