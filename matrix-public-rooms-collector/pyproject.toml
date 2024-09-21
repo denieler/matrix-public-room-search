@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "matrix-public-rooms-collector"
+version = "0.1.0"
+description = ""
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+requests = "^2.32.3"
+urllib3 = "^2.2.3"
+bs4 = "^0.0.2"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

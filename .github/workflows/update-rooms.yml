@@ -1,0 +1,57 @@
+name: Update Matrix Rooms
+
+# This will run the workflow every Saturday at midnight UTC
+on:
+  schedule:
+    - cron: '0 0 * * 6'
+  workflow_dispatch:
+
+jobs:
+  update-rooms:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Checkout the repository to the GitHub runner
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # Set up Python with Poetry
+      - name: Set up Python and install dependencies
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install Poetry
+        run: |
+          curl -sSL https://install.python-poetry.org | python3 -
+          echo "export PATH=$HOME/.local/bin:$PATH" >> $GITHUB_ENV
+
+      # Install dependencies in the ./matrix-public-rooms-collector directory
+      - name: Install dependencies using Poetry
+        run: poetry install
+        working-directory: ./matrix-public-rooms-collector
+
+      - name: Run get-list-of-matrix-servers.py
+        run: poetry run python ./get-list-of-matrix-servers.py
+        working-directory: ./matrix-public-rooms-collector
+
+      - name: Run get-all-public-rooms.py
+        run: poetry run python ./get-all-public-rooms.py
+        working-directory: ./matrix-public-rooms-collector
+
+      - name: Run convert-sqllite-to-json.py
+        run: poetry run python ./convert-sqllite-to-json.py
+        working-directory: ./matrix-public-rooms-collector
+
+      # Move the rooms.json file to the root folder of the repo
+      - name: Move rooms.json to the root folder
+        run: mv ./matrix-public-rooms-collector/rooms.json ./rooms.json
+
+      # Commit and push the updated rooms.json to the repository
+      - name: Commit and push rooms.json changes
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add rooms.json
+          git commit -m "Update rooms.json [Automated]"
+          git push
