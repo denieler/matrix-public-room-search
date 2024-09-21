@@ -115,12 +115,12 @@
               </div>
               <h3 class="scroll-m-20 text-2xl font-semibold tracking-tight break-all">${room.name || 'Unnamed Room'}</h3>
             </div>
-            <p class="text-sm text-muted-foreground mb-2">
-              <strong>Room ID:</strong> 
-              <a href="${roomUrl}" class="text-primary hover:underline break-all">
-                <span class="inline-block max-w-full truncate">${room.room_id}</span>
+            <div class="flex items-start space-x-1 text-sm text-muted-foreground mb-2">
+              <strong class="flex-shrink-0">Room ID:</strong>
+              <a href="${roomUrl}" class="text-primary hover:underline overflow-hidden overflow-ellipsis">
+                <span class="block truncate">${room.room_id}</span>
               </a>
-            </p>
+            </div>
             <p class="text-sm text-muted-foreground mb-2"><strong>Server:</strong> ${room.server}</p>
             <p class="text-sm text-muted-foreground mb-2"><strong>Members:</strong> ${room.num_joined_members}</p>
             <p class="text-sm line-clamp-4">${room.topic || 'No topic available'}</p>
