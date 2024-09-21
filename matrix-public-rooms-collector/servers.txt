@@ -10,6 +10,7 @@ mephis.to
 chatserver.hashi.sbs
 matrix.byter.dev
 bknow.net
+matrix.onweb3.net
 obermui.de
 matrix.luatic.net
 gaube.chat
@@ -46,8 +47,10 @@ mx.grupotd.nat.cu
 matrix.pupper.dev
 matrix.constellatory.net
 chat.fosszone.org
+trinity.fhi.mpg.de
 matrix.netrunner-vault.de
 matrix.sidmesh.com
+matrix.automat.icu
 matrix.geislingen.digital
 matrix.retronerd.at
 matrix.meissners.me
@@ -56,12 +59,12 @@ matrix.beachcom.org
 matrix.yourdevice.ch
 matrix.world-sec.net
 matrix.winscloud.net
+matrix.smash-net.org
 matrix.kinsel-web.de
 matrix.netzagentur.at
 hq.sysadmin.directory
 matrix.muensterhack.de
 matrix.colonelkrud.com
-holonet.starwars.rocks
 matrix.oelrichsgarcia.de
 chat.clinkard-clacey.com
 pridelands-after-dark.com
@@ -73,8 +76,8 @@ matrix.4f9e1738.ignorelist.com
 server.digitalesozialearbeit.de
 matrix.strongtownssteinbach.org
 flying-snail-matrix.nsupdate.info
+matrix1.gondor-grootan-matrix-dev-rwxhl.gondor.dev.kobil.com
 m.zm.gl
-svx.im
 matrix.sr2.chat
 matrix.erb.pw
 noyb.io
@@ -104,7 +107,6 @@ matrix.setera.com
 matrix.r3d007.com
 matrix.pramari.de
 matrix.phelas.com
-matrix.onweb3.net
 matrix.nadeko.net
 matrix.dsss.space
 chladny.de
@@ -131,6 +133,7 @@ matrix.bassin.club
 matrix.andrue.asia
 4a2s.stream
 matrix.wynning.tech
+operator.wolfspyre.io
 whatware.net
 the-lamp.net
 subraum.link
@@ -148,7 +151,6 @@ matrix.it-syndik.at
 matrix.ham-yota.com
 matrix.flieger.chat
 ers.1337.llc
-eagleinc.xyz
 converser.eu
 matrix.erb.pw
 matrix.b0t.at
@@ -173,6 +175,7 @@ matrix.glasgow.social
 matrix.germanzero.org
 matrix.ditatompel.com
 matrix.computerlie.be
+chat.netfog.de
 matrix.web3.foundation
 purper.ddns.net
 matrix.xgtz.org
@@ -196,6 +199,7 @@ matrix.skl.works
 matrix.ploek.net
 matrix.nilous.io
 matrix.mxhdr.net
+matrix.intri.cat
 matrix.abyle.org
 matrix.luisguerrero.net
 chat.livingutopia.org
@@ -225,8 +229,8 @@ matrix.arialis.be
 matrix.helderferreira.io
 matrix.guest.uni-graz.at
 matrix.goettingen.social
+gb.rescindent.com
 bridge.mbasler.ch
-trinity.fhi.mpg.de
 matrix.technerd.io
 matrix.noswald.xyz
 matrix.musicsrv.de
@@ -234,7 +238,6 @@ matrix.mukedues.de
 matrix.gallows.dev
 matrix.furtalk.com
 matrix.flossir.org
-matrix.automat.icu
 matrix.anansi.site
 matrix.allhandsactive.org
 pronostix.lu-cix.lu
@@ -248,7 +251,6 @@ matrix.blackynet.de
 chat.trihouse.media
 matrix.rozekengineering.com
 matrix.underworld.fr
-matrix.smash-net.org
 matrix.small-net.net
 matrix.pfalz-mail.de
 matrix.nightdata.net
