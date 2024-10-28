@@ -105,10 +105,16 @@
               !room.topic?.toLowerCase().includes('russian')
             )
             .filter(room =>
-              room.name?.toLowerCase().includes('art') ||
-              room.topic?.toLowerCase().includes('art') ||
-              room.name?.toLowerCase().includes('design') ||
-              room.topic?.toLowerCase().includes('design') ||
+              room.name?.toLowerCase().includes(' art ') ||
+              room.topic?.toLowerCase().includes(' art ') ||
+              (
+                room.name?.toLowerCase().includes('design') &&
+                !room.name?.toLowerCase().includes('by design')
+              ) ||
+              (
+                room.topic?.toLowerCase().includes('design') &&
+                !room.topic?.toLowerCase().includes('by design')
+              ) ||
               room.name?.toLowerCase().includes('illustration') ||
               room.topic?.toLowerCase().includes('illustration') ||
               room.name?.toLowerCase().includes('drawing') ||
