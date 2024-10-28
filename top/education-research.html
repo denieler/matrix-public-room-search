@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Education & Research Matrix Public Rooms | Connect and Discover in Public Chat Rooms</title>
+
+  <meta name="description" content="Explore education, learning, science, and research-themed Matrix.org public rooms. Connect with students, researchers, and lifelong learners in Matrix public chat rooms.">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta property="og:title" content="Education & Research Matrix Public Rooms">
+  <meta property="og:description" content="Discover and join education, science, and research-focused public chat rooms on the Matrix network.">
+  <meta property="og:url" content="https://search-matrix-rooms.denieler.com/top/education-research.html">
+  <meta property="og:image" content="https://search-matrix-rooms.denieler.com/assets/matrix-logo.jpg">
+
+  <!-- Twitter Card Meta Tags -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Education & Research Matrix Public Rooms">
+  <meta name="twitter:description" content="Discover and join education, science, and research-focused public chat rooms on the Matrix network.">
+  <meta name="twitter:image" content="https://search-matrix-rooms.denieler.com/assets/matrix-logo.jpg">
+
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+  </style>
+
+  <!-- Structured Data for SEO -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "Education & Research Matrix Public Rooms",
+    "description": "Discover and join education, science, and research-focused public chat rooms on the Matrix network.",
+    "url": "https://search-matrix-rooms.denieler.com/top/education-research.html",
+    "publisher": {
+      "@type": "denieler",
+      "name": "denieler",
+      "url": "https://search-matrix-rooms.denieler.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://search-matrix-rooms.denieler.com/assets/matrix-logo.jpg"
+      }
+    }
+  }
+  </script>
+
+  <!-- Tailwind CSS -->
+  <script src="https://cdn.tailwindcss.com"></script>
+
+  <!-- shadcn UI styles -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@shadcn/ui@latest/dist/index.min.css" />
+
+  <!-- Favicon -->
+  <link rel="icon" href="/assets/favicon.svg" type="image/x-icon">
+
+  <style>
+    .hero {
+      background: linear-gradient(135deg, #56ab2f, #a8e063);
+      padding: 80px 20px;
+      text-align: center;
+      color: #fff;
+      border-radius: 8px;
+    }
+    .hero h1 {
+      font-size: 2.5rem;
+      font-weight: bold;
+    }
+    .hero p {
+      margin-top: 1rem;
+      font-size: 1.25rem;
+    }
+    .highlight-text {
+      color: #4caf50;
+    }
+  </style>
+</head>
+<body class="bg-background text-foreground">
+  <div class="container mx-auto my-8 px-4">
+    <div class="hero">
+      <h1>Discover Education & Research in Public Matrix Rooms</h1>
+      <p>Join discussions on education, science, research, and learning in Matrix public rooms.</p>
+    </div>
+  </div>
+
+  <div class="container mx-auto py-8 px-4">
+    <h2 class="scroll-m-20 text-3xl font-extrabold tracking-tight lg:text-4xl mb-6 text-center highlight-text">Education & Research-focused Public Rooms</h2>
+    <p class="text-lg text-muted-foreground mb-6 text-center">Welcome to our collection of rooms focused on education, science, and research. Connect with students, researchers, and lifelong learners.</p>
+    
+    <div id="rooms-container" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+      <!-- Rooms will be loaded here -->
+    </div>
+  </div>
+
+  <script>
+    let roomsData = [];
+
+    // Fetch the rooms data from rooms.json
+    fetch('../rooms.json')
+      .then(response => response.json())
+      .then(data => {
+        roomsData = data.filter(room => room.num_joined_members >= 5)
+            .filter(room =>
+              !room.name?.toLowerCase().includes('русск') &&
+              !room.name?.toLowerCase().includes('russian') &&
+              !room.topic?.toLowerCase().includes('русск') &&
+              !room.topic?.toLowerCase().includes('russian')
+            )
+            .filter(room =>
+              room.name?.toLowerCase().includes('education') ||
+              room.topic?.toLowerCase().includes('education') ||
+              room.name?.toLowerCase().includes('learning') ||
+              room.topic?.toLowerCase().includes('learning') ||
+              room.name?.toLowerCase().includes('study') ||
+              room.topic?.toLowerCase().includes('study') ||
+              room.name?.toLowerCase().includes('science') ||
+              room.topic?.toLowerCase().includes('science') ||
+              room.name?.toLowerCase().includes('research') ||
+              room.topic?.toLowerCase().includes('research') ||
+              room.name?.toLowerCase().includes('biology') ||
+              room.topic?.toLowerCase().includes('biology') ||
+              room.name?.toLowerCase().includes('physics') ||
+              room.topic?.toLowerCase().includes('physics') ||
+              room.name?.toLowerCase().includes('chemistry') ||
+              room.topic?.toLowerCase().includes('chemistry') ||
+              room.name?.toLowerCase().includes('math') ||
+              room.topic?.toLowerCase().includes('math')
+            );
+        displayRooms(roomsData);
+      })
+      .catch(error => {
+        console.error('Error loading rooms data:', error);
+        const container = document.getElementById('rooms-container');
+        container.innerHTML = '<p class="text-destructive">Error loading rooms data.</p>';
+      });
+
+    function displayRooms(rooms) {
+      const container = document.getElementById('rooms-container');
+      container.innerHTML = '';
+
+      if (rooms.length === 0) {
+        container.innerHTML = '<p class="text-muted-foreground">No rooms found.</p>';
+        return;
+      }
+
+      rooms.forEach(room => {
+        const roomCard = document.createElement('div');
+        roomCard.className = 'rounded-lg border bg-card text-card-foreground shadow-sm';
+
+        let avatarImg = getAvatarUrl(room.avatar_url);
+        let roomUrl = `https://matrix.to/#/${room.room_id}`;
+
+        roomCard.innerHTML = `
+          <div class="p-4">
+            <div class="flex items-center space-x-4 mb-4">
+              <div class="relative flex-shrink-0 w-10 h-10 rounded-full overflow-hidden bg-secondary">
+                ${avatarImg ? `<img src="${avatarImg}" alt="Room Avatar" class="w-full h-full object-cover" onerror="this.onerror=null; this.src='/assets/room-default-icon.svg';">` : ''}
+              </div>
+              <h3 class="scroll-m-20 text-2xl font-semibold tracking-tight break-all">${room.name || 'Unnamed Room'}</h3>
+            </div>
+            <div class="flex items-start space-x-1 text-sm text-muted-foreground mb-2">
+              <strong class="flex-shrink-0">Room ID:</strong>
+              <a href="${roomUrl}" class="text-primary hover:underline overflow-hidden overflow-ellipsis">
+                <span class="block truncate">${room.room_id}</span>
+              </a>
+            </div>
+            <p class="text-sm text-muted-foreground mb-2"><strong>Server:</strong> ${room.server}</p>
+            <p class="text-sm text-muted-foreground mb-2"><strong>Members:</strong> ${room.num_joined_members}</p>
+            <p class="text-sm line-clamp-4">${room.topic || 'No topic available'}</p>
+          </div>
+        `;
+
+        container.appendChild(roomCard);
+      });
+    }
+
+    function getAvatarUrl(avatarUrl) {
+      if (!avatarUrl) return null;
+      const mxcMatch = avatarUrl.match(/^mxc:\/\/([^\/]+)\/(.+)$/);
+      if (mxcMatch) {
+        const server = mxcMatch[1];
+        const mediaId = mxcMatch[2];
+        return `https://${server}/_matrix/media/v3/thumbnail/${server}/${mediaId}?width=64&height=64&method=scale`;
+      }
+      return null;
+    }
+  </script>
+</body>
+</html>

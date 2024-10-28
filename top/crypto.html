@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Crypto Matrix Public Rooms | Connect and Discover in Public Chat Rooms</title>
+
+  <meta name="description" content="Explore crypto-themed Matrix.org public rooms. Connect and engage in discussions focused on cryptocurrency, blockchain, and technology.">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta property="og:title" content="Crypto Matrix Public Rooms">
+  <meta property="og:description" content="Discover and join crypto public chat rooms on the Matrix network.">
+  <meta property="og:url" content="https://search-matrix-rooms.denieler.com/top/crypto.html">
+  <meta property="og:image" content="https://search-matrix-rooms.denieler.com/assets/matrix-logo.jpg">
+
+  <!-- Twitter Card Meta Tags -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Crypto Matrix Public Rooms">
+  <meta name="twitter:description" content="Discover and join crypto public chat rooms on the Matrix network.">
+  <meta name="twitter:image" content="https://search-matrix-rooms.denieler.com/assets/matrix-logo.jpg">
+
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+  </style>
+
+  <!-- Structured Data for SEO -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "Crypto Matrix Public Rooms",
+    "description": "Discover and join crypto public chat rooms on the Matrix network.",
+    "url": "https://search-matrix-rooms.denieler.com/top/crypto.html",
+    "publisher": {
+      "@type": "denieler",
+      "name": "denieler",
+      "url": "https://search-matrix-rooms.denieler.com",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://search-matrix-rooms.denieler.com/assets/matrix-logo.jpg"
+      }
+    }
+  }
+  </script>
+
+  <!-- Tailwind CSS -->
+  <script src="https://cdn.tailwindcss.com"></script>
+
+  <!-- shadcn UI styles -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@shadcn/ui@latest/dist/index.min.css" />
+
+  <!-- Favicon -->
+  <link rel="icon" href="/assets/favicon.svg" type="image/x-icon">
+
+  <style>
+    .hero {
+      background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+      padding: 80px 20px;
+      text-align: center;
+      color: #fff;
+      border-radius: 8px;
+    }
+    .hero h1 {
+      font-size: 2.5rem;
+      font-weight: bold;
+    }
+    .hero p {
+      margin-top: 1rem;
+      font-size: 1.25rem;
+    }
+    .highlight-text {
+      color: #42a5f5;
+    }
+  </style>
+</head>
+<body class="bg-background text-foreground">
+  <div class="container mx-auto my-8 px-4">
+    <div class="hero">
+      <h1>Explore Crypto in Public Matrix Rooms</h1>
+      <p>Join discussions on cryptocurrency, blockchain, DeFi, and more in Matrix public rooms.</p>
+    </div>
+  </div>
+
+  <div class="container mx-auto py-8 px-4">
+    <h2 class="scroll-m-20 text-3xl font-extrabold tracking-tight lg:text-4xl mb-6 text-center highlight-text">Crypto-themed Public Rooms</h2>
+    <p class="text-lg text-muted-foreground mb-6 text-center">Welcome to our collection of crypto-focused rooms. Connect with others passionate about blockchain and cryptocurrency technology.</p>
+    
+    <div id="rooms-container" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+      <!-- Rooms will be loaded here -->
+    </div>
+  </div>
+
+  <script>
+    let roomsData = [];
+
+    // Fetch the rooms data from rooms.json
+    fetch('../rooms.json')
+      .then(response => response.json())
+      .then(data => {
+        roomsData = data.filter(room => room.num_joined_members >= 5)
+            .filter(room =>
+              !room.name?.toLowerCase().includes('русск') &&
+              !room.name?.toLowerCase().includes('russian') &&
+              !room.topic?.toLowerCase().includes('русск')  &&
+              !room.topic?.toLowerCase().includes('russian')
+            )
+            .filter(room =>
+              room.name?.toLowerCase().includes('crypto') ||
+              room.topic?.toLowerCase().includes('crypto') ||
+              room.name?.toLowerCase().includes('blockchain') ||
+              room.topic?.toLowerCase().includes('blockchain') ||
+              room.name?.toLowerCase().includes('defi') ||
+              room.topic?.toLowerCase().includes('defi')
+            );
+        displayRooms(roomsData);
+      })
+      .catch(error => {
+        console.error('Error loading rooms data:', error);
+        const container = document.getElementById('rooms-container');
+        container.innerHTML = '<p class="text-destructive">Error loading rooms data.</p>';
+      });
+
+    function displayRooms(rooms) {
+      const container = document.getElementById('rooms-container');
+      container.innerHTML = '';
+
+      if (rooms.length === 0) {
+        container.innerHTML = '<p class="text-muted-foreground">No rooms found.</p>';
+        return;
+      }
+
+      rooms.forEach(room => {
+        const roomCard = document.createElement('div');
+        roomCard.className = 'rounded-lg border bg-card text-card-foreground shadow-sm';
+
+        let avatarImg = getAvatarUrl(room.avatar_url);
+        let roomUrl = `https://matrix.to/#/${room.room_id}`;
+
+        roomCard.innerHTML = `
+          <div class="p-4">
+            <div class="flex items-center space-x-4 mb-4">
+              <div class="relative flex-shrink-0 w-10 h-10 rounded-full overflow-hidden bg-secondary">
+                ${avatarImg ? `<img src="${avatarImg}" alt="Room Avatar" class="w-full h-full object-cover" onerror="this.onerror=null; this.src='/assets/room-default-icon.svg';">` : ''}
+              </div>
+              <h3 class="scroll-m-20 text-2xl font-semibold tracking-tight break-all">${room.name || 'Unnamed Room'}</h3>
+            </div>
+            <div class="flex items-start space-x-1 text-sm text-muted-foreground mb-2">
+              <strong class="flex-shrink-0">Room ID:</strong>
+              <a href="${roomUrl}" class="text-primary hover:underline overflow-hidden overflow-ellipsis">
+                <span class="block truncate">${room.room_id}</span>
+              </a>
+            </div>
+            <p class="text-sm text-muted-foreground mb-2"><strong>Server:</strong> ${room.server}</p>
+            <p class="text-sm text-muted-foreground mb-2"><strong>Members:</strong> ${room.num_joined_members}</p>
+            <p class="text-sm line-clamp-4">${room.topic || 'No topic available'}</p>
+          </div>
+        `;
+
+        container.appendChild(roomCard);
+      });
+    }
+
+    function getAvatarUrl(avatarUrl) {
+      if (!avatarUrl) return null;
+      const mxcMatch = avatarUrl.match(/^mxc:\/\/([^\/]+)\/(.+)$/);
+      if (mxcMatch) {
+        const server = mxcMatch[1];
+        const mediaId = mxcMatch[2];
+        return `https://${server}/_matrix/media/v3/thumbnail/${server}/${mediaId}?width=64&height=64&method=scale`;
+      }
+      return null;
+    }
+  </script>
+</body>
+</html>

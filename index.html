@@ -37,8 +37,8 @@
     "description": "Search and discover Matrix.org public rooms. Find and join public chat rooms on the Matrix network.",
     "url": "https://search-matrix-rooms.denieler.com/",
     "publisher": {
-      "@type": "Organization",
-      "name": "Your Organization Name",
+      "@type": "denieler",
+      "name": "denieler",
       "url": "https://search-matrix-rooms.denieler.com",
       "logo": {
         "@type": "ImageObject",
@@ -58,6 +58,57 @@
   <link rel="icon" href="/assets/favicon.svg" type="image/x-icon">
 </head>
 <body class="bg-background text-foreground">
+  <header class="bg-white container mx-auto py-4 px-4 flex items-center justify-between md:justify-center gap-4">
+    <span class="font-semibold text-gray-800 text-lg">Topics:</span>
+    <button id="menu-toggle" class="sm:hidden text-gray-600 focus:outline-none">
+      <!-- Hamburger Icon -->
+      <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7" />
+      </svg>
+    </button>
+    <nav id="nav-menu" class="hidden sm:flex flex-col sm:flex-row space-x-4">
+      <a href="/top/love.html" class="text-gray-400 hover:text-black transition duration-200">Love</a>
+      <a href="/top/privacy.html" class="text-gray-400 hover:text-black transition duration-200">Privacy</a>
+      <a href="/top/crypto.html" class="text-gray-400 hover:text-black transition duration-200">Crypto</a>
+      <a href="/top/gaming.html" class="text-gray-400 hover:text-black transition duration-200">Gaming</a>
+      <a href="/top/movies-and-tv-shows.html" class="text-gray-400 hover:text-black transition duration-200">Movies & TV Shows</a>
+      <a href="/top/education-research.html" class="text-gray-400 hover:text-black transition duration-200">Education & Research</a>
+    </nav>
+  </header>
+  
+  <!-- Mobile Menu Overlay -->
+  <div id="mobile-menu" class="fixed py-8 px-4 inset-0 z-50 bg-gray-800 bg-opacity-90 hidden justify-center items-center">
+    <nav class="flex flex-col space-y-4 text-white text-xl">
+      <a href="/top/love.html" class="hover:text-gray-300">Love</a>
+      <a href="/top/privacy.html" class="hover:text-gray-300">Privacy</a>
+      <a href="/top/crypto.html" class="hover:text-gray-300">Crypto</a>
+      <a href="/top/gaming.html" class="hover:text-gray-300">Gaming</a>
+      <a href="/top/movies-and-tv-shows.html" class="hover:text-gray-300">Movies & TV Shows</a>
+      <a href="/top/education-research.html" class="hover:text-gray-300">Education & Research</a>
+    </nav>
+    <button id="close-menu" class="absolute top-4 right-4 text-white">
+      <!-- Close Icon -->
+      <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+      </svg>
+    </button>
+  </div>
+  
+  <script>
+    // JavaScript to toggle the mobile menu
+    const menuToggle = document.getElementById('menu-toggle');
+    const mobileMenu = document.getElementById('mobile-menu');
+    const closeMenu = document.getElementById('close-menu');
+  
+    menuToggle.addEventListener('click', () => {
+      mobileMenu.classList.toggle('hidden');
+    });
+  
+    closeMenu.addEventListener('click', () => {
+      mobileMenu.classList.add('hidden');
+    });
+  </script>
+
   <div class="container mx-auto py-8 px-4">
     <h1 class="scroll-m-20 text-4xl font-extrabold tracking-tight lg:text-5xl mb-6 text-center">Matrix (org) Public Rooms</h1>
     <p class="text-xl text-muted-foreground mb-6 text-center">Welcome to our Matrix Public Rooms directory. Here you can search and discover public chat rooms available on the Matrix network. Join conversations, connect with communities, and explore topics that interest you.</p>
