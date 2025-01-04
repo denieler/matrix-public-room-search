@@ -48,7 +48,9 @@ jobs:
 
       # Move the rooms.json file to the root folder of the repo
       - name: Move rooms.json to the root folder
-        run: mv ./matrix-public-rooms-collector/rooms.json ./rooms.json
+        run: |
+          mv ./matrix-public-rooms-collector/rooms.json ./rooms.json
+          mv ./matrix-public-rooms-collector/rooms_15.json ./rooms_15.json
 
       # Commit and push the updated rooms.json to the repository
       - name: Commit and push rooms.json changes
