@@ -130,9 +130,18 @@
 
   <script>
     let roomsData = [];
+    let isLoadingMore = false;
 
-    // Fetch the rooms data from rooms.json
-    fetch('rooms.json')
+    // First load top 15 rooms
+    fetch('rooms_15.json')
+      .then(response => response.json())
+      .then(data => {
+        roomsData = data;
+        displayRooms(roomsData);
+        
+        // Then load all rooms in background
+        return fetch('rooms.json');
+      })
       .then(response => response.json())
       .then(data => {
         roomsData = data.filter(room => room.num_joined_members >= 5)

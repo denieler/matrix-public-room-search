@@ -56,6 +56,7 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git add rooms.json
+          git add rooms_15.json
           git add matrix-public-rooms-collector/matrix_rooms.db
           git add matrix-public-rooms-collector/servers.txt
           git commit -m "Update rooms.json [Automated]"
