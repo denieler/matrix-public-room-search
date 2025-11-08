@@ -1,4 +1,5 @@
 nope.chat
+pcriot.org
 imagisphe.re
 hot-chilli.im
 matrix.unredacted.org
@@ -9,14 +10,12 @@ matrix.urech.ca
 roota.cc
 matrix.otter.cx
 matrixchat.org
-matrix.grant.is
 matrix.the-b.org
 rustch.at
 matrix-server.nahida.im
 matrix.meszar.us
 matrix.ladiv.org
 flc.world
-bau-ha.us
 aipi.chat
 matrix.saygex.xyz
 ly0316.com
@@ -67,7 +66,6 @@ matrix.sysops.de
 matrix.ravc.tech
 matrix.pk-web.de
 matrix.omegav.no
-matrix.noncom.us
 matrix.mxhdr.net
 matrix.anonx.biz
 matrix.abyle.org
@@ -90,7 +88,6 @@ matrix.allhandsactive.org
 matrix.rural-it.org
 matrix.portstuck.at
 matrix.meissners.me
-matrix.jeffcake.com
 matrix.14042003.xyz
 server.matrix4ulm.de
 matrix.rozekengineering.com
@@ -129,9 +126,7 @@ matrix.mobile.care.dev.one4.cloud
 flying-snail-matrix.nsupdate.info
 matrix.olaf.one
 matrix.halis.io
-matrix.stdint.com
 matrix.poweron.dk
-pcriot.org
 matrix.blabla2.me
 mtx.bitcar.tel
 matrix.distrust.co
@@ -156,10 +151,10 @@ matrix.lukeog.com
 trinity.fhi.mpg.de
 matrix.zeckenbu.de
 matrix.weirdware.io
-matrix.walrussi.com
 matrix.snct-gmbh.de
 matrix.nightcity.lu
 matrix.beachcom.org
+matrix.07170501.dynv6.net
 enter.ilonagabor.de
 matrix.persch-api.de
 matrix.foleosoft.com
@@ -168,7 +163,6 @@ matrix.ecotopiabiketour.net
 matrix.wolhuter.co.za
 matrix.libre.brussels
 matrix.gruppeheat.net
-sergmatrix.duckdns.org
 matrix.baranovski.cloud
 treff.darknight-coffee.org
 matrix.kevinronceray.com
