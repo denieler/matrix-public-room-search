@@ -1,4 +1,3 @@
-wah.moe
 matrix.due.ren
 matrix.rebru.ch
 matrix.grant.is
@@ -85,6 +84,7 @@ matrix.genericgaming.com
 chat.marimoko.biz
 chat.daurenna.net
 matrix.secure-channel.net
+matrix.netrunner-vault.de
 matrix.musicsrv.de
 matrix.mukedues.de
 matrix.andeljan.cz
@@ -160,7 +160,6 @@ app.searchhub.vip
 matrix.yee.to
 matrix.hillion.co.uk
 matrix.grin.hu
-matrix.jones.dk
 matrix.conversence.com
 matrix.totmin.ru
 matrix.pk-web.de
@@ -187,6 +186,7 @@ matrix.wolhuter.co.za
 matrix.apitwospace.ru
 hq.sysadmin.directory
 mx.studentenzimmer.online
+sergmatrix.duckdns.org
 matrix.madeindream.com
 matrix.home-net.com.ua
 matrix.enragedkodo.com
@@ -200,6 +200,7 @@ libernode.libretechsystems.xyz
 pony.cx
 matrix.kan3.me
 m.edw.ai
+matrix-server.nahida.im
 matrix.hofmann.onl
 matrix.hecosida.de
 matrix.boritsch.de
