@@ -863,7 +863,7 @@
         "room_id": "!zJbdjAENQrtrSjyxTW:qoto.org",
         "name": "QOTO Lobby",
         "topic": "The main hangout for QOTO.",
-        "num_joined_members": 6664,
+        "num_joined_members": 6670,
         "world_readable": 1,
         "guest_can_join": 1,
         "avatar_url": "mxc://qoto.org/hXiXcRpOAYOpoJXzIVaqqaDd",
@@ -5790,7 +5790,7 @@
         "room_id": "!PoPkLniwTDyoZSfahp:matrix.org",
         "name": "Патріотична Україна",
         "topic": "Будь-що, що стосується України, та з любов'ю до неї.\n\nПравила:\n1. Спілкування українською мовою.\n2. Без запрошень чи лінків у інші спільноти.\n3. Боти, що генерують більше двох повідомлень на день, заборонені.\n\nFediverse: https://social.net.ua/matrix\nMobilizion: https://events.m0e.space/@patriotic_ukraine\nFacebook: https://www.facebook.com/matrix.protocol.ua\n---\nРазом ми непереможні.",
-        "num_joined_members": 1932,
+        "num_joined_members": 1938,
         "world_readable": 1,
         "guest_can_join": 1,
         "avatar_url": "mxc://matrix.org/IkLzaVciWtSqXTZCvxymxidE",
@@ -11947,6 +11947,19 @@
         "aliases": ""
     },
     {
+        "id": 998,
+        "server": "matrix.qoto.org",
+        "room_id": "!BBDmoYJiQmDMZVKhHl:matrix.org",
+        "name": "GNU/Linux Ukraine",
+        "topic": "Про GNU/Linux українською. Обговорення дистрибутивів Ubuntu, Debian, Fedora, Mint та взаємодопомога.\n---\nПравила:\n1. Спілкування українською мовою.\n2. Без запрошень чи лінків у інші спільноти.\n3. Боти, що генерують більше двох повідомлень на день, заборонені.\n\nЧастина простору \"Патріотична Україна\" (#ukraine.all:matrix.org)",
+        "num_joined_members": 942,
+        "world_readable": 1,
+        "guest_can_join": 0,
+        "avatar_url": "mxc://matrix.org/cmyYkHbPTpSPHpmkJOKmsXMD",
+        "canonical_alias": null,
+        "aliases": ""
+    },
+    {
         "id": 1006,
         "server": "matrix-federation.matrix.org",
         "room_id": "!CCRKncVOQamqtSzFBm:matrix.org",
@@ -11970,19 +11983,6 @@
         "guest_can_join": 1,
         "avatar_url": "mxc://gnome.org/5bb55456971033d987b1eccf7cde5b6e4641287c",
         "canonical_alias": "#design:gnome.org",
-        "aliases": ""
-    },
-    {
-        "id": 998,
-        "server": "matrix.qoto.org",
-        "room_id": "!BBDmoYJiQmDMZVKhHl:matrix.org",
-        "name": "GNU/Linux Ukraine",
-        "topic": "Про GNU/Linux українською. Обговорення дистрибутивів Ubuntu, Debian, Fedora, Mint та взаємодопомога.\n---\nПравила:\n1. Спілкування українською мовою.\n2. Без запрошень чи лінків у інші спільноти.\n3. Боти, що генерують більше двох повідомлень на день, заборонені.\n\nЧастина простору \"Патріотична Україна\" (#ukraine.all:matrix.org)",
-        "num_joined_members": 941,
-        "world_readable": 1,
-        "guest_can_join": 0,
-        "avatar_url": "mxc://matrix.org/cmyYkHbPTpSPHpmkJOKmsXMD",
-        "canonical_alias": null,
         "aliases": ""
     },
     {
@@ -12038,6 +12038,19 @@
         "aliases": ""
     },
     {
+        "id": 968,
+        "server": "matrix.qoto.org",
+        "room_id": "!ztWIgJKJYzEwBnzgPW:matrix.org",
+        "name": "Все про Україну | Everything related to Ukraine",
+        "topic": "Будь-що, що стосується України, та з любов'ю до неї.\n\nПравила:\n1. Спілкування українською мовою.\n2. Без запрошень чи лінків у інші спільноти.\n3. Боти, що генерують більше двох повідомлень на день, заборонені.\n---\nЧастина простору \"Патріотична Україна\" (#ukraine.all:matrix.org)",
+        "num_joined_members": 937,
+        "world_readable": 1,
+        "guest_can_join": 1,
+        "avatar_url": "mxc://matrix.org/oZcwZAiGKCSGxwjOgWfZsblz",
+        "canonical_alias": "#ukraine-chat:matrix.org",
+        "aliases": ""
+    },
+    {
         "id": 846,
         "server": "matrix-federation.matrix.org",
         "room_id": "!KAxaCxBRPmNOLoVCyT:matrix.org",
@@ -12087,19 +12100,6 @@
         "guest_can_join": 0,
         "avatar_url": "mxc://matrix.org/sLJIxxszgGNBGmVgVkfXgsCT",
         "canonical_alias": "#lite-xl-plugin-showcase:matrix.org",
-        "aliases": ""
-    },
-    {
-        "id": 968,
-        "server": "matrix.qoto.org",
-        "room_id": "!ztWIgJKJYzEwBnzgPW:matrix.org",
-        "name": "Все про Україну | Everything related to Ukraine",
-        "topic": "Будь-що, що стосується України, та з любов'ю до неї.\n\nПравила:\n1. Спілкування українською мовою.\n2. Без запрошень чи лінків у інші спільноти.\n3. Боти, що генерують більше двох повідомлень на день, заборонені.\n---\nЧастина простору \"Патріотична Україна\" (#ukraine.all:matrix.org)",
-        "num_joined_members": 934,
-        "world_readable": 1,
-        "guest_can_join": 1,
-        "avatar_url": "mxc://matrix.org/oZcwZAiGKCSGxwjOgWfZsblz",
-        "canonical_alias": "#ukraine-chat:matrix.org",
         "aliases": ""
     },
     {
@@ -13247,6 +13247,19 @@
         "aliases": ""
     },
     {
+        "id": 1101,
+        "server": "matrix.qoto.org",
+        "room_id": "!QFgiqoAkggMqmfsyEc:matrix.org",
+        "name": "Вільне ПЗ Україна",
+        "topic": "Обговорення вільного програмного забезпечення (FOSS/FLOSS — free/libre/open source software).\n\nПравила:\n1. Спілкування українською мовою.\n2. Спілкування у ввічливій формі, без образ, розпалювання ворожнечі, та порушення законів України в цілому.\n3. Без запрошень чи лінків у інші спільноти.\n4. Боти, що генерують більше двох повідомлень на день, заборонені.\n---\nЧастина простору \"Патріотична Україна\" (#ukraine.all:matrix.org)",
+        "num_joined_members": 843,
+        "world_readable": 1,
+        "guest_can_join": 1,
+        "avatar_url": "mxc://matrix.org/clDCdBRxYfhfaAyUgEVzOren",
+        "canonical_alias": null,
+        "aliases": ""
+    },
+    {
         "id": 1167,
         "server": "matrix-federation.matrix.org",
         "room_id": "!HmaQdLcFgQGSwmHPoj:matrix.org",
@@ -13283,19 +13296,6 @@
         "guest_can_join": 0,
         "avatar_url": "mxc://thebeckmeyers.xyz/zdYHzLVgHRrInxQduzmwaejV",
         "canonical_alias": "#org-mode:matrix.org",
-        "aliases": ""
-    },
-    {
-        "id": 1101,
-        "server": "matrix.qoto.org",
-        "room_id": "!QFgiqoAkggMqmfsyEc:matrix.org",
-        "name": "Вільне ПЗ Україна",
-        "topic": "Обговорення вільного програмного забезпечення (FOSS/FLOSS — free/libre/open source software).\n\nПравила:\n1. Спілкування українською мовою.\n2. Спілкування у ввічливій формі, без образ, розпалювання ворожнечі, та порушення законів України в цілому.\n3. Без запрошень чи лінків у інші спільноти.\n4. Боти, що генерують більше двох повідомлень на день, заборонені.\n---\nЧастина простору \"Патріотична Україна\" (#ukraine.all:matrix.org)",
-        "num_joined_members": 841,
-        "world_readable": 1,
-        "guest_can_join": 1,
-        "avatar_url": "mxc://matrix.org/clDCdBRxYfhfaAyUgEVzOren",
-        "canonical_alias": null,
         "aliases": ""
     },
     {
@@ -14911,6 +14911,19 @@
         "aliases": ""
     },
     {
+        "id": 1305,
+        "server": "nope.chat",
+        "room_id": "!GwlrBemWtyrweWJwDU:kde.org",
+        "name": "Data Science ",
+        "topic": "Visit us:  www.quantizedai.com",
+        "num_joined_members": 739,
+        "world_readable": 0,
+        "guest_can_join": 0,
+        "avatar_url": "mxc://kde.org/7a07d429ac92cafe67d13a2827a8a305355667a1",
+        "canonical_alias": "#DataScience:mozilla.org",
+        "aliases": ""
+    },
+    {
         "id": 5059,
         "server": "glasgow.social",
         "room_id": "!WbyXiAXhtnEqgrSftB:glasgow.social",
@@ -14960,19 +14973,6 @@
         "guest_can_join": 0,
         "avatar_url": "mxc://matrix.org/SCOGqQzCDBdjiTXqozxzjbJp",
         "canonical_alias": "#hopelabs:matrix.org",
-        "aliases": ""
-    },
-    {
-        "id": 1305,
-        "server": "nope.chat",
-        "room_id": "!GwlrBemWtyrweWJwDU:kde.org",
-        "name": "Data Science ",
-        "topic": "Visit us:  www.quantizedai.com",
-        "num_joined_members": 736,
-        "world_readable": 0,
-        "guest_can_join": 0,
-        "avatar_url": "mxc://kde.org/7a07d429ac92cafe67d13a2827a8a305355667a1",
-        "canonical_alias": "#DataScience:mozilla.org",
         "aliases": ""
     },
     {
@@ -15743,6 +15743,19 @@
         "aliases": ""
     },
     {
+        "id": 1186,
+        "server": "matrix.qoto.org",
+        "room_id": "!EqIuVSnnnhvurAXaxw:matrix.org",
+        "name": "Українські новини RSS",
+        "topic": "Джерела:                                                \n- [Громадське](https://hromadske.ua)\n- [Українська правда](https://www.pravda.com.ua)\n- [Укрінформ](https://www.ukrinform.ua)\n- [ZN](https://zn.ua/)\n- [Бабель](https://babel.ua/)\n- [НВ](https://nv.ua/)\n- [Еспресо](https://espreso.tv)\n---\nОбговорення новин #ukraine.chat:matrix.org\n---\nЧастина простору \"Патріотична Україна\" (#ukraine.all:matrix.org)",
+        "num_joined_members": 690,
+        "world_readable": 1,
+        "guest_can_join": 1,
+        "avatar_url": "mxc://matrix.org/kiiUJJYUvyiAVsDEGSgSCyRM",
+        "canonical_alias": null,
+        "aliases": ""
+    },
+    {
         "id": 1100,
         "server": "matrix-federation.matrix.org",
         "room_id": "!mnLoZORXOfXSMNRQtH:matrix.org",
@@ -15753,19 +15766,6 @@
         "guest_can_join": 0,
         "avatar_url": "mxc://matrix.org/xDOVBazmFbUQZpuOZurzroru",
         "canonical_alias": "#csharp_tr:matrix.org",
-        "aliases": ""
-    },
-    {
-        "id": 1186,
-        "server": "matrix.qoto.org",
-        "room_id": "!EqIuVSnnnhvurAXaxw:matrix.org",
-        "name": "Українські новини RSS",
-        "topic": "Джерела:                                                \n- [Громадське](https://hromadske.ua)\n- [Українська правда](https://www.pravda.com.ua)\n- [Укрінформ](https://www.ukrinform.ua)\n- [ZN](https://zn.ua/)\n- [Бабель](https://babel.ua/)\n- [НВ](https://nv.ua/)\n- [Еспресо](https://espreso.tv)\n---\nОбговорення новин #ukraine.chat:matrix.org\n---\nЧастина простору \"Патріотична Україна\" (#ukraine.all:matrix.org)",
-        "num_joined_members": 688,
-        "world_readable": 1,
-        "guest_can_join": 1,
-        "avatar_url": "mxc://matrix.org/kiiUJJYUvyiAVsDEGSgSCyRM",
-        "canonical_alias": null,
         "aliases": ""
     },
     {
@@ -17667,6 +17667,19 @@
         "aliases": ""
     },
     {
+        "id": 1349,
+        "server": "riot.firechicken.net",
+        "room_id": "!LuNLwYgCLlIzoGoTBa:halogen.city",
+        "name": "?̴̧̡͚͔̫̫̪̺͙̯̦̏̿̏?̶̨̛̛͕̫̞̰̹̝̥̹̣̗͍̲̙̙̻͈̰̪͎͈̞͖̣̞̙̩̞̳̰͚̖̹̯͔̲̏͛̽́̅͌̈́̈̌̉̏͑͂̌͐̃̽͒̔̓̊̊̿̑͑̀̈́͋̈̌̊̐͌̇?̴̣̊̈́͊̏̾̐̈́̈́̏́̈̐́̎͒́̉͊̍͛̾̌̚͝͝͠",
+        "topic": "A spiritual successor to Xchan (on hiatus)",
+        "num_joined_members": 578,
+        "world_readable": 0,
+        "guest_can_join": 1,
+        "avatar_url": "mxc://matrix.spiderden.net/76b90752230c620b3a6219699cc37c2734a60828",
+        "canonical_alias": "#mxnstxr.general:spiderden.net",
+        "aliases": ""
+    },
+    {
         "id": 1253,
         "server": "matrix-federation.matrix.org",
         "room_id": "!EjrEDPHKGBNXUAgqFU:matrix.org",
@@ -17716,19 +17729,6 @@
         "guest_can_join": 0,
         "avatar_url": null,
         "canonical_alias": "#neorg-suggestions:matrix.org",
-        "aliases": ""
-    },
-    {
-        "id": 1349,
-        "server": "riot.firechicken.net",
-        "room_id": "!LuNLwYgCLlIzoGoTBa:halogen.city",
-        "name": "?̴̧̡͚͔̫̫̪̺͙̯̦̏̿̏?̶̨̛̛͕̫̞̰̹̝̥̹̣̗͍̲̙̙̻͈̰̪͎͈̞͖̣̞̙̩̞̳̰͚̖̹̯͔̲̏͛̽́̅͌̈́̈̌̉̏͑͂̌͐̃̽͒̔̓̊̊̿̑͑̀̈́͋̈̌̊̐͌̇?̴̣̊̈́͊̏̾̐̈́̈́̏́̈̐́̎͒́̉͊̍͛̾̌̚͝͝͠",
-        "topic": "A spiritual successor to Xchan (on hiatus)",
-        "num_joined_members": 577,
-        "world_readable": 0,
-        "guest_can_join": 1,
-        "avatar_url": "mxc://matrix.spiderden.net/76b90752230c620b3a6219699cc37c2734a60828",
-        "canonical_alias": "#mxnstxr.general:spiderden.net",
         "aliases": ""
     },
     {
@@ -17979,6 +17979,19 @@
         "aliases": ""
     },
     {
+        "id": 2255,
+        "server": "matrix.qoto.org",
+        "room_id": "!dwRWFkoTeNsTYuFFcZ:matrix.kherson.dcomm.net.ua",
+        "name": "Цифрова безпека для України",
+        "topic": "Додатковий інструмент – Гаряча лінія з цифрової безпеки https://nadiyno.org/ – працюють оператори, які відповідають на запити - впродовж робочого тижня з 8:00 до 22:00\n\nЕксперти допоможуть розібратися з ризиками в цифровому просторі, нададуть акттуальні поради та інструменти щодо захисту пристроїв, безпечної комунікації під час окупації й не тільки.\n\nТакож ви можете залишати свої питання в чаті, як тільки експерти побачать їх – дадуть відповіді. Спілкуємося українською\n",
+        "num_joined_members": 571,
+        "world_readable": 0,
+        "guest_can_join": 1,
+        "avatar_url": "mxc://matrix.kherson.dcomm.net.ua/CLTXywbDYaFfmcdWhopoHlLV",
+        "canonical_alias": "#dsec:matrix.kherson.dcomm.net.ua",
+        "aliases": ""
+    },
+    {
         "id": 1269,
         "server": "matrix-federation.matrix.org",
         "room_id": "!lISSAmBZHyuddPzABf:matrix.org",
@@ -17989,19 +18002,6 @@
         "guest_can_join": 0,
         "avatar_url": "mxc://matrix.org/GHCszapgEDXFYHDMzcIGnrVB",
         "canonical_alias": "#frsqr-live:matrix.org",
-        "aliases": ""
-    },
-    {
-        "id": 2255,
-        "server": "matrix.qoto.org",
-        "room_id": "!dwRWFkoTeNsTYuFFcZ:matrix.kherson.dcomm.net.ua",
-        "name": "Цифрова безпека для України",
-        "topic": "Додатковий інструмент – Гаряча лінія з цифрової безпеки https://nadiyno.org/ – працюють оператори, які відповідають на запити - впродовж робочого тижня з 8:00 до 22:00\n\nЕксперти допоможуть розібратися з ризиками в цифровому просторі, нададуть акттуальні поради та інструменти щодо захисту пристроїв, безпечної комунікації під час окупації й не тільки.\n\nТакож ви можете залишати свої питання в чаті, як тільки експерти побачать їх – дадуть відповіді. Спілкуємося українською\n",
-        "num_joined_members": 570,
-        "world_readable": 0,
-        "guest_can_join": 1,
-        "avatar_url": "mxc://matrix.kherson.dcomm.net.ua/CLTXywbDYaFfmcdWhopoHlLV",
-        "canonical_alias": "#dsec:matrix.kherson.dcomm.net.ua",
         "aliases": ""
     },
     {
@@ -18603,6 +18603,19 @@
         "aliases": ""
     },
     {
+        "id": 2292,
+        "server": "matrix.gemeinsam.jetzt",
+        "room_id": "!hpsvYXDsDZQBDQPYYH:gemeinsam.jetzt",
+        "name": "matrix / element",
+        "topic": "Fragen, Anregungen, Wünsche rund um matrix / element bei gemeinsam.jetzt",
+        "num_joined_members": 540,
+        "world_readable": 0,
+        "guest_can_join": 0,
+        "avatar_url": "mxc://gemeinsam.jetzt/akKUYfWhCtGpestnkSewbCmw",
+        "canonical_alias": "#matrix:gemeinsam.jetzt",
+        "aliases": ""
+    },
+    {
         "id": 2429,
         "server": "matrix.netho.tk",
         "room_id": "!ZzsFNFDJrpwfrIgwRp:matrix.netho.tk",
@@ -18785,19 +18798,6 @@
         "aliases": ""
     },
     {
-        "id": 2292,
-        "server": "matrix.gemeinsam.jetzt",
-        "room_id": "!hpsvYXDsDZQBDQPYYH:gemeinsam.jetzt",
-        "name": "matrix / element",
-        "topic": "Fragen, Anregungen, Wünsche rund um matrix / element bei gemeinsam.jetzt",
-        "num_joined_members": 533,
-        "world_readable": 0,
-        "guest_can_join": 0,
-        "avatar_url": "mxc://gemeinsam.jetzt/akKUYfWhCtGpestnkSewbCmw",
-        "canonical_alias": "#matrix:gemeinsam.jetzt",
-        "aliases": ""
-    },
-    {
         "id": 1352,
         "server": "matrix-federation.matrix.org",
         "room_id": "!aAlOMrglfwwzMfYrfy:matrix.org",
@@ -18951,6 +18951,19 @@
         "guest_can_join": 0,
         "avatar_url": null,
         "canonical_alias": null,
+        "aliases": ""
+    },
+    {
+        "id": 107670,
+        "server": "nope.chat",
+        "room_id": "!hHefamtySLIPywfyCX:nope.chat",
+        "name": "Iloveyou",
+        "topic": "",
+        "num_joined_members": 526,
+        "world_readable": 1,
+        "guest_can_join": 1,
+        "avatar_url": null,
+        "canonical_alias": "#iloveyou:nope.chat",
         "aliases": ""
     },
     {
@@ -19198,19 +19211,6 @@
         "guest_can_join": 0,
         "avatar_url": null,
         "canonical_alias": null,
-        "aliases": ""
-    },
-    {
-        "id": 107670,
-        "server": "nope.chat",
-        "room_id": "!hHefamtySLIPywfyCX:nope.chat",
-        "name": "Iloveyou",
-        "topic": "",
-        "num_joined_members": 513,
-        "world_readable": 1,
-        "guest_can_join": 1,
-        "avatar_url": null,
-        "canonical_alias": "#iloveyou:nope.chat",
         "aliases": ""
     },
     {
@@ -19552,19 +19552,6 @@
         "aliases": ""
     },
     {
-        "id": 1466,
-        "server": "riot.firechicken.net",
-        "room_id": "!XJCcugtyRwJGQDMfQU:halogen.city",
-        "name": "?̶̨̨̢̧̡̫̪̞͈̮̟̺͓̝͈̗̤̹͈̘̖̤̳̹̭͔͚̝̤̽̍̅͐͐͗̉̋̃͐̕͘͠͝?̸̣͚̯͎̪̦̠̮̞̻͖̞̰͖͇̺̼̖̤̭̱̣̦͚̹̳̱͎̠̦̘̂̈̓̅͋͝ͅ?̸̢̨̡̛͖̫͇͚͔̗̼̟͓͕͕̝̺͍͇̫̗̺̝̲̣̪͇͔̩͓͈̏̒̉̿͆̿͑͋̋̏̾̓͒͗̏͂̅͐͆͊̀͘̚̚͝͝ (Off-Topic)",
-        "topic": "Off-topic chat for memes and stuff. | Space: #mxnstxr:spiderden.net",
-        "num_joined_members": 501,
-        "world_readable": 0,
-        "guest_can_join": 1,
-        "avatar_url": "mxc://matrix.spiderden.net/76b90752230c620b3a6219699cc37c2734a60828",
-        "canonical_alias": "#offtxpic:halogen.city",
-        "aliases": ""
-    },
-    {
         "id": 1457,
         "server": "matrix-federation.matrix.org",
         "room_id": "!aUTqfGoHWfMVXpsrpb:matrix.org",
@@ -19575,6 +19562,19 @@
         "guest_can_join": 0,
         "avatar_url": "mxc://t2bot.io/ed0a92d42d2d1773dd0320ff901e0034de721b81",
         "canonical_alias": "#security:fire.ninja",
+        "aliases": ""
+    },
+    {
+        "id": 1466,
+        "server": "riot.firechicken.net",
+        "room_id": "!XJCcugtyRwJGQDMfQU:halogen.city",
+        "name": "?̶̨̨̢̧̡̫̪̞͈̮̟̺͓̝͈̗̤̹͈̘̖̤̳̹̭͔͚̝̤̽̍̅͐͐͗̉̋̃͐̕͘͠͝?̸̣͚̯͎̪̦̠̮̞̻͖̞̰͖͇̺̼̖̤̭̱̣̦͚̹̳̱͎̠̦̘̂̈̓̅͋͝ͅ?̸̢̨̡̛͖̫͇͚͔̗̼̟͓͕͕̝̺͍͇̫̗̺̝̲̣̪͇͔̩͓͈̏̒̉̿͆̿͑͋̋̏̾̓͒͗̏͂̅͐͆͊̀͘̚̚͝͝ (Off-Topic)",
+        "topic": "Off-topic chat for memes and stuff. | Space: #mxnstxr:spiderden.net",
+        "num_joined_members": 500,
+        "world_readable": 0,
+        "guest_can_join": 1,
+        "avatar_url": "mxc://matrix.spiderden.net/76b90752230c620b3a6219699cc37c2734a60828",
+        "canonical_alias": "#offtxpic:halogen.city",
         "aliases": ""
     },
     {
@@ -20306,6 +20306,19 @@
         "aliases": ""
     },
     {
+        "id": 1485,
+        "server": "matrix.qoto.org",
+        "room_id": "!BXQBJMTymIFDPttyxg:matrix.org",
+        "name": "Ukrainian news RSS",
+        "topic": "Sources:\n- Censor Net (https://censor.net/en/)\n- The New Voice of Ukraine (https://english.nv.ua/)\n- Ukrainska Pravda (https://www.pravda.com.ua/eng/)\n- Ukrinform (https://www.ukrinform.net/)\n---\nNews discussion: #united.alliance:matrix.org",
+        "num_joined_members": 468,
+        "world_readable": 1,
+        "guest_can_join": 1,
+        "avatar_url": "mxc://matrix.org/UfBZnnNyndcQTknAFpVCprnr",
+        "canonical_alias": "#ukrainian.news.rss.en:matrix.org",
+        "aliases": ""
+    },
+    {
         "id": 1465,
         "server": "matrix-federation.matrix.org",
         "room_id": "!WjeMWtEUFtTUmskBkP:matrix.org",
@@ -20319,19 +20332,6 @@
         "aliases": ""
     },
     {
-        "id": 1485,
-        "server": "matrix.qoto.org",
-        "room_id": "!BXQBJMTymIFDPttyxg:matrix.org",
-        "name": "Ukrainian news RSS",
-        "topic": "Sources:\n- Censor Net (https://censor.net/en/)\n- The New Voice of Ukraine (https://english.nv.ua/)\n- Ukrainska Pravda (https://www.pravda.com.ua/eng/)\n- Ukrinform (https://www.ukrinform.net/)\n---\nNews discussion: #united.alliance:matrix.org",
-        "num_joined_members": 467,
-        "world_readable": 1,
-        "guest_can_join": 1,
-        "avatar_url": "mxc://matrix.org/UfBZnnNyndcQTknAFpVCprnr",
-        "canonical_alias": "#ukrainian.news.rss.en:matrix.org",
-        "aliases": ""
-    },
-    {
         "id": 5062,
         "server": "glasgow.social",
         "room_id": "!pbCJeLvLtsnsCOPciD:glasgow.social",
@@ -20342,6 +20342,19 @@
         "guest_can_join": 0,
         "avatar_url": "mxc://glasgow.social/GBVRaGbovTxYOFffiFhZQAYe",
         "canonical_alias": "#gamersclub:glasgow.social",
+        "aliases": ""
+    },
+    {
+        "id": 116995,
+        "server": "nope.chat",
+        "room_id": "!70Iceu5SN0A-mrVso--BmClNVut0vG8pRZ-LTQqvtsE",
+        "name": "adminForge Chat",
+        "topic": "adminForge bietet kostenlose Dienste an.\n[Deutsch, German 🇩🇪, English 🇺🇲]\n\nUnser Ziel ist es eine freie und datensparsame Alternative zu bekannten Diensten zur Verfügung zu stellen.\n\n🤝 Unterstützen:\nhttps://adminforge.de/unterstuetzen/\n\n📢 FOSS Services:\nhttps://adminforge.de\n\n✅ Status Page:\nhttps://status.adminforge.de\n\n❓ Hilfe:\nForum: https://community.adminforge.de\nMastodon: https://kanoa.de/@adminforge\nChat: https://adminforge.de/chat/\n\nfree | no tracking | no logging | no advertising",
+        "num_joined_members": 467,
+        "world_readable": 0,
+        "guest_can_join": 1,
+        "avatar_url": "mxc://cdom.de/vbQscFbgEhVbBcRNsWypAzOV",
+        "canonical_alias": "#adminforge:cdom.de",
         "aliases": ""
     },
     {
@@ -20735,6 +20748,19 @@
         "aliases": ""
     },
     {
+        "id": 2262,
+        "server": "matrix.qoto.org",
+        "room_id": "!gpvDElRkQaRXxDbeJf:matrix.org",
+        "name": "Аніме",
+        "topic": "Правила:\n1. Спілкування українською мовою.\n2. Без запрошень чи лінків у інші спільноти.\n3. Боти, що ґенерують більше двох повідомлень на день, заборонені.\n\nЯкщо робот RSS не до смаку — додай до іґнору. \n---\nЧастина простору «Патріотична Україна»:\n#ukraine.all:matrix.org",
+        "num_joined_members": 438,
+        "world_readable": 1,
+        "guest_can_join": 1,
+        "avatar_url": "mxc://matrix.org/XefYhfgJNSuGdhPCorlFuqZe",
+        "canonical_alias": "#anime.ua:matrix.org",
+        "aliases": ""
+    },
+    {
         "id": 1498,
         "server": "matrix-federation.matrix.org",
         "room_id": "!hyiJTqrUwrTHzWYcYx:matrix.org",
@@ -20774,19 +20800,6 @@
         "aliases": ""
     },
     {
-        "id": 116995,
-        "server": "nope.chat",
-        "room_id": "!70Iceu5SN0A-mrVso--BmClNVut0vG8pRZ-LTQqvtsE",
-        "name": "adminForge Chat",
-        "topic": "adminForge bietet kostenlose Dienste an.\n[Deutsch, German 🇩🇪, English 🇺🇲]\n\nUnser Ziel ist es eine freie und datensparsame Alternative zu bekannten Diensten zur Verfügung zu stellen.\n\n🤝 Unterstützen:\nhttps://adminforge.de/unterstuetzen/\n\n📢 FOSS Services:\nhttps://adminforge.de\n\n✅ Status Page:\nhttps://status.adminforge.de\n\n❓ Hilfe:\nForum: https://community.adminforge.de\nMastodon: https://kanoa.de/@adminforge\nChat: https://adminforge.de/chat/\n\nfree | no tracking | no logging | no advertising",
-        "num_joined_members": 437,
-        "world_readable": 0,
-        "guest_can_join": 1,
-        "avatar_url": "mxc://cdom.de/vbQscFbgEhVbBcRNsWypAzOV",
-        "canonical_alias": "#adminforge:cdom.de",
-        "aliases": ""
-    },
-    {
         "id": 1504,
         "server": "matrix-federation.matrix.org",
         "room_id": "!KCSAWckpLbkGyPjBwp:matrix.org",
@@ -20797,19 +20810,6 @@
         "guest_can_join": 0,
         "avatar_url": "mxc://matrix.org/oqiQHvmacxsaKclrjeUfuIdi",
         "canonical_alias": "#DAppNode:matrix.org",
-        "aliases": ""
-    },
-    {
-        "id": 2262,
-        "server": "matrix.qoto.org",
-        "room_id": "!gpvDElRkQaRXxDbeJf:matrix.org",
-        "name": "Аніме",
-        "topic": "Правила:\n1. Спілкування українською мовою.\n2. Без запрошень чи лінків у інші спільноти.\n3. Боти, що ґенерують більше двох повідомлень на день, заборонені.\n\nЯкщо робот RSS не до смаку — додай до іґнору. \n---\nЧастина простору «Патріотична Україна»:\n#ukraine.all:matrix.org",
-        "num_joined_members": 436,
-        "world_readable": 1,
-        "guest_can_join": 1,
-        "avatar_url": "mxc://matrix.org/XefYhfgJNSuGdhPCorlFuqZe",
-        "canonical_alias": "#anime.ua:matrix.org",
         "aliases": ""
     },
     {
@@ -21099,6 +21099,19 @@
         "aliases": ""
     },
     {
+        "id": 2263,
+        "server": "matrix.qoto.org",
+        "room_id": "!vIHfWZlkjPOuWSNiGT:matrix.org",
+        "name": "Tiling WM: Майстерня мозаїчних вікон [міст]",
+        "topic": "Група для обговорення побудови та налаштування власних графічних оточень, зібраних з самостійних утіліт навколо мозаїчного керівника вікон.\n\nПравила чату\n- для спілкування дозволена лише українська мова.\n- реклама заборонена, включаючи рекламу інших чатів лінуксової тематики\n- флуд під м'якою забороною, тобто дозволена його невелика кількість на тему лінуксу.\n- заборонено цькування, принизливі повідомлення. Ми тут зібралися допомогати один одному.\n- заборонені дістросрачі.\n\nTL;DR: будьте дорослими людьми та поважайте один одного.\n---\nЧастина простору \"Патріотична Україна\" (#ukraine.all:matrix.org)\n---\ni3, i3wm, i3-gaps, dwm, bspwm, Sway, herbstluftwm, Ion, Larswm, LeftWM, Qtile, Ratpoison, StumpWM, wmii, xmonad ",
+        "num_joined_members": 417,
+        "world_readable": 0,
+        "guest_can_join": 1,
+        "avatar_url": "mxc://matrix.org/heyLXgZWfPXSAWLLMnLgxfGQ",
+        "canonical_alias": "#twmua:matrix.org",
+        "aliases": ""
+    },
+    {
         "id": 1521,
         "server": "matrix-federation.matrix.org",
         "room_id": "!EHpcRyNJdgGtwsEwtl:matrix.org",
@@ -21109,19 +21122,6 @@
         "guest_can_join": 0,
         "avatar_url": "mxc://matrix.org/IIKlocKJGhJyXgqSstVDUwOv",
         "canonical_alias": "#scala-cli:matrix.org",
-        "aliases": ""
-    },
-    {
-        "id": 2263,
-        "server": "matrix.qoto.org",
-        "room_id": "!vIHfWZlkjPOuWSNiGT:matrix.org",
-        "name": "Tiling WM: Майстерня мозаїчних вікон [міст]",
-        "topic": "Група для обговорення побудови та налаштування власних графічних оточень, зібраних з самостійних утіліт навколо мозаїчного керівника вікон.\n\nПравила чату\n- для спілкування дозволена лише українська мова.\n- реклама заборонена, включаючи рекламу інших чатів лінуксової тематики\n- флуд під м'якою забороною, тобто дозволена його невелика кількість на тему лінуксу.\n- заборонено цькування, принизливі повідомлення. Ми тут зібралися допомогати один одному.\n- заборонені дістросрачі.\n\nTL;DR: будьте дорослими людьми та поважайте один одного.\n---\nЧастина простору \"Патріотична Україна\" (#ukraine.all:matrix.org)\n---\ni3, i3wm, i3-gaps, dwm, bspwm, Sway, herbstluftwm, Ion, Larswm, LeftWM, Qtile, Ratpoison, StumpWM, wmii, xmonad ",
-        "num_joined_members": 416,
-        "world_readable": 0,
-        "guest_can_join": 1,
-        "avatar_url": "mxc://matrix.org/heyLXgZWfPXSAWLLMnLgxfGQ",
-        "canonical_alias": "#twmua:matrix.org",
         "aliases": ""
     },
     {
@@ -21437,6 +21437,19 @@
         "aliases": ""
     },
     {
+        "id": 90350,
+        "server": "nope.chat",
+        "room_id": "!HsLslizyEsUzbstdUO:foxcyb.org",
+        "name": "Former Forum Fimbriarum [Serious Slow]",
+        "topic": "Forum Fimbriarum [Serious Slow] moved to a new room: https://matrix.to/#/#d&p:she.diedavirg.in",
+        "num_joined_members": 399,
+        "world_readable": 1,
+        "guest_can_join": 0,
+        "avatar_url": "mxc://she.diedavirg.in/FjiTrONjqpkWBDkOSAodqQDG",
+        "canonical_alias": "#forumfimbriarum-ss:she.diedavirg.in",
+        "aliases": ""
+    },
+    {
         "id": 5061,
         "server": "glasgow.social",
         "room_id": "!uVhYeryxRiaOwTlATT:glasgow.social",
@@ -21499,19 +21512,6 @@
         "guest_can_join": 0,
         "avatar_url": "mxc://matrix.org/NlLNbZtiUdrkQImWlfufMeSx",
         "canonical_alias": "#linux-enthusiasts-group-hardware:matrix.org",
-        "aliases": ""
-    },
-    {
-        "id": 90350,
-        "server": "nope.chat",
-        "room_id": "!HsLslizyEsUzbstdUO:foxcyb.org",
-        "name": "Former Forum Fimbriarum [Serious Slow]",
-        "topic": "Forum Fimbriarum [Serious Slow] moved to a new room: https://matrix.to/#/#d&p:she.diedavirg.in",
-        "num_joined_members": 396,
-        "world_readable": 1,
-        "guest_can_join": 0,
-        "avatar_url": "mxc://she.diedavirg.in/FjiTrONjqpkWBDkOSAodqQDG",
-        "canonical_alias": "#forumfimbriarum-ss:she.diedavirg.in",
         "aliases": ""
     },
     {
@@ -22035,6 +22035,19 @@
         "aliases": ""
     },
     {
+        "id": 2260,
+        "server": "matrix.qoto.org",
+        "room_id": "!cJdElzanFnHAHeuTPV:matrix.org",
+        "name": "✙ C/C++ ✙",
+        "topic": "Правила:\n1. Спілкування українською мовою.\n2. Без запрошень чи лінків у інші спільноти.\n3. Боти, що генерують більше двох повідомлень на день, заборонені.\n\nЧастина простору \"Патріотична Україна\" (#ukraine.all:matrix.org)",
+        "num_joined_members": 327,
+        "world_readable": 1,
+        "guest_can_join": 0,
+        "avatar_url": "mxc://matrix.org/CFMomlyMhIKUgDzTiGktqvjB",
+        "canonical_alias": "#cppua:matrix.org",
+        "aliases": ""
+    },
+    {
         "id": 17022,
         "server": "matrix-federation.matrix.org",
         "room_id": "!yvensWmcBhQPayGKwj:mozilla.org",
@@ -22045,19 +22058,6 @@
         "guest_can_join": 1,
         "avatar_url": "mxc://nichi.co/ztJJtBdsDIvrVqfCidPyOcTp",
         "canonical_alias": "#vimzh:mozilla.org",
-        "aliases": ""
-    },
-    {
-        "id": 2260,
-        "server": "matrix.qoto.org",
-        "room_id": "!cJdElzanFnHAHeuTPV:matrix.org",
-        "name": "✙ C/C++ ✙",
-        "topic": "Правила:\n1. Спілкування українською мовою.\n2. Без запрошень чи лінків у інші спільноти.\n3. Боти, що генерують більше двох повідомлень на день, заборонені.\n\nЧастина простору \"Патріотична Україна\" (#ukraine.all:matrix.org)",
-        "num_joined_members": 325,
-        "world_readable": 1,
-        "guest_can_join": 0,
-        "avatar_url": "mxc://matrix.org/CFMomlyMhIKUgDzTiGktqvjB",
-        "canonical_alias": "#cppua:matrix.org",
         "aliases": ""
     },
     {
@@ -22230,6 +22230,19 @@
         "aliases": ""
     },
     {
+        "id": 2261,
+        "server": "matrix.qoto.org",
+        "room_id": "!wHpjZcmfBPJdcPnPbZ:matrix.org",
+        "name": "Cataclysm DDA",
+        "topic": "Cataclysm: Dark Days Ahead\n\nПравила:\n1. Спілкування українською мовою.\n2. Без запрошень чи лінків у інші спільноти.\n3. Боти, що генерують більше двох повідомлень на день, заборонені.\n---\nЧастина простору \"Патріотична Україна\" (#ukraine.all:matrix.org)",
+        "num_joined_members": 304,
+        "world_readable": 1,
+        "guest_can_join": 1,
+        "avatar_url": "mxc://matrix.org/mruMFZJdwqZcvpptgqypKTLI",
+        "canonical_alias": "#cataclysmdda:matrix.org",
+        "aliases": ""
+    },
+    {
         "id": 1580,
         "server": "matrix-federation.matrix.org",
         "room_id": "!khkMfqBCSLshgizbEz:matrix.org",
@@ -22256,6 +22269,19 @@
         "aliases": ""
     },
     {
+        "id": 2259,
+        "server": "matrix.qoto.org",
+        "room_id": "!nTgwKjqSJkvxEUvMGb:matrix.org",
+        "name": "Wikipedia Ukraine",
+        "topic": "Спільний переклад і редагування української Wikipedia.\n\nПравила:\n1. Спілкування українською мовою.\n2. Без запрошень чи лінків у інші спільноти.\n3. Боти, що генерують більше двох повідомлень на день, заборонені.\n---\nЧастина простору \"Патріотична Україна\" (#ukraine.all:matrix.org)",
+        "num_joined_members": 302,
+        "world_readable": 1,
+        "guest_can_join": 0,
+        "avatar_url": "mxc://matrix.org/cqWdQwEspqHHklWBmNWXOgJv",
+        "canonical_alias": "#uk_wikipedia_matrix:matrix.org",
+        "aliases": ""
+    },
+    {
         "id": 2532,
         "server": "matrix.grin.hu",
         "room_id": "!TSAwqnlJCpvNeBzlem:matrix.cocamserverguild.com",
@@ -22266,32 +22292,6 @@
         "guest_can_join": 1,
         "avatar_url": null,
         "canonical_alias": "#General:cutefunny.art",
-        "aliases": ""
-    },
-    {
-        "id": 2259,
-        "server": "matrix.qoto.org",
-        "room_id": "!nTgwKjqSJkvxEUvMGb:matrix.org",
-        "name": "Wikipedia Ukraine",
-        "topic": "Спільний переклад і редагування української Wikipedia.\n\nПравила:\n1. Спілкування українською мовою.\n2. Без запрошень чи лінків у інші спільноти.\n3. Боти, що генерують більше двох повідомлень на день, заборонені.\n---\nЧастина простору \"Патріотична Україна\" (#ukraine.all:matrix.org)",
-        "num_joined_members": 301,
-        "world_readable": 1,
-        "guest_can_join": 0,
-        "avatar_url": "mxc://matrix.org/cqWdQwEspqHHklWBmNWXOgJv",
-        "canonical_alias": "#uk_wikipedia_matrix:matrix.org",
-        "aliases": ""
-    },
-    {
-        "id": 2261,
-        "server": "matrix.qoto.org",
-        "room_id": "!wHpjZcmfBPJdcPnPbZ:matrix.org",
-        "name": "Cataclysm DDA",
-        "topic": "Cataclysm: Dark Days Ahead\n\nПравила:\n1. Спілкування українською мовою.\n2. Без запрошень чи лінків у інші спільноти.\n3. Боти, що генерують більше двох повідомлень на день, заборонені.\n---\nЧастина простору \"Патріотична Україна\" (#ukraine.all:matrix.org)",
-        "num_joined_members": 301,
-        "world_readable": 1,
-        "guest_can_join": 1,
-        "avatar_url": "mxc://matrix.org/mruMFZJdwqZcvpptgqypKTLI",
-        "canonical_alias": "#cataclysmdda:matrix.org",
         "aliases": ""
     },
     {
@@ -22477,6 +22477,19 @@
         "aliases": ""
     },
     {
+        "id": 108187,
+        "server": "nope.chat",
+        "room_id": "!ggFXGxCeTrfjesirkp:nope.chat",
+        "name": "Images",
+        "topic": null,
+        "num_joined_members": 275,
+        "world_readable": 1,
+        "guest_can_join": 0,
+        "avatar_url": "mxc://nope.chat/wTLLgSUhXFVCaLzHJGeOOrXI",
+        "canonical_alias": "#imgs:nope.chat",
+        "aliases": ""
+    },
+    {
         "id": 1612,
         "server": "matrix-federation.matrix.org",
         "room_id": "!ALYDSJqqSZQgnzVtAB:matrix.org",
@@ -22542,19 +22555,6 @@
         "aliases": ""
     },
     {
-        "id": 108187,
-        "server": "nope.chat",
-        "room_id": "!ggFXGxCeTrfjesirkp:nope.chat",
-        "name": "Images",
-        "topic": null,
-        "num_joined_members": 265,
-        "world_readable": 1,
-        "guest_can_join": 0,
-        "avatar_url": "mxc://nope.chat/wTLLgSUhXFVCaLzHJGeOOrXI",
-        "canonical_alias": "#imgs:nope.chat",
-        "aliases": ""
-    },
-    {
         "id": 5065,
         "server": "glasgow.social",
         "room_id": "!ApzzRrcNmgmKcfQZDn:glasgow.social",
@@ -22607,6 +22607,19 @@
         "aliases": ""
     },
     {
+        "id": 2551,
+        "server": "nope.chat",
+        "room_id": "!HguaigiBxCQrHijJeE:nope.chat",
+        "name": "#wrongthink:foxcyb.org",
+        "topic": "",
+        "num_joined_members": 260,
+        "world_readable": 1,
+        "guest_can_join": 1,
+        "avatar_url": null,
+        "canonical_alias": "#wrongthinkfoxcyborg:nope.chat",
+        "aliases": ""
+    },
+    {
         "id": 1599,
         "server": "matrix-federation.matrix.org",
         "room_id": "!SQHnUQbZjMYkxklQmk:matrix.org",
@@ -22643,19 +22656,6 @@
         "guest_can_join": 1,
         "avatar_url": "mxc://janian.de/xXCPQIxgcsOTpaAxIHJJGZaN",
         "canonical_alias": "#fluffychat:matrix.org",
-        "aliases": ""
-    },
-    {
-        "id": 2551,
-        "server": "nope.chat",
-        "room_id": "!HguaigiBxCQrHijJeE:nope.chat",
-        "name": "#wrongthink:foxcyb.org",
-        "topic": "",
-        "num_joined_members": 253,
-        "world_readable": 1,
-        "guest_can_join": 1,
-        "avatar_url": null,
-        "canonical_alias": "#wrongthinkfoxcyborg:nope.chat",
         "aliases": ""
     },
     {
@@ -22776,6 +22776,19 @@
         "aliases": ""
     },
     {
+        "id": 2293,
+        "server": "matrix.gemeinsam.jetzt",
+        "room_id": "!BaXVucgDTZWOFrZrcV:gemeinsam.jetzt",
+        "name": "Håck-mas-Castle General",
+        "topic": "27.08.-30.08.2026 - Ottenschlag\nAnreisetag: 26.08.2026",
+        "num_joined_members": 245,
+        "world_readable": 0,
+        "guest_can_join": 0,
+        "avatar_url": "mxc://tchncs.de/2fc1fdf1bd06274597cc85123170c09e311c168d2027798221362823168",
+        "canonical_alias": "#hackmas:gemeinsam.jetzt",
+        "aliases": ""
+    },
+    {
         "id": 1614,
         "server": "matrix-federation.matrix.org",
         "room_id": "!bkddhlNVssebaiuyuj:matrix.org",
@@ -22802,25 +22815,12 @@
         "aliases": ""
     },
     {
-        "id": 2293,
-        "server": "matrix.gemeinsam.jetzt",
-        "room_id": "!BaXVucgDTZWOFrZrcV:gemeinsam.jetzt",
-        "name": "Håck-mas-Castle General",
-        "topic": "27.08.-30.08.2026 - Ottenschlag\nAnreisetag: 26.08.2026",
-        "num_joined_members": 244,
-        "world_readable": 0,
-        "guest_can_join": 0,
-        "avatar_url": "mxc://tchncs.de/2fc1fdf1bd06274597cc85123170c09e311c168d2027798221362823168",
-        "canonical_alias": "#hackmas:gemeinsam.jetzt",
-        "aliases": ""
-    },
-    {
         "id": 90351,
         "server": "nope.chat",
         "room_id": "!hLAGvOJEzAUkNazEWR:foxcyb.org",
         "name": "Former Forum Fimbriarum [Fun Fast]",
         "topic": "Forum Fimbriarum [Fun Fast] moved to a new room: https://matrix.to/#/#d&p:she.diedavirg.in",
-        "num_joined_members": 242,
+        "num_joined_members": 244,
         "world_readable": 1,
         "guest_can_join": 0,
         "avatar_url": "mxc://she.diedavirg.in/lTqOGRSvXJtoEStRuHAUoleR",
@@ -22838,6 +22838,19 @@
         "guest_can_join": 1,
         "avatar_url": null,
         "canonical_alias": "#dnd:glasgow.social",
+        "aliases": ""
+    },
+    {
+        "id": 2535,
+        "server": "nope.chat",
+        "room_id": "!vBmxnGttylrpmOVWCT:matrix.org",
+        "name": "AffGate",
+        "topic": "https://affgate.top/landing/aff/ Earn money with our top affiliate programs for webmasters and influencers you get 50% revenue from each sale that your affiliate link gets. You can withdraw the money to any bitcoin wallet, the payouts are processed weekly. Join AffGate and start making serious money with marketing, we partner with high converting vendors that guarantee success for any good affiliate. https://kz6.ru/?9 simply create an account and put your bitcoin address in the affiliate panel and you can start publishing your affiliate links. We don't require any information to register an account affiliates can remain fully anonymous with AffGate, we take your privacy seriously.",
+        "num_joined_members": 240,
+        "world_readable": 1,
+        "guest_can_join": 0,
+        "avatar_url": "mxc://matrix.org/JxbxIKryCOiCIZTKlwHCXsiM",
+        "canonical_alias": "#newaffgate:matrix.org",
         "aliases": ""
     },
     {
@@ -22932,19 +22945,6 @@
         "aliases": ""
     },
     {
-        "id": 2535,
-        "server": "nope.chat",
-        "room_id": "!vBmxnGttylrpmOVWCT:matrix.org",
-        "name": "AffGate",
-        "topic": "https://affgate.top/landing/aff/ Earn money with our top affiliate programs for webmasters and influencers you get 50% revenue from each sale that your affiliate link gets. You can withdraw the money to any bitcoin wallet, the payouts are processed weekly. Join AffGate and start making serious money with marketing, we partner with high converting vendors that guarantee success for any good affiliate. https://kz6.ru/?9 simply create an account and put your bitcoin address in the affiliate panel and you can start publishing your affiliate links. We don't require any information to register an account affiliates can remain fully anonymous with AffGate, we take your privacy seriously.",
-        "num_joined_members": 230,
-        "world_readable": 1,
-        "guest_can_join": 0,
-        "avatar_url": "mxc://matrix.org/JxbxIKryCOiCIZTKlwHCXsiM",
-        "canonical_alias": "#newaffgate:matrix.org",
-        "aliases": ""
-    },
-    {
         "id": 1713,
         "server": "matrix-federation.matrix.org",
         "room_id": "!JctdCzmXTHpwiPZOMk:matrix.org",
@@ -22955,6 +22955,19 @@
         "guest_can_join": 0,
         "avatar_url": null,
         "canonical_alias": null,
+        "aliases": ""
+    },
+    {
+        "id": 2461,
+        "server": "riot.firechicken.net",
+        "room_id": "!eEsntROzxGsODSekET:matrix.org",
+        "name": "0 A.D. Central",
+        "topic": "A place to discuss 0 A.D., the Open Source RTS game developed by Wildfire Games. https://play0ad.com/\nShort-Address: #0ad-unofficial:matrix.org,  matrix.to/#/#0ad-unofficial:matrix.org\nThis group was just created spontaneously by fans.\n\nTags: 0ad 0-ad",
+        "num_joined_members": 229,
+        "world_readable": 0,
+        "guest_can_join": 1,
+        "avatar_url": "mxc://matrix.org/vpiAUmNhXnGYknGlWldsLVCY",
+        "canonical_alias": "#0ad-unofficial:matrix.org",
         "aliases": ""
     },
     {
@@ -22984,16 +22997,16 @@
         "aliases": ""
     },
     {
-        "id": 2461,
+        "id": 1759,
         "server": "riot.firechicken.net",
-        "room_id": "!eEsntROzxGsODSekET:matrix.org",
-        "name": "0 A.D. Central",
-        "topic": "A place to discuss 0 A.D., the Open Source RTS game developed by Wildfire Games. https://play0ad.com/\nShort-Address: #0ad-unofficial:matrix.org,  matrix.to/#/#0ad-unofficial:matrix.org\nThis group was just created spontaneously by fans.\n\nTags: 0ad 0-ad",
+        "room_id": "!hBJnAXYXfGJTVDwaRW:matrix.org",
+        "name": ".Unkno",
+        "topic": "Public home of unknown group",
         "num_joined_members": 227,
-        "world_readable": 0,
-        "guest_can_join": 1,
-        "avatar_url": "mxc://matrix.org/vpiAUmNhXnGYknGlWldsLVCY",
-        "canonical_alias": "#0ad-unofficial:matrix.org",
+        "world_readable": 1,
+        "guest_can_join": 0,
+        "avatar_url": "mxc://matrix.org/RGYZuGhAeuBXpiQGFWAvPcwN",
+        "canonical_alias": "#.unkno:matrix.org",
         "aliases": ""
     },
     {
@@ -23023,6 +23036,19 @@
         "aliases": ""
     },
     {
+        "id": 2507,
+        "server": "matrix.qoto.org",
+        "room_id": "!zwGUPyuxczaAYIIDMZ:matrix.opulus.space",
+        "name": "Залізяки",
+        "topic": "Кімната для залізячників, все що пов'язано з компонентами вашого ПК тощо.\n\nПравила:\n1. Спілкування українською мовою.\n2. Без запрошень чи лінків у інші спільноти.\n3. Боти, що генерують більше двох повідомлень на день, заборонені.\n---\nЧастина простору \"Патріотична Україна\" (#ukraine.all:matrix.org)",
+        "num_joined_members": 226,
+        "world_readable": 1,
+        "guest_can_join": 1,
+        "avatar_url": null,
+        "canonical_alias": null,
+        "aliases": ""
+    },
+    {
         "id": 1694,
         "server": "matrix-federation.matrix.org",
         "room_id": "!zXvMUumOlssJIVBJsZ:matrix.org",
@@ -23033,19 +23059,6 @@
         "guest_can_join": 1,
         "avatar_url": "mxc://matrix.org/IlyopbTkztkwmxIjpwxiehmU",
         "canonical_alias": "#toca-boca-:matrix.org",
-        "aliases": ""
-    },
-    {
-        "id": 2507,
-        "server": "matrix.qoto.org",
-        "room_id": "!zwGUPyuxczaAYIIDMZ:matrix.opulus.space",
-        "name": "Залізяки",
-        "topic": "Кімната для залізячників, все що пов'язано з компонентами вашого ПК тощо.\n\nПравила:\n1. Спілкування українською мовою.\n2. Без запрошень чи лінків у інші спільноти.\n3. Боти, що генерують більше двох повідомлень на день, заборонені.\n---\nЧастина простору \"Патріотична Україна\" (#ukraine.all:matrix.org)",
-        "num_joined_members": 225,
-        "world_readable": 1,
-        "guest_can_join": 1,
-        "avatar_url": null,
-        "canonical_alias": null,
         "aliases": ""
     },
     {
@@ -23072,19 +23085,6 @@
         "guest_can_join": 0,
         "avatar_url": "mxc://matrix.org/irdqwNIoFwtZGjGqZQDMPMOJ",
         "canonical_alias": "#freiegruppe:matrix.org",
-        "aliases": ""
-    },
-    {
-        "id": 1759,
-        "server": "riot.firechicken.net",
-        "room_id": "!hBJnAXYXfGJTVDwaRW:matrix.org",
-        "name": ".Unkno",
-        "topic": "Public home of unknown group",
-        "num_joined_members": 222,
-        "world_readable": 1,
-        "guest_can_join": 0,
-        "avatar_url": "mxc://matrix.org/RGYZuGhAeuBXpiQGFWAvPcwN",
-        "canonical_alias": "#.unkno:matrix.org",
         "aliases": ""
     },
     {
@@ -23179,6 +23179,19 @@
         "aliases": ""
     },
     {
+        "id": 2266,
+        "server": "matrix.qoto.org",
+        "room_id": "!eQSEzTDILHqZYTgQtB:matrix.opulus.space",
+        "name": "Django Ukraine",
+        "topic": "Про Django та Python українською.\n\nПравила:\n1. Спілкування українською мовою.\n2. Без запрошень чи лінків у інші спільноти.\n3. Боти, що генерують більше двох повідомлень на день, заборонені.\n---\nЧастина простору \"Патріотична Україна\" (#ukraine.all:matrix.org)",
+        "num_joined_members": 212,
+        "world_readable": 1,
+        "guest_can_join": 0,
+        "avatar_url": "mxc://matrix.opulus.space/PXaBxokcOdzpsedwDAszVvyj",
+        "canonical_alias": "#django_ukraine:matrix.org",
+        "aliases": ""
+    },
+    {
         "id": 2541,
         "server": "matrix.grin.hu",
         "room_id": "!QMjJABdmqAvwryzifM:matrix.cocamserverguild.com",
@@ -23215,19 +23228,6 @@
         "guest_can_join": 1,
         "avatar_url": "mxc://cypherstack.com/MsWxXltPaIyxdxrCiMlNDRVz",
         "canonical_alias": "#monero-site:monero.social",
-        "aliases": ""
-    },
-    {
-        "id": 2266,
-        "server": "matrix.qoto.org",
-        "room_id": "!eQSEzTDILHqZYTgQtB:matrix.opulus.space",
-        "name": "Django Ukraine",
-        "topic": "Про Django та Python українською.\n\nПравила:\n1. Спілкування українською мовою.\n2. Без запрошень чи лінків у інші спільноти.\n3. Боти, що генерують більше двох повідомлень на день, заборонені.\n---\nЧастина простору \"Патріотична Україна\" (#ukraine.all:matrix.org)",
-        "num_joined_members": 211,
-        "world_readable": 1,
-        "guest_can_join": 0,
-        "avatar_url": "mxc://matrix.opulus.space/PXaBxokcOdzpsedwDAszVvyj",
-        "canonical_alias": "#django_ukraine:matrix.org",
         "aliases": ""
     },
     {
@@ -23405,7 +23405,7 @@
         "room_id": "!BmZTkBlVSlhSZVoGWY:matrix.jointspecialforces.org",
         "name": "Joint Special Forces Welcome",
         "topic": "Please, take a seat and talk to a JSF community leader to discuss joining an experienced group of mil-sim enthusiasts focused on building engaging and fun multi-unit operations in Arma, DCS, and other games.",
-        "num_joined_members": 197,
+        "num_joined_members": 199,
         "world_readable": 0,
         "guest_can_join": 0,
         "avatar_url": "mxc://matrix.jointspecialforces.org/uvybtsCioeSxaNFYcYkpqMJd",
@@ -23449,6 +23449,19 @@
         "guest_can_join": 1,
         "avatar_url": "mxc://matrix.org/MrIwczveOAxdWtLeiGLjHpWf",
         "canonical_alias": "#ukrainian.language:matrix.org",
+        "aliases": ""
+    },
+    {
+        "id": 61634,
+        "server": "nope.chat",
+        "room_id": "!DtaiGnHuXHjmXPtgNn:nope.chat",
+        "name": "PontusHub Chat",
+        "topic": null,
+        "num_joined_members": 195,
+        "world_readable": 0,
+        "guest_can_join": 0,
+        "avatar_url": null,
+        "canonical_alias": "#pontus:nope.chat",
         "aliases": ""
     },
     {
@@ -23504,16 +23517,16 @@
         "aliases": ""
     },
     {
-        "id": 61634,
-        "server": "nope.chat",
-        "room_id": "!DtaiGnHuXHjmXPtgNn:nope.chat",
-        "name": "PontusHub Chat",
-        "topic": null,
+        "id": 2268,
+        "server": "matrix.qoto.org",
+        "room_id": "!RhcPtWJFdCOpsbqjST:matrix.org",
+        "name": "Спорт",
+        "topic": "Про спорт і тренування.\n\nПравила:\n1. Спілкування українською мовою.\n2. Без запрошень чи лінків у інші спільноти.\n3. Боти, що генерують більше двох повідомлень на день, заборонені.\n---\nЧастина простору \"Патріотична Україна\" (#ukraine.all:matrix.org)",
         "num_joined_members": 190,
-        "world_readable": 0,
-        "guest_can_join": 0,
-        "avatar_url": null,
-        "canonical_alias": "#pontus:nope.chat",
+        "world_readable": 1,
+        "guest_can_join": 1,
+        "avatar_url": "mxc://tomesh.net/VaLzkjMhqAINPTVnwtIdFqGl",
+        "canonical_alias": "#sport.ua:matrix.org",
         "aliases": ""
     },
     {
@@ -23543,19 +23556,6 @@
         "aliases": ""
     },
     {
-        "id": 2268,
-        "server": "matrix.qoto.org",
-        "room_id": "!RhcPtWJFdCOpsbqjST:matrix.org",
-        "name": "Спорт",
-        "topic": "Про спорт і тренування.\n\nПравила:\n1. Спілкування українською мовою.\n2. Без запрошень чи лінків у інші спільноти.\n3. Боти, що генерують більше двох повідомлень на день, заборонені.\n---\nЧастина простору \"Патріотична Україна\" (#ukraine.all:matrix.org)",
-        "num_joined_members": 188,
-        "world_readable": 1,
-        "guest_can_join": 1,
-        "avatar_url": "mxc://tomesh.net/VaLzkjMhqAINPTVnwtIdFqGl",
-        "canonical_alias": "#sport.ua:matrix.org",
-        "aliases": ""
-    },
-    {
         "id": 1652,
         "server": "matrix.grin.hu",
         "room_id": "!JZOomuOgsgjqRBMHnh:matrix.org",
@@ -23579,6 +23579,19 @@
         "guest_can_join": 1,
         "avatar_url": "mxc://matrix.org/QwwddszQSEnDkGGKpDXXZGPv",
         "canonical_alias": "#magyarul:matrix.org",
+        "aliases": ""
+    },
+    {
+        "id": 11804,
+        "server": "chat.marimoko.biz",
+        "room_id": "!oBVoYunaJhupdDGnOS:chat.marimoko.biz",
+        "name": "Server Links ",
+        "topic": "Share links and get more users",
+        "num_joined_members": 185,
+        "world_readable": 0,
+        "guest_can_join": 0,
+        "avatar_url": "mxc://chat.marimoko.biz/wobyyrAMYNpFPNXGHXwinrtd",
+        "canonical_alias": "#serverlinks:chat.marimoko.biz",
         "aliases": ""
     },
     {
@@ -23660,19 +23673,6 @@
         "aliases": ""
     },
     {
-        "id": 11804,
-        "server": "chat.marimoko.biz",
-        "room_id": "!oBVoYunaJhupdDGnOS:chat.marimoko.biz",
-        "name": "Server Links ",
-        "topic": "Share links and get more users",
-        "num_joined_members": 181,
-        "world_readable": 0,
-        "guest_can_join": 0,
-        "avatar_url": "mxc://chat.marimoko.biz/wobyyrAMYNpFPNXGHXwinrtd",
-        "canonical_alias": "#serverlinks:chat.marimoko.biz",
-        "aliases": ""
-    },
-    {
         "id": 112043,
         "server": "matrix.grin.hu",
         "room_id": "!UUFkPDtRCMYOiqDheP:grin.hu",
@@ -23725,6 +23725,32 @@
         "aliases": ""
     },
     {
+        "id": 115706,
+        "server": "nope.chat",
+        "room_id": "!LQojREiugIMQ6aOhVFR79WRucbPupA98Qgq-nk654uI",
+        "name": "Lobby",
+        "topic": "Allgemeines, Fragen und nope.chat Support.\n\nTechnical questions: #adminforge:cdom.de\nAbuse reports: #abuse:nope.chat",
+        "num_joined_members": 178,
+        "world_readable": 0,
+        "guest_can_join": 1,
+        "avatar_url": "mxc://nope.chat/WVpEhTDvSSPkBHRptDsJrbow",
+        "canonical_alias": "#lobby:nope.chat",
+        "aliases": ""
+    },
+    {
+        "id": 2294,
+        "server": "matrix.gemeinsam.jetzt",
+        "room_id": "!ueYUKCUmdMsJMRBGgP:gemeinsam.jetzt",
+        "name": "Håck-mas-Castle General Space",
+        "topic": "",
+        "num_joined_members": 177,
+        "world_readable": 1,
+        "guest_can_join": 1,
+        "avatar_url": "mxc://tchncs.de/2fc1fdf1bd06274597cc85123170c09e311c168d2027798221362823168",
+        "canonical_alias": "#hackmasspace:gemeinsam.jetzt",
+        "aliases": ""
+    },
+    {
         "id": 116756,
         "server": "matrix.grin.hu",
         "room_id": "!fxwrgRWAXJhnwLCPuh:grin.hu",
@@ -23748,19 +23774,6 @@
         "guest_can_join": 1,
         "avatar_url": "mxc://matrix.org/izfZVNGVMiqYZnocGivbFoYm",
         "canonical_alias": "#LocalMonero:matrix.org",
-        "aliases": ""
-    },
-    {
-        "id": 2294,
-        "server": "matrix.gemeinsam.jetzt",
-        "room_id": "!ueYUKCUmdMsJMRBGgP:gemeinsam.jetzt",
-        "name": "Håck-mas-Castle General Space",
-        "topic": "",
-        "num_joined_members": 176,
-        "world_readable": 1,
-        "guest_can_join": 1,
-        "avatar_url": "mxc://tchncs.de/2fc1fdf1bd06274597cc85123170c09e311c168d2027798221362823168",
-        "canonical_alias": "#hackmasspace:gemeinsam.jetzt",
         "aliases": ""
     },
     {
@@ -23842,6 +23855,19 @@
         "aliases": ""
     },
     {
+        "id": 2546,
+        "server": "nope.chat",
+        "room_id": "!iZOhcfzLBmdRRvGqOr:nope.chat",
+        "name": "witchonabike space",
+        "topic": null,
+        "num_joined_members": 172,
+        "world_readable": 1,
+        "guest_can_join": 0,
+        "avatar_url": null,
+        "canonical_alias": "#mscXXXX.@witchonabike:nope.chat",
+        "aliases": ""
+    },
+    {
         "id": 1722,
         "server": "matrix-federation.matrix.org",
         "room_id": "!fGPBofIsOlzfyybWPq:matrix.org",
@@ -23852,32 +23878,6 @@
         "guest_can_join": 1,
         "avatar_url": null,
         "canonical_alias": null,
-        "aliases": ""
-    },
-    {
-        "id": 2546,
-        "server": "nope.chat",
-        "room_id": "!iZOhcfzLBmdRRvGqOr:nope.chat",
-        "name": "witchonabike space",
-        "topic": null,
-        "num_joined_members": 171,
-        "world_readable": 1,
-        "guest_can_join": 0,
-        "avatar_url": null,
-        "canonical_alias": "#mscXXXX.@witchonabike:nope.chat",
-        "aliases": ""
-    },
-    {
-        "id": 115706,
-        "server": "nope.chat",
-        "room_id": "!LQojREiugIMQ6aOhVFR79WRucbPupA98Qgq-nk654uI",
-        "name": "Lobby",
-        "topic": "Allgemeines, Fragen und nope.chat Support.\n\nTechnical questions: #adminforge:cdom.de\nAbuse reports: #abuse:nope.chat",
-        "num_joined_members": 171,
-        "world_readable": 0,
-        "guest_can_join": 1,
-        "avatar_url": "mxc://nope.chat/WVpEhTDvSSPkBHRptDsJrbow",
-        "canonical_alias": "#lobby:nope.chat",
         "aliases": ""
     },
     {
@@ -23946,6 +23946,19 @@
         "aliases": ""
     },
     {
+        "id": 114901,
+        "server": "sabrinateenlich.win",
+        "room_id": "!XGkwHjvOXdgzAbirhm:sabrinateenlich.win",
+        "name": "🧟Sabrina Teen Lich Community",
+        "topic": "Community for general discussions! Including:\nGaming\nVideo Games\nBoard Games\nTTRPGs (Tabletop Role-playing Games)",
+        "num_joined_members": 166,
+        "world_readable": 1,
+        "guest_can_join": 1,
+        "avatar_url": "mxc://sabrinateenlich.win/bnQHreaIXqFtIjWKzTuZCQrw",
+        "canonical_alias": "#sabrina-teen-lich-community:sabrinateenlich.win",
+        "aliases": ""
+    },
+    {
         "id": 32329,
         "server": "matrix.underworld.fr",
         "room_id": "!LQltchGLDpBJJXAsoc:matrix.tetsumaki.net",
@@ -23969,19 +23982,6 @@
         "guest_can_join": 0,
         "avatar_url": "mxc://matrix.org/NJyBcenlGxwinBJipfFxXMWF",
         "canonical_alias": null,
-        "aliases": ""
-    },
-    {
-        "id": 114901,
-        "server": "sabrinateenlich.win",
-        "room_id": "!XGkwHjvOXdgzAbirhm:sabrinateenlich.win",
-        "name": "🧟Sabrina Teen Lich Community",
-        "topic": "Community for general discussions! Including:\nGaming\nVideo Games\nBoard Games\nTTRPGs (Tabletop Role-playing Games)",
-        "num_joined_members": 164,
-        "world_readable": 1,
-        "guest_can_join": 1,
-        "avatar_url": "mxc://sabrinateenlich.win/bnQHreaIXqFtIjWKzTuZCQrw",
-        "canonical_alias": "#sabrina-teen-lich-community:sabrinateenlich.win",
         "aliases": ""
     },
     {
@@ -24466,6 +24466,19 @@
         "aliases": ""
     },
     {
+        "id": 2615,
+        "server": "nope.chat",
+        "room_id": "!IxjhnWuJETAjnQrusG:nope.chat",
+        "name": "public chat",
+        "topic": "public chat für die nürnberger linksfaschisten",
+        "num_joined_members": 139,
+        "world_readable": 1,
+        "guest_can_join": 0,
+        "avatar_url": "mxc://nope.chat/POzQcNfkWDUvmGiPOCTzkjSK",
+        "canonical_alias": "#antifanbg:nope.chat",
+        "aliases": ""
+    },
+    {
         "id": 1653,
         "server": "matrix-federation.matrix.org",
         "room_id": "!HuPGNbYynYVpvaBHMa:matrix.org",
@@ -24570,6 +24583,19 @@
         "aliases": ""
     },
     {
+        "id": 32935,
+        "server": "nope.chat",
+        "room_id": "!yKnMnDJFSHvYWNadOT:nope.chat",
+        "name": "Free chat",
+        "topic": null,
+        "num_joined_members": 135,
+        "world_readable": 1,
+        "guest_can_join": 0,
+        "avatar_url": "mxc://nope.chat/WSGvPmeHehWWLCwGonAyyajB",
+        "canonical_alias": "#facahat:nope.chat",
+        "aliases": ""
+    },
+    {
         "id": 107384,
         "server": "matrix.opulus.space",
         "room_id": "!TSEueJBZjijUrQymZO:matrix.org",
@@ -24580,19 +24606,6 @@
         "guest_can_join": 0,
         "avatar_url": "mxc://appar.at/DCVopiXKNTqdmUhXGBXvPGvO",
         "canonical_alias": "#chornosemme:matrix.org",
-        "aliases": ""
-    },
-    {
-        "id": 2615,
-        "server": "nope.chat",
-        "room_id": "!IxjhnWuJETAjnQrusG:nope.chat",
-        "name": "public chat",
-        "topic": "public chat für die nürnberger linksfaschisten",
-        "num_joined_members": 134,
-        "world_readable": 1,
-        "guest_can_join": 0,
-        "avatar_url": "mxc://nope.chat/POzQcNfkWDUvmGiPOCTzkjSK",
-        "canonical_alias": "#antifanbg:nope.chat",
         "aliases": ""
     },
     {
@@ -24684,19 +24697,6 @@
         "guest_can_join": 1,
         "avatar_url": "mxc://revreso.de/dolzIJyHadybykwIGQaKmrol",
         "canonical_alias": "#pro1-lineageos:revreso.de",
-        "aliases": ""
-    },
-    {
-        "id": 32935,
-        "server": "nope.chat",
-        "room_id": "!yKnMnDJFSHvYWNadOT:nope.chat",
-        "name": "Free chat",
-        "topic": null,
-        "num_joined_members": 129,
-        "world_readable": 1,
-        "guest_can_join": 0,
-        "avatar_url": "mxc://nope.chat/WSGvPmeHehWWLCwGonAyyajB",
-        "canonical_alias": "#facahat:nope.chat",
         "aliases": ""
     },
     {
@@ -24921,6 +24921,19 @@
         "aliases": ""
     },
     {
+        "id": 114903,
+        "server": "sabrinateenlich.win",
+        "room_id": "!CfcZAPfnequWNHANgz:sabrinateenlich.win",
+        "name": "🕹️Gaming",
+        "topic": "Gaming spaces!",
+        "num_joined_members": 118,
+        "world_readable": 1,
+        "guest_can_join": 1,
+        "avatar_url": null,
+        "canonical_alias": "#gaming:sabrinateenlich.win",
+        "aliases": ""
+    },
+    {
         "id": 1697,
         "server": "matrix-federation.matrix.org",
         "room_id": "!oCiVHOEKnaNUenrPhy:matrix.org",
@@ -24973,16 +24986,16 @@
         "aliases": ""
     },
     {
-        "id": 114903,
-        "server": "sabrinateenlich.win",
-        "room_id": "!CfcZAPfnequWNHANgz:sabrinateenlich.win",
-        "name": "🕹️Gaming",
-        "topic": "Gaming spaces!",
+        "id": 113299,
+        "server": "nope.chat",
+        "room_id": "!vKvbGDbCwClPZOyehY:nope.chat",
+        "name": "Random",
+        "topic": null,
         "num_joined_members": 115,
         "world_readable": 1,
         "guest_can_join": 1,
         "avatar_url": null,
-        "canonical_alias": "#gaming:sabrinateenlich.win",
+        "canonical_alias": null,
         "aliases": ""
     },
     {
@@ -25077,6 +25090,19 @@
         "aliases": ""
     },
     {
+        "id": 2538,
+        "server": "nope.chat",
+        "room_id": "!gAGuLbMZsVtJPsoGZL:nope.chat",
+        "name": "SS14 / Чат | Space Station 14",
+        "topic": null,
+        "num_joined_members": 112,
+        "world_readable": 0,
+        "guest_can_join": 0,
+        "avatar_url": "mxc://t2bot.io/2c8ef8e6f95a5e9c4c65ec94a2467aef8f35b55c",
+        "canonical_alias": "#ss14_chat:nope.chat",
+        "aliases": ""
+    },
+    {
         "id": 1716,
         "server": "matrix-federation.matrix.org",
         "room_id": "!DjtOqdPZoxZMJpyRJK:matrix.org",
@@ -25087,32 +25113,6 @@
         "guest_can_join": 1,
         "avatar_url": "mxc://matrix.org/VbCYKhOTNJaWKPilVHLgcgFX",
         "canonical_alias": "#osmcz:matrix.org",
-        "aliases": ""
-    },
-    {
-        "id": 2538,
-        "server": "nope.chat",
-        "room_id": "!gAGuLbMZsVtJPsoGZL:nope.chat",
-        "name": "SS14 / Чат | Space Station 14",
-        "topic": null,
-        "num_joined_members": 111,
-        "world_readable": 0,
-        "guest_can_join": 0,
-        "avatar_url": "mxc://t2bot.io/2c8ef8e6f95a5e9c4c65ec94a2467aef8f35b55c",
-        "canonical_alias": "#ss14_chat:nope.chat",
-        "aliases": ""
-    },
-    {
-        "id": 113299,
-        "server": "nope.chat",
-        "room_id": "!vKvbGDbCwClPZOyehY:nope.chat",
-        "name": "Random",
-        "topic": null,
-        "num_joined_members": 110,
-        "world_readable": 1,
-        "guest_can_join": 1,
-        "avatar_url": null,
-        "canonical_alias": null,
         "aliases": ""
     },
     {
@@ -25524,7 +25524,7 @@
         "room_id": "!wgMkHUaxADIQSQDZOZ:it-syndik.at",
         "name": "IT-Syndikat",
         "topic": "Hackerspace Innsbruck",
-        "num_joined_members": 102,
+        "num_joined_members": 101,
         "world_readable": 0,
         "guest_can_join": 1,
         "avatar_url": "mxc://it-syndik.at/CGnkoEKdfXKyQvvYqopNwZpK",
@@ -25714,6 +25714,19 @@
         "aliases": ""
     },
     {
+        "id": 44176,
+        "server": "nope.chat",
+        "room_id": "!6jLBjnVvyaBKrBrJ:nekos.chat",
+        "name": "Neko's Home (old)",
+        "topic": "Welcome to Neko's Chat!\nThis is the official group for announcements and casual chat. Stay updated on server news and enjoy light-hearted discussions with fellow members. Let's keep things friendly and fun!\nIf you encounter any abuse, feel free to report it directly in this group.",
+        "num_joined_members": 96,
+        "world_readable": 0,
+        "guest_can_join": 0,
+        "avatar_url": "mxc://nope.chat/WADtDLCFZsyPhjJVEGRBMHXj",
+        "canonical_alias": "#Home:nekos.chat",
+        "aliases": ""
+    },
+    {
         "id": 1726,
         "server": "matrix-federation.matrix.org",
         "room_id": "!phYIywrfKiSPUgDIwt:matrix.org",
@@ -25737,19 +25750,6 @@
         "guest_can_join": 0,
         "avatar_url": "mxc://glasgow.social/HRcCQUCJQOefsBJwZgdWcNXh",
         "canonical_alias": "#lgbtq:glasgow.social",
-        "aliases": ""
-    },
-    {
-        "id": 44176,
-        "server": "nope.chat",
-        "room_id": "!6jLBjnVvyaBKrBrJ:nekos.chat",
-        "name": "Neko's Home (old)",
-        "topic": "Welcome to Neko's Chat!\nThis is the official group for announcements and casual chat. Stay updated on server news and enjoy light-hearted discussions with fellow members. Let's keep things friendly and fun!\nIf you encounter any abuse, feel free to report it directly in this group.",
-        "num_joined_members": 95,
-        "world_readable": 0,
-        "guest_can_join": 0,
-        "avatar_url": "mxc://nope.chat/WADtDLCFZsyPhjJVEGRBMHXj",
-        "canonical_alias": "#Home:nekos.chat",
         "aliases": ""
     },
     {
@@ -26000,6 +26000,19 @@
         "aliases": ""
     },
     {
+        "id": 118254,
+        "server": "matrix.gnulinux.club",
+        "room_id": "!4qa3oB73htZBRmq17MJwq54lLwJ3-dOAqQ4RDzcriBk",
+        "name": "pubglug",
+        "topic": "Welcome the public GNU/Linux group, or pubglug! This channel is dedicated to discussing Free Software and its surrounding culture. For the best experience possible, please turn on the labs for Threads and Video Rooms. Posts must be FLOSS oriented. The publug and GNU/Linux Club space are managed by haacksnetworking and js. Hit us up if you have any questions! ",
+        "num_joined_members": 88,
+        "world_readable": 1,
+        "guest_can_join": 1,
+        "avatar_url": "mxc://gnulinux.club/czwGPNiYbtHdbirIvrTYgXie",
+        "canonical_alias": "#pubglug:gnulinux.club",
+        "aliases": ""
+    },
+    {
         "id": 1698,
         "server": "matrix-federation.matrix.org",
         "room_id": "!ejrwOKHXOnNqFoypgN:matrix.org",
@@ -26052,6 +26065,19 @@
         "aliases": ""
     },
     {
+        "id": 115713,
+        "server": "nope.chat",
+        "room_id": "!Gu7v3Y_0bk3AKNO31fJEOStHLXiSz1pqeRLut8h068c",
+        "name": "Abuse",
+        "topic": "Abuse reports for the nope.chat server",
+        "num_joined_members": 87,
+        "world_readable": 0,
+        "guest_can_join": 1,
+        "avatar_url": "mxc://nope.chat/DhbkTUFDgtcqCTJHjvSUCHKD",
+        "canonical_alias": "#abuse:nope.chat",
+        "aliases": ""
+    },
+    {
         "id": 1692,
         "server": "matrix-federation.matrix.org",
         "room_id": "!IcnjFIlHPtpPYHSpFP:matrix.org",
@@ -26088,19 +26114,6 @@
         "guest_can_join": 1,
         "avatar_url": "mxc://matrix.org/MWYrlFaBqjOzWxyrryghWlxn",
         "canonical_alias": "#webtolove:matrix.org",
-        "aliases": ""
-    },
-    {
-        "id": 118254,
-        "server": "matrix.gnulinux.club",
-        "room_id": "!4qa3oB73htZBRmq17MJwq54lLwJ3-dOAqQ4RDzcriBk",
-        "name": "pubglug",
-        "topic": "Welcome the public GNU/Linux group, or pubglug! This channel is dedicated to discussing Free Software and its surrounding culture. For the best experience possible, please turn on the labs for Threads and Video Rooms. Posts must be FLOSS oriented. The publug and GNU/Linux Club space are managed by haacksnetworking and js. Hit us up if you have any questions! ",
-        "num_joined_members": 86,
-        "world_readable": 1,
-        "guest_can_join": 1,
-        "avatar_url": "mxc://gnulinux.club/czwGPNiYbtHdbirIvrTYgXie",
-        "canonical_alias": "#pubglug:gnulinux.club",
         "aliases": ""
     },
     {
@@ -26257,19 +26270,6 @@
         "guest_can_join": 0,
         "avatar_url": "mxc://matrix.juggler.jp/cTCCBgdNuwMtBebhTfLxTIWg",
         "canonical_alias": "#lobby:matrix.juggler.jp",
-        "aliases": ""
-    },
-    {
-        "id": 115713,
-        "server": "nope.chat",
-        "room_id": "!Gu7v3Y_0bk3AKNO31fJEOStHLXiSz1pqeRLut8h068c",
-        "name": "Abuse",
-        "topic": "Abuse reports for the nope.chat server",
-        "num_joined_members": 83,
-        "world_readable": 0,
-        "guest_can_join": 1,
-        "avatar_url": "mxc://nope.chat/DhbkTUFDgtcqCTJHjvSUCHKD",
-        "canonical_alias": "#abuse:nope.chat",
         "aliases": ""
     },
     {
@@ -26572,6 +26572,19 @@
         "aliases": ""
     },
     {
+        "id": 2644,
+        "server": "nope.chat",
+        "room_id": "!DvhsmhYqSEkkZJAowq:nope.chat",
+        "name": "Дашкин хаус ",
+        "topic": "Общение ",
+        "num_joined_members": 77,
+        "world_readable": 0,
+        "guest_can_join": 0,
+        "avatar_url": "mxc://nope.chat/nCFmhxAVQfgHFyyZhtxXfqVm",
+        "canonical_alias": "#nope.chat:nope.chat",
+        "aliases": ""
+    },
+    {
         "id": 5082,
         "server": "glasgow.social",
         "room_id": "!JOCthZUubWtdFFMXsm:glasgow.social",
@@ -26858,19 +26871,6 @@
         "aliases": ""
     },
     {
-        "id": 2644,
-        "server": "nope.chat",
-        "room_id": "!DvhsmhYqSEkkZJAowq:nope.chat",
-        "name": "Дашкин хаус ",
-        "topic": "Общение ",
-        "num_joined_members": 73,
-        "world_readable": 0,
-        "guest_can_join": 0,
-        "avatar_url": "mxc://nope.chat/nCFmhxAVQfgHFyyZhtxXfqVm",
-        "canonical_alias": "#nope.chat:nope.chat",
-        "aliases": ""
-    },
-    {
         "id": 5077,
         "server": "glasgow.social",
         "room_id": "!CqsCuiwtHJUAFnoDRL:glasgow.social",
@@ -26936,6 +26936,19 @@
         "aliases": ""
     },
     {
+        "id": 112506,
+        "server": "nope.chat",
+        "room_id": "!dOJkeZpcFCVVtUIXef:nope.chat",
+        "name": "228228228",
+        "topic": null,
+        "num_joined_members": 72,
+        "world_readable": 0,
+        "guest_can_join": 0,
+        "avatar_url": null,
+        "canonical_alias": "#228228228228:nope.chat",
+        "aliases": ""
+    },
+    {
         "id": 1743,
         "server": "matrix-federation.matrix.org",
         "room_id": "!MPnSSEmLpDGhFjEcsi:matrix.org",
@@ -26972,6 +26985,19 @@
         "guest_can_join": 1,
         "avatar_url": "mxc://matrix.org/NQyEIWyLiAiyUzJHjwkuDkoV",
         "canonical_alias": "#lolzteam:matrix.org",
+        "aliases": ""
+    },
+    {
+        "id": 2295,
+        "server": "matrix.gemeinsam.jetzt",
+        "room_id": "!KQjvvQVpMfbVDLJOVV:gemeinsam.jetzt",
+        "name": "spektral",
+        "topic": "Spektral Community",
+        "num_joined_members": 71,
+        "world_readable": 0,
+        "guest_can_join": 0,
+        "avatar_url": "mxc://gemeinsam.jetzt/OdlEQOARsmHkpmPRXtxZzhcH",
+        "canonical_alias": "#spektral:gemeinsam.jetzt",
         "aliases": ""
     },
     {
@@ -27014,16 +27040,16 @@
         "aliases": ""
     },
     {
-        "id": 112506,
+        "id": 68006,
         "server": "nope.chat",
-        "room_id": "!dOJkeZpcFCVVtUIXef:nope.chat",
-        "name": "228228228",
+        "room_id": "!qLpwFgaenvXucyHtsT:nope.chat",
+        "name": "срач имени хлнема",
         "topic": null,
         "num_joined_members": 71,
         "world_readable": 0,
         "guest_can_join": 0,
-        "avatar_url": null,
-        "canonical_alias": "#228228228228:nope.chat",
+        "avatar_url": "mxc://nope.chat/zgmAeuqnSiDzRyWdMBVeFhWt",
+        "canonical_alias": "#holinim:nope.chat",
         "aliases": ""
     },
     {
@@ -27037,6 +27063,19 @@
         "guest_can_join": 1,
         "avatar_url": "mxc://grin.hu/TzDHXqivvNsQKxtNwiNgLCyU",
         "canonical_alias": "#opengaming:grin.hu",
+        "aliases": ""
+    },
+    {
+        "id": 11801,
+        "server": "chat.marimoko.biz",
+        "room_id": "!OZMUctNHtVsWfaiQKF:chat.marimoko.biz",
+        "name": "Growing",
+        "topic": "Channel for growing. Primarily cannabis but we like all plants - no discrimination here.\nPart of the marimoko.biz space https://matrix.to/#/#marimoko.biz:chat.marimoko.biz",
+        "num_joined_members": 70,
+        "world_readable": 0,
+        "guest_can_join": 0,
+        "avatar_url": "mxc://chat.marimoko.biz/LHokjpptIRxNjmqDqDeEMiMF",
+        "canonical_alias": "#growing:chat.marimoko.biz",
         "aliases": ""
     },
     {
@@ -27105,16 +27144,16 @@
         "aliases": ""
     },
     {
-        "id": 68006,
-        "server": "nope.chat",
-        "room_id": "!qLpwFgaenvXucyHtsT:nope.chat",
-        "name": "срач имени хлнема",
-        "topic": null,
+        "id": 118347,
+        "server": "server.matrix4ulm.de",
+        "room_id": "!VnUGSVZ6B4NoV5XxHZ8jppsi2fsQ6gvWjdDw4OR326M",
+        "name": "#freiraum",
+        "topic": "Freiraum - Hackerspace Ulm e.V. / Chaos Computer Club Ulm",
         "num_joined_members": 69,
         "world_readable": 0,
-        "guest_can_join": 0,
-        "avatar_url": "mxc://nope.chat/zgmAeuqnSiDzRyWdMBVeFhWt",
-        "canonical_alias": "#holinim:nope.chat",
+        "guest_can_join": 1,
+        "avatar_url": "mxc://server.matrix4ulm.de/AVUTXVvUxOxAsYxvMyUIkRsb",
+        "canonical_alias": "#freiraum:server.matrix4ulm.de",
         "aliases": ""
     },
     {
@@ -27131,19 +27170,6 @@
         "aliases": ""
     },
     {
-        "id": 2295,
-        "server": "matrix.gemeinsam.jetzt",
-        "room_id": "!KQjvvQVpMfbVDLJOVV:gemeinsam.jetzt",
-        "name": "spektral",
-        "topic": "Spektral Community",
-        "num_joined_members": 68,
-        "world_readable": 0,
-        "guest_can_join": 0,
-        "avatar_url": "mxc://gemeinsam.jetzt/OdlEQOARsmHkpmPRXtxZzhcH",
-        "canonical_alias": "#spektral:gemeinsam.jetzt",
-        "aliases": ""
-    },
-    {
         "id": 2550,
         "server": "nope.chat",
         "room_id": "!FJjRDrQStilSXTFzFK:nakama.tv",
@@ -27154,19 +27180,6 @@
         "guest_can_join": 1,
         "avatar_url": null,
         "canonical_alias": "#media-chat:cutefunny.art",
-        "aliases": ""
-    },
-    {
-        "id": 11801,
-        "server": "chat.marimoko.biz",
-        "room_id": "!OZMUctNHtVsWfaiQKF:chat.marimoko.biz",
-        "name": "Growing",
-        "topic": "Channel for growing. Primarily cannabis but we like all plants - no discrimination here.\nPart of the marimoko.biz space https://matrix.to/#/#marimoko.biz:chat.marimoko.biz",
-        "num_joined_members": 68,
-        "world_readable": 0,
-        "guest_can_join": 0,
-        "avatar_url": "mxc://chat.marimoko.biz/LHokjpptIRxNjmqDqDeEMiMF",
-        "canonical_alias": "#growing:chat.marimoko.biz",
         "aliases": ""
     },
     {
@@ -27232,19 +27245,6 @@
         "guest_can_join": 1,
         "avatar_url": null,
         "canonical_alias": "#pedmomnew:nope.chat",
-        "aliases": ""
-    },
-    {
-        "id": 118347,
-        "server": "server.matrix4ulm.de",
-        "room_id": "!VnUGSVZ6B4NoV5XxHZ8jppsi2fsQ6gvWjdDw4OR326M",
-        "name": "#freiraum",
-        "topic": "Freiraum - Hackerspace Ulm e.V. / Chaos Computer Club Ulm",
-        "num_joined_members": 67,
-        "world_readable": 0,
-        "guest_can_join": 1,
-        "avatar_url": "mxc://server.matrix4ulm.de/AVUTXVvUxOxAsYxvMyUIkRsb",
-        "canonical_alias": "#freiraum:server.matrix4ulm.de",
         "aliases": ""
     },
     {
@@ -27349,6 +27349,19 @@
         "guest_can_join": 1,
         "avatar_url": null,
         "canonical_alias": "#dnn:matrix.org",
+        "aliases": ""
+    },
+    {
+        "id": 55286,
+        "server": "nope.chat",
+        "room_id": "!kHJWcdNQEmoWTYUSPl:nope.chat",
+        "name": "testttt",
+        "topic": null,
+        "num_joined_members": 65,
+        "world_readable": 0,
+        "guest_can_join": 0,
+        "avatar_url": null,
+        "canonical_alias": null,
         "aliases": ""
     },
     {
@@ -27505,19 +27518,6 @@
         "guest_can_join": 0,
         "avatar_url": null,
         "canonical_alias": "#gdod:glasgow.social",
-        "aliases": ""
-    },
-    {
-        "id": 55286,
-        "server": "nope.chat",
-        "room_id": "!kHJWcdNQEmoWTYUSPl:nope.chat",
-        "name": "testttt",
-        "topic": null,
-        "num_joined_members": 63,
-        "world_readable": 0,
-        "guest_can_join": 0,
-        "avatar_url": null,
-        "canonical_alias": null,
         "aliases": ""
     },
     {
@@ -28366,6 +28366,19 @@
         "aliases": ""
     },
     {
+        "id": 11802,
+        "server": "chat.marimoko.biz",
+        "room_id": "!lrQRBNZZFAetKhnPFG:chat.marimoko.biz",
+        "name": "General-Marimoko",
+        "topic": "Welcome to the Marimoko.biz #General channel. \nThese rooms are encrypted for security so when you join, you will not see any history and the chat will look dead.\nSay hello!",
+        "num_joined_members": 53,
+        "world_readable": 0,
+        "guest_can_join": 0,
+        "avatar_url": "mxc://chat.marimoko.biz/sFbuntpbhyswBFZQPhFTvibf",
+        "canonical_alias": "#genpop:chat.marimoko.biz",
+        "aliases": ""
+    },
+    {
         "id": 49980,
         "server": "matrix.juggler.jp",
         "room_id": "!lCRtUvzgxwUPipoMhu:matrix.juggler.jp",
@@ -28600,19 +28613,6 @@
         "aliases": ""
     },
     {
-        "id": 11802,
-        "server": "chat.marimoko.biz",
-        "room_id": "!lrQRBNZZFAetKhnPFG:chat.marimoko.biz",
-        "name": "General-Marimoko",
-        "topic": "Welcome to the Marimoko.biz #General channel. \nThese rooms are encrypted for security so when you join, you will not see any history and the chat will look dead.\nSay hello!",
-        "num_joined_members": 51,
-        "world_readable": 0,
-        "guest_can_join": 0,
-        "avatar_url": "mxc://chat.marimoko.biz/sFbuntpbhyswBFZQPhFTvibf",
-        "canonical_alias": "#genpop:chat.marimoko.biz",
-        "aliases": ""
-    },
-    {
         "id": 107395,
         "server": "matrix.opulus.space",
         "room_id": "!avcDsrxsbspRRggCda:matrix.org",
@@ -28623,6 +28623,19 @@
         "guest_can_join": 1,
         "avatar_url": "mxc://bridge.matrix.co.ua/ondAilxeIziRvNVunrAFJEMG",
         "canonical_alias": "#kpszsu:matrix.org",
+        "aliases": ""
+    },
+    {
+        "id": 128419,
+        "server": "sabrinateenlich.win",
+        "room_id": "!86ynRKknFApZQwZ7BhJnxFC1HcTrdOURxQ9ABL-fZyo",
+        "name": "👥🎮Video Games General",
+        "topic": "Talk about video games!",
+        "num_joined_members": 51,
+        "world_readable": 1,
+        "guest_can_join": 1,
+        "avatar_url": "mxc://sabrinateenlich.win/qioAxTRTkURcRbjAzvCZoPHu",
+        "canonical_alias": "#videogamesgeneral-sltc:sabrinateenlich.win",
         "aliases": ""
     },
     {
@@ -28704,6 +28717,19 @@
         "aliases": ""
     },
     {
+        "id": 2607,
+        "server": "nope.chat",
+        "room_id": "!FzEkfuTguOTkXyNaVU:nope.chat",
+        "name": "Element Updates",
+        "topic": "Erhalte Updates zu Element Desktop und Mobile",
+        "num_joined_members": 50,
+        "world_readable": 0,
+        "guest_can_join": 0,
+        "avatar_url": "mxc://nope.chat/KoKLzftHXRtaEDiOWldMwHql",
+        "canonical_alias": "#element-updates:nope.chat",
+        "aliases": ""
+    },
+    {
         "id": 26482,
         "server": "matrix.unloze.com",
         "room_id": "!KbuTKaFzJmLWTLeCUJ:matrix.unloze.com",
@@ -28714,6 +28740,32 @@
         "guest_can_join": 0,
         "avatar_url": null,
         "canonical_alias": "#music:matrix.unloze.com",
+        "aliases": ""
+    },
+    {
+        "id": 113090,
+        "server": "nope.chat",
+        "room_id": "!pLirCKdxCHvgEnlXyS:nope.chat",
+        "name": "jackmef",
+        "topic": "watch me cum",
+        "num_joined_members": 50,
+        "world_readable": 0,
+        "guest_can_join": 0,
+        "avatar_url": null,
+        "canonical_alias": "#cuminu:nope.chat",
+        "aliases": ""
+    },
+    {
+        "id": 128420,
+        "server": "sabrinateenlich.win",
+        "room_id": "!azgrhxn0e24H7mGDbyulnyR9-Z4GO29pzONC8RzpAb0",
+        "name": "👥🎭Tabletop Roleplaying General",
+        "topic": "Chat about tabletop roleplaying games and related topics!",
+        "num_joined_members": 50,
+        "world_readable": 1,
+        "guest_can_join": 1,
+        "avatar_url": "mxc://sabrinateenlich.win/mKiUVSDkjxnjeGoliQocYTYI",
+        "canonical_alias": "#tabletoproleplayinggeneral-sltc:sabrinateenlich.win",
         "aliases": ""
     },
     {
@@ -28782,6 +28834,19 @@
         "aliases": ""
     },
     {
+        "id": 2296,
+        "server": "matrix.gemeinsam.jetzt",
+        "room_id": "!EjniZolNFXAZihUOtN:gemeinsam.jetzt",
+        "name": "CTG Commodore-Treffen Graz",
+        "topic": "Nächstes CTG am 24. April ab 17:00",
+        "num_joined_members": 49,
+        "world_readable": 0,
+        "guest_can_join": 1,
+        "avatar_url": "mxc://matrix.org/pfOjMrvheWCCfoZSskiyCtAF",
+        "canonical_alias": "#ctg:matrix.org",
+        "aliases": ""
+    },
+    {
         "id": 12075,
         "server": "matrix.grin.hu",
         "room_id": "!GzUwEOPRZItQKSwAju:matrix.org",
@@ -28818,32 +28883,6 @@
         "guest_can_join": 0,
         "avatar_url": "mxc://mx.grupotd.nat.cu/cHvEioZfvaCucGWSfFpNCuUv",
         "canonical_alias": "#grupotd-fork:mx.grupotd.nat.cu",
-        "aliases": ""
-    },
-    {
-        "id": 113090,
-        "server": "nope.chat",
-        "room_id": "!pLirCKdxCHvgEnlXyS:nope.chat",
-        "name": "jackmef",
-        "topic": "watch me cum",
-        "num_joined_members": 49,
-        "world_readable": 0,
-        "guest_can_join": 0,
-        "avatar_url": null,
-        "canonical_alias": "#cuminu:nope.chat",
-        "aliases": ""
-    },
-    {
-        "id": 128419,
-        "server": "sabrinateenlich.win",
-        "room_id": "!86ynRKknFApZQwZ7BhJnxFC1HcTrdOURxQ9ABL-fZyo",
-        "name": "👥🎮Video Games General",
-        "topic": "Talk about video games!",
-        "num_joined_members": 49,
-        "world_readable": 1,
-        "guest_can_join": 1,
-        "avatar_url": "mxc://sabrinateenlich.win/qioAxTRTkURcRbjAzvCZoPHu",
-        "canonical_alias": "#videogamesgeneral-sltc:sabrinateenlich.win",
         "aliases": ""
     },
     {
@@ -28912,19 +28951,6 @@
         "aliases": ""
     },
     {
-        "id": 2607,
-        "server": "nope.chat",
-        "room_id": "!FzEkfuTguOTkXyNaVU:nope.chat",
-        "name": "Element Updates",
-        "topic": "Erhalte Updates zu Element Desktop und Mobile",
-        "num_joined_members": 48,
-        "world_readable": 0,
-        "guest_can_join": 0,
-        "avatar_url": "mxc://nope.chat/KoKLzftHXRtaEDiOWldMwHql",
-        "canonical_alias": "#element-updates:nope.chat",
-        "aliases": ""
-    },
-    {
         "id": 12066,
         "server": "matrix.grin.hu",
         "room_id": "!vLfvBfQBPhnUEGHujC:systemtest.tk",
@@ -28935,19 +28961,6 @@
         "guest_can_join": 1,
         "avatar_url": "mxc://grin.hu/yUrVlUaXSzqyfyMENGudlwgb",
         "canonical_alias": "#banhammer:matrix.org",
-        "aliases": ""
-    },
-    {
-        "id": 128420,
-        "server": "sabrinateenlich.win",
-        "room_id": "!azgrhxn0e24H7mGDbyulnyR9-Z4GO29pzONC8RzpAb0",
-        "name": "👥🎭Tabletop Roleplaying General",
-        "topic": "Chat about tabletop roleplaying games and related topics!",
-        "num_joined_members": 48,
-        "world_readable": 1,
-        "guest_can_join": 1,
-        "avatar_url": "mxc://sabrinateenlich.win/mKiUVSDkjxnjeGoliQocYTYI",
-        "canonical_alias": "#tabletoproleplayinggeneral-sltc:sabrinateenlich.win",
         "aliases": ""
     },
     {
@@ -29224,19 +29237,6 @@
         "aliases": ""
     },
     {
-        "id": 2296,
-        "server": "matrix.gemeinsam.jetzt",
-        "room_id": "!EjniZolNFXAZihUOtN:gemeinsam.jetzt",
-        "name": "CTG Commodore-Treffen Graz",
-        "topic": "Nächstes CTG am 24. April ab 17:00",
-        "num_joined_members": 45,
-        "world_readable": 0,
-        "guest_can_join": 1,
-        "avatar_url": "mxc://matrix.org/pfOjMrvheWCCfoZSskiyCtAF",
-        "canonical_alias": "#ctg:matrix.org",
-        "aliases": ""
-    },
-    {
         "id": 2584,
         "server": "nope.chat",
         "room_id": "!EEnhDSKXJhjdnmpJsG:nakama.tv",
@@ -29390,6 +29390,19 @@
         "guest_can_join": 0,
         "avatar_url": "mxc://obermui.de/aKvPjAhhiXdGJJdunRutEwHp",
         "canonical_alias": "#woodpeckerci-design:obermui.de",
+        "aliases": ""
+    },
+    {
+        "id": 15219,
+        "server": "nope.chat",
+        "room_id": "!NxHszqEhrGhOvsqPQN:nope.chat",
+        "name": "Паб-овсянкстеров",
+        "topic": "Мистический шытпост криптобытийного пласта шизобытия",
+        "num_joined_members": 44,
+        "world_readable": 0,
+        "guest_can_join": 0,
+        "avatar_url": "mxc://nope.chat/hGXpbQwVkTLcjlulOyZUqfoj",
+        "canonical_alias": "#паб-овсянкстеров:nope.chat",
         "aliases": ""
     },
     {
@@ -29718,19 +29731,6 @@
         "aliases": ""
     },
     {
-        "id": 15219,
-        "server": "nope.chat",
-        "room_id": "!NxHszqEhrGhOvsqPQN:nope.chat",
-        "name": "Паб-овсянкстеров",
-        "topic": "Мистический шытпост криптобытийного пласта шизобытия",
-        "num_joined_members": 42,
-        "world_readable": 0,
-        "guest_can_join": 0,
-        "avatar_url": "mxc://nope.chat/hGXpbQwVkTLcjlulOyZUqfoj",
-        "canonical_alias": "#паб-овсянкстеров:nope.chat",
-        "aliases": ""
-    },
-    {
         "id": 26485,
         "server": "matrix.unloze.com",
         "room_id": "!TsiWCHwVZbkmgRkKlh:matrix.unloze.com",
@@ -29884,6 +29884,19 @@
         "guest_can_join": 0,
         "avatar_url": null,
         "canonical_alias": "#server-relation:nakama.tv",
+        "aliases": ""
+    },
+    {
+        "id": 2657,
+        "server": "nope.chat",
+        "room_id": "!QprFDxOHDxIsHttoLU:nope.chat",
+        "name": "#wrongthink:foxcyb.org",
+        "topic": "",
+        "num_joined_members": 40,
+        "world_readable": 1,
+        "guest_can_join": 1,
+        "avatar_url": null,
+        "canonical_alias": "#wrongthinkfoxcyb.org:nope.chat",
         "aliases": ""
     },
     {
@@ -30160,16 +30173,16 @@
         "aliases": ""
     },
     {
-        "id": 2657,
+        "id": 2659,
         "server": "nope.chat",
-        "room_id": "!QprFDxOHDxIsHttoLU:nope.chat",
-        "name": "#wrongthink:foxcyb.org",
-        "topic": "",
+        "room_id": "!qkwdeYreFjAcPlbyew:nope.chat",
+        "name": "Magic",
+        "topic": "In filth it will be found: Room for the discussion of magic, theosophy, alchemy, druidry, mysticism, and other such methods of discovering Truth. I will ban you without a second thought if you post bullshit to this board.",
         "num_joined_members": 38,
-        "world_readable": 1,
-        "guest_can_join": 1,
-        "avatar_url": null,
-        "canonical_alias": "#wrongthinkfoxcyb.org:nope.chat",
+        "world_readable": 0,
+        "guest_can_join": 0,
+        "avatar_url": "mxc://nope.chat/OezSjcYsKOAGXtwZJVuYjaLT",
+        "canonical_alias": "#magic:nope.chat",
         "aliases": ""
     },
     {
@@ -30235,6 +30248,19 @@
         "guest_can_join": 0,
         "avatar_url": "mxc://100oj.com/nVNAAMNIFsYvMPOyyPaxghsl",
         "canonical_alias": "#trashcan:100oj.com",
+        "aliases": ""
+    },
+    {
+        "id": 113797,
+        "server": "nope.chat",
+        "room_id": "!RYHwpfZEbnhRvSsYvz:nope.chat",
+        "name": "General",
+        "topic": null,
+        "num_joined_members": 38,
+        "world_readable": 1,
+        "guest_can_join": 1,
+        "avatar_url": null,
+        "canonical_alias": null,
         "aliases": ""
     },
     {
@@ -30339,19 +30365,6 @@
         "guest_can_join": 0,
         "avatar_url": "mxc://matrix.netho.tk/lhxEbdClMcWtPPoDxZaeFeFm",
         "canonical_alias": "#los-angeles:matrix.netho.tk",
-        "aliases": ""
-    },
-    {
-        "id": 2659,
-        "server": "nope.chat",
-        "room_id": "!qkwdeYreFjAcPlbyew:nope.chat",
-        "name": "Magic",
-        "topic": "In filth it will be found: Room for the discussion of magic, theosophy, alchemy, druidry, mysticism, and other such methods of discovering Truth. I will ban you without a second thought if you post bullshit to this board.",
-        "num_joined_members": 37,
-        "world_readable": 0,
-        "guest_can_join": 0,
-        "avatar_url": "mxc://nope.chat/OezSjcYsKOAGXtwZJVuYjaLT",
-        "canonical_alias": "#magic:nope.chat",
         "aliases": ""
     },
     {
@@ -30550,6 +30563,19 @@
         "aliases": ""
     },
     {
+        "id": 110397,
+        "server": "nope.chat",
+        "room_id": "!WNlxETXOcRMiHjKGab:nope.chat",
+        "name": "аап",
+        "topic": "",
+        "num_joined_members": 36,
+        "world_readable": 1,
+        "guest_can_join": 1,
+        "avatar_url": null,
+        "canonical_alias": "#sdsddsf:nope.chat",
+        "aliases": ""
+    },
+    {
         "id": 1830,
         "server": "matrix-federation.matrix.org",
         "room_id": "!zGIwKXUsOYEAVQAXLG:matrix.org",
@@ -30576,6 +30602,19 @@
         "aliases": ""
     },
     {
+        "id": 2300,
+        "server": "matrix.gemeinsam.jetzt",
+        "room_id": "!gDVyDhbRbkXwXOuxUL:gemeinsam.jetzt",
+        "name": "graz.social",
+        "topic": "Diskussionen Rund https://info.graz.social",
+        "num_joined_members": 35,
+        "world_readable": 0,
+        "guest_can_join": 1,
+        "avatar_url": "mxc://gemeinsam.jetzt/dijuzeBJAUWfWNQssxveFvND",
+        "canonical_alias": "#graz.social:gemeinsam.jetzt",
+        "aliases": ""
+    },
+    {
         "id": 17647,
         "server": "matrix-federation.matrix.org",
         "room_id": "!QJJtbLFofzYvgQOmtl:matrix.org",
@@ -30586,32 +30625,6 @@
         "guest_can_join": 1,
         "avatar_url": null,
         "canonical_alias": "#espaol-:matrix.org",
-        "aliases": ""
-    },
-    {
-        "id": 110397,
-        "server": "nope.chat",
-        "room_id": "!WNlxETXOcRMiHjKGab:nope.chat",
-        "name": "аап",
-        "topic": "",
-        "num_joined_members": 35,
-        "world_readable": 1,
-        "guest_can_join": 1,
-        "avatar_url": null,
-        "canonical_alias": "#sdsddsf:nope.chat",
-        "aliases": ""
-    },
-    {
-        "id": 113797,
-        "server": "nope.chat",
-        "room_id": "!RYHwpfZEbnhRvSsYvz:nope.chat",
-        "name": "General",
-        "topic": null,
-        "num_joined_members": 35,
-        "world_readable": 1,
-        "guest_can_join": 1,
-        "avatar_url": null,
-        "canonical_alias": null,
         "aliases": ""
     },
     {
@@ -30664,6 +30677,19 @@
         "guest_can_join": 1,
         "avatar_url": "mxc://matrix.org/ObjAgdVTZEOiRxvgrsouzUMo",
         "canonical_alias": "#invizible:matrix.org",
+        "aliases": ""
+    },
+    {
+        "id": 2297,
+        "server": "matrix.gemeinsam.jetzt",
+        "room_id": "!WCCWjnQYeInXCoJQqb:gemeinsam.jetzt",
+        "name": "Solidarische Bezugsgruppen/ Solidary affinity groups",
+        "topic": null,
+        "num_joined_members": 34,
+        "world_readable": 0,
+        "guest_can_join": 0,
+        "avatar_url": null,
+        "canonical_alias": "#solidarischebezugsgruppen:gemeinsam.jetzt",
         "aliases": ""
     },
     {
@@ -30810,32 +30836,6 @@
         "aliases": ""
     },
     {
-        "id": 2297,
-        "server": "matrix.gemeinsam.jetzt",
-        "room_id": "!WCCWjnQYeInXCoJQqb:gemeinsam.jetzt",
-        "name": "Solidarische Bezugsgruppen/ Solidary affinity groups",
-        "topic": null,
-        "num_joined_members": 33,
-        "world_readable": 0,
-        "guest_can_join": 0,
-        "avatar_url": null,
-        "canonical_alias": "#solidarischebezugsgruppen:gemeinsam.jetzt",
-        "aliases": ""
-    },
-    {
-        "id": 2300,
-        "server": "matrix.gemeinsam.jetzt",
-        "room_id": "!gDVyDhbRbkXwXOuxUL:gemeinsam.jetzt",
-        "name": "graz.social",
-        "topic": "Diskussionen Rund https://info.graz.social",
-        "num_joined_members": 33,
-        "world_readable": 0,
-        "guest_can_join": 1,
-        "avatar_url": "mxc://gemeinsam.jetzt/dijuzeBJAUWfWNQssxveFvND",
-        "canonical_alias": "#graz.social:gemeinsam.jetzt",
-        "aliases": ""
-    },
-    {
         "id": 2517,
         "server": "matrix.qoto.org",
         "room_id": "!cFmLBnuuDwexTrsTyR:qoto.org",
@@ -30898,6 +30898,19 @@
         "guest_can_join": 0,
         "avatar_url": "mxc://computer.surgery/23j58Eezjkpb5hQyTvF4SYXGnG3X4qus",
         "canonical_alias": "#pdx-rust:computer.surgery",
+        "aliases": ""
+    },
+    {
+        "id": 2652,
+        "server": "nope.chat",
+        "room_id": "!YZZcwAFuKNlxxhKDJU:nope.chat",
+        "name": "CAI Community of AI",
+        "topic": "Willkommen bei der CAI-Community! Hier vereinen wir Enthusiasten, Fachleute und Interessierte der Künstlichen Intelligenz. Unsere Mission ist es, Wissen zu teilen, innovative Projekte zu fördern und die Diskussion über die Zukunft der KI voranzutreiben. Tritt bei, um an den neuesten Entwicklungen teilzuhaben, Ideen auszutauschen und gemeinsam die Welt der Künstlichen Intelligenz zu gestalten!",
+        "num_joined_members": 32,
+        "world_readable": 1,
+        "guest_can_join": 1,
+        "avatar_url": "mxc://nope.chat/gTSkfkZcjyiIShWHYRZbvLzy",
+        "canonical_alias": "#cai-community-of-ai:nope.chat",
         "aliases": ""
     },
     {
@@ -31096,16 +31109,29 @@
         "aliases": ""
     },
     {
-        "id": 2652,
-        "server": "nope.chat",
-        "room_id": "!YZZcwAFuKNlxxhKDJU:nope.chat",
-        "name": "CAI Community of AI",
-        "topic": "Willkommen bei der CAI-Community! Hier vereinen wir Enthusiasten, Fachleute und Interessierte der Künstlichen Intelligenz. Unsere Mission ist es, Wissen zu teilen, innovative Projekte zu fördern und die Diskussion über die Zukunft der KI voranzutreiben. Tritt bei, um an den neuesten Entwicklungen teilzuhaben, Ideen auszutauschen und gemeinsam die Welt der Künstlichen Intelligenz zu gestalten!",
+        "id": 2298,
+        "server": "matrix.gemeinsam.jetzt",
+        "room_id": "!hxzEzZXGZBURLofjvt:gemeinsam.jetzt",
+        "name": "GJ",
+        "topic": "Alles rund um gemeinsam.jetzt",
         "num_joined_members": 31,
         "world_readable": 1,
-        "guest_can_join": 1,
-        "avatar_url": "mxc://nope.chat/gTSkfkZcjyiIShWHYRZbvLzy",
-        "canonical_alias": "#cai-community-of-ai:nope.chat",
+        "guest_can_join": 0,
+        "avatar_url": "mxc://gemeinsam.jetzt/QblasfnDaXadfwrCtjTOxXDM",
+        "canonical_alias": "#sgj:gemeinsam.jetzt",
+        "aliases": ""
+    },
+    {
+        "id": 2299,
+        "server": "matrix.gemeinsam.jetzt",
+        "room_id": "!WqJLlkQiFCUbexSsbk:gemeinsam.jetzt",
+        "name": "Foodkoop KrautKOOPf",
+        "topic": "Öffentlicher Raum der Foodkoop KrautKOOPf in Graz-Geidorf. Hier findest du mehr Infos & Infotermine: https://krautkoopf.at",
+        "num_joined_members": 31,
+        "world_readable": 1,
+        "guest_can_join": 0,
+        "avatar_url": "mxc://gemeinsam.jetzt/FWmAvbAbOrxEvUWzLIwAtipD",
+        "canonical_alias": "#krautkoopf:gemeinsam.jetzt",
         "aliases": ""
     },
     {
@@ -31265,6 +31291,19 @@
         "aliases": ""
     },
     {
+        "id": 2301,
+        "server": "matrix.gemeinsam.jetzt",
+        "room_id": "!rQpomXqptqHyeVFcbd:gemeinsam.jetzt",
+        "name": "CCCamp27 Sustainabillity Meetup",
+        "topic": "pad: https://md.ctfl.space/cccamp27-sustainabillity-root",
+        "num_joined_members": 30,
+        "world_readable": 0,
+        "guest_can_join": 0,
+        "avatar_url": null,
+        "canonical_alias": "#cccamp27sustainabillity:gemeinsam.jetzt",
+        "aliases": ""
+    },
+    {
         "id": 2606,
         "server": "nope.chat",
         "room_id": "!tmmGjjomXipzIzeWGz:nakama.tv",
@@ -31275,6 +31314,32 @@
         "guest_can_join": 0,
         "avatar_url": null,
         "canonical_alias": "#images:nakama.tv",
+        "aliases": ""
+    },
+    {
+        "id": 2650,
+        "server": "nope.chat",
+        "room_id": "!DPADDkEkriRPQzokxp:nope.chat",
+        "name": "SovietLinux",
+        "topic": "",
+        "num_joined_members": 30,
+        "world_readable": 1,
+        "guest_can_join": 1,
+        "avatar_url": "mxc://nope.chat/zVnFFoCoMLZDIJEahcwNqsAN",
+        "canonical_alias": "#sovietlinux:nope.chat",
+        "aliases": ""
+    },
+    {
+        "id": 2651,
+        "server": "nope.chat",
+        "room_id": "!ujpeNckawgEURDQQsa:nope.chat",
+        "name": "朝阳学生会",
+        "topic": "为学生而准备的俱乐部",
+        "num_joined_members": 30,
+        "world_readable": 0,
+        "guest_can_join": 0,
+        "avatar_url": null,
+        "canonical_alias": "#朝阳:nope.chat",
         "aliases": ""
     },
     {
@@ -31470,45 +31535,6 @@
         "guest_can_join": 1,
         "avatar_url": null,
         "canonical_alias": null,
-        "aliases": ""
-    },
-    {
-        "id": 2298,
-        "server": "matrix.gemeinsam.jetzt",
-        "room_id": "!hxzEzZXGZBURLofjvt:gemeinsam.jetzt",
-        "name": "GJ",
-        "topic": "Alles rund um gemeinsam.jetzt",
-        "num_joined_members": 29,
-        "world_readable": 1,
-        "guest_can_join": 0,
-        "avatar_url": "mxc://gemeinsam.jetzt/QblasfnDaXadfwrCtjTOxXDM",
-        "canonical_alias": "#sgj:gemeinsam.jetzt",
-        "aliases": ""
-    },
-    {
-        "id": 2299,
-        "server": "matrix.gemeinsam.jetzt",
-        "room_id": "!WqJLlkQiFCUbexSsbk:gemeinsam.jetzt",
-        "name": "Foodkoop KrautKOOPf",
-        "topic": "Öffentlicher Raum der Foodkoop KrautKOOPf in Graz-Geidorf. Hier findest du mehr Infos & Infotermine: https://krautkoopf.at",
-        "num_joined_members": 29,
-        "world_readable": 1,
-        "guest_can_join": 0,
-        "avatar_url": "mxc://gemeinsam.jetzt/FWmAvbAbOrxEvUWzLIwAtipD",
-        "canonical_alias": "#krautkoopf:gemeinsam.jetzt",
-        "aliases": ""
-    },
-    {
-        "id": 2651,
-        "server": "nope.chat",
-        "room_id": "!ujpeNckawgEURDQQsa:nope.chat",
-        "name": "朝阳学生会",
-        "topic": "为学生而准备的俱乐部",
-        "num_joined_members": 29,
-        "world_readable": 0,
-        "guest_can_join": 0,
-        "avatar_url": null,
-        "canonical_alias": "#朝阳:nope.chat",
         "aliases": ""
     },
     {
@@ -31785,19 +31811,6 @@
         "aliases": ""
     },
     {
-        "id": 2650,
-        "server": "nope.chat",
-        "room_id": "!DPADDkEkriRPQzokxp:nope.chat",
-        "name": "SovietLinux",
-        "topic": "",
-        "num_joined_members": 28,
-        "world_readable": 1,
-        "guest_can_join": 1,
-        "avatar_url": "mxc://nope.chat/zVnFFoCoMLZDIJEahcwNqsAN",
-        "canonical_alias": "#sovietlinux:nope.chat",
-        "aliases": ""
-    },
-    {
         "id": 11805,
         "server": "chat.marimoko.biz",
         "room_id": "!bxQTyiHVPdoWKtyMCq:chat.marimoko.biz",
@@ -31990,19 +32003,6 @@
         "guest_can_join": 1,
         "avatar_url": "mxc://matrix.org/iZxapqrwVBPfusXkZDCSPDmz",
         "canonical_alias": null,
-        "aliases": ""
-    },
-    {
-        "id": 2301,
-        "server": "matrix.gemeinsam.jetzt",
-        "room_id": "!rQpomXqptqHyeVFcbd:gemeinsam.jetzt",
-        "name": "CCCamp27 Sustainabillity Meetup",
-        "topic": "pad: https://md.ctfl.space/cccamp27-sustainabillity-root",
-        "num_joined_members": 27,
-        "world_readable": 0,
-        "guest_can_join": 0,
-        "avatar_url": null,
-        "canonical_alias": "#cccamp27sustainabillity:gemeinsam.jetzt",
         "aliases": ""
     },
     {
@@ -33033,6 +33033,19 @@
         "aliases": ""
     },
     {
+        "id": 120373,
+        "server": "nope.chat",
+        "room_id": "!UcDbAXrtPksncMtKEa:nope.chat",
+        "name": "RU \\b",
+        "topic": "Пу пу пу ",
+        "num_joined_members": 24,
+        "world_readable": 0,
+        "guest_can_join": 0,
+        "avatar_url": "mxc://nope.chat/AqpCdammmVAxrNDtLgrKUWvL",
+        "canonical_alias": "#chat:nope.chat",
+        "aliases": ""
+    },
+    {
         "id": 120925,
         "server": "matrix.nicheart.online",
         "room_id": "!YXAfJdKTtMDcniEESs:nicheart.online",
@@ -33241,6 +33254,19 @@
         "aliases": ""
     },
     {
+        "id": 2302,
+        "server": "matrix.gemeinsam.jetzt",
+        "room_id": "!zbIvzpHBAVCTFskQne:gemeinsam.jetzt",
+        "name": "Fahrradeln in Graz ",
+        "topic": "Alles rund um Radfahren in Graz! Gutes und Schlechtes, Altes und Neues, Kreatives und Bodenständiges, Gemütliches und Sportliches, Projekte und Ideen, Zusammen Ausfahren,... ",
+        "num_joined_members": 23,
+        "world_readable": 1,
+        "guest_can_join": 0,
+        "avatar_url": "mxc://gemeinsam.jetzt/KGeShcvPlTjviPspByrQDghF",
+        "canonical_alias": null,
+        "aliases": ""
+    },
+    {
         "id": 2322,
         "server": "matrix.underworld.fr",
         "room_id": "!QDfzgSRFRdrRZDiAaX:matrix.underworld.fr",
@@ -33446,6 +33472,19 @@
         "guest_can_join": 1,
         "avatar_url": "mxc://matrix.org/xzSwnkdhCROesXnAPZaHMHfH",
         "canonical_alias": "#ukrainian.voanews.com:matrix.org",
+        "aliases": ""
+    },
+    {
+        "id": 108202,
+        "server": "nope.chat",
+        "room_id": "!ITUnExnLQcgdbAkEnK:nope.chat",
+        "name": "New to Berlin",
+        "topic": "You might get to know someone here",
+        "num_joined_members": 23,
+        "world_readable": 1,
+        "guest_can_join": 1,
+        "avatar_url": null,
+        "canonical_alias": "#new-to-berlin:nope.chat",
         "aliases": ""
     },
     {
@@ -33709,6 +33748,19 @@
         "aliases": ""
     },
     {
+        "id": 2645,
+        "server": "nope.chat",
+        "room_id": "!jXxLNYWjHRWvyYnFaK:nope.chat",
+        "name": "Data Science Tutorial",
+        "topic": null,
+        "num_joined_members": 22,
+        "world_readable": 1,
+        "guest_can_join": 0,
+        "avatar_url": "mxc://nope.chat/XLgmFAVDBiiTEXdHKFLxhZkF",
+        "canonical_alias": null,
+        "aliases": ""
+    },
+    {
         "id": 5118,
         "server": "glasgow.social",
         "room_id": "!EqAXSHlDoCjkiIRSzy:glasgow.social",
@@ -33875,19 +33927,6 @@
         "guest_can_join": 0,
         "avatar_url": "mxc://matrix.org/kvDqrSYyVCOxSmqLLfgaYwUI",
         "canonical_alias": "#pgo_gov_ua:matrix.org",
-        "aliases": ""
-    },
-    {
-        "id": 120373,
-        "server": "nope.chat",
-        "room_id": "!UcDbAXrtPksncMtKEa:nope.chat",
-        "name": "RU \\b",
-        "topic": "Пу пу пу ",
-        "num_joined_members": 22,
-        "world_readable": 0,
-        "guest_can_join": 0,
-        "avatar_url": "mxc://nope.chat/AqpCdammmVAxrNDtLgrKUWvL",
-        "canonical_alias": "#chat:nope.chat",
         "aliases": ""
     },
     {
@@ -34242,19 +34281,6 @@
         "aliases": ""
     },
     {
-        "id": 2645,
-        "server": "nope.chat",
-        "room_id": "!jXxLNYWjHRWvyYnFaK:nope.chat",
-        "name": "Data Science Tutorial",
-        "topic": null,
-        "num_joined_members": 21,
-        "world_readable": 1,
-        "guest_can_join": 0,
-        "avatar_url": "mxc://nope.chat/XLgmFAVDBiiTEXdHKFLxhZkF",
-        "canonical_alias": null,
-        "aliases": ""
-    },
-    {
         "id": 4940,
         "server": "matrix-federation.matrix.org",
         "room_id": "!AwPECjkrxsmHvrpIKr:matrix.org",
@@ -34359,6 +34385,19 @@
         "aliases": ""
     },
     {
+        "id": 90499,
+        "server": "matrix.gemeinsam.jetzt",
+        "room_id": "!mGDckUpoUpmrtPzALJ:gemeinsam.jetzt",
+        "name": "GLT",
+        "topic": "Grazer Linuxtage Space",
+        "num_joined_members": 21,
+        "world_readable": 1,
+        "guest_can_join": 1,
+        "avatar_url": "mxc://gemeinsam.jetzt/kvaODxwpSuyUmlZpHecBbuof",
+        "canonical_alias": "#glt:gemeinsam.jetzt",
+        "aliases": ""
+    },
+    {
         "id": 100664,
         "server": "matrix.qoto.org",
         "room_id": "!ydoVQGgcNaMSwrNoVm:qoto.org",
@@ -34424,16 +34463,16 @@
         "aliases": ""
     },
     {
-        "id": 108202,
+        "id": 118252,
         "server": "nope.chat",
-        "room_id": "!ITUnExnLQcgdbAkEnK:nope.chat",
-        "name": "New to Berlin",
-        "topic": "You might get to know someone here",
+        "room_id": "!GNnqUEKPaoeEhneIrw:nope.chat",
+        "name": "Pixels_Roblox",
+        "topic": "",
         "num_joined_members": 21,
         "world_readable": 1,
         "guest_can_join": 1,
-        "avatar_url": null,
-        "canonical_alias": "#new-to-berlin:nope.chat",
+        "avatar_url": "mxc://nope.chat/ICdLurqLXTWTFnfyuCzhSxuS",
+        "canonical_alias": "#pixels_roblox:nope.chat",
         "aliases": ""
     },
     {
@@ -34606,16 +34645,16 @@
         "aliases": ""
     },
     {
-        "id": 2302,
+        "id": 2303,
         "server": "matrix.gemeinsam.jetzt",
-        "room_id": "!zbIvzpHBAVCTFskQne:gemeinsam.jetzt",
-        "name": "Fahrradeln in Graz ",
-        "topic": "Alles rund um Radfahren in Graz! Gutes und Schlechtes, Altes und Neues, Kreatives und Bodenständiges, Gemütliches und Sportliches, Projekte und Ideen, Zusammen Ausfahren,... ",
+        "room_id": "!HwRvlEFRKlBdtqzoAA:gemeinsam.jetzt",
+        "name": "Falter Radio",
+        "topic": "Falter podcast auf https://www.falter.at/falter/radio?ref=social",
         "num_joined_members": 20,
-        "world_readable": 1,
-        "guest_can_join": 0,
-        "avatar_url": "mxc://gemeinsam.jetzt/KGeShcvPlTjviPspByrQDghF",
-        "canonical_alias": null,
+        "world_readable": 0,
+        "guest_can_join": 1,
+        "avatar_url": "mxc://gemeinsam.jetzt/vFniQTmZktyMfRQirQzyeBJJ",
+        "canonical_alias": "#falter-radio:gemeinsam.jetzt",
         "aliases": ""
     },
     {
@@ -35061,6 +35100,19 @@
         "aliases": ""
     },
     {
+        "id": 2305,
+        "server": "matrix.gemeinsam.jetzt",
+        "room_id": "!tKMtBXThDMlPIJGgXu:gemeinsam.jetzt",
+        "name": "Radio Helsinki",
+        "topic": null,
+        "num_joined_members": 19,
+        "world_readable": 1,
+        "guest_can_join": 1,
+        "avatar_url": "mxc://gemeinsam.jetzt/vetGspUXcAViSWqphrHJZKHJ",
+        "canonical_alias": "#helsinki-feed:gemeinsam.jetzt",
+        "aliases": ""
+    },
+    {
         "id": 2337,
         "server": "matrix.muensterhack.de",
         "room_id": "!toIWskpClDdAtJVREi:matrix.muensterhack.de",
@@ -35269,16 +35321,29 @@
         "aliases": ""
     },
     {
-        "id": 118252,
+        "id": 111808,
         "server": "nope.chat",
-        "room_id": "!GNnqUEKPaoeEhneIrw:nope.chat",
-        "name": "Pixels_Roblox",
+        "room_id": "!fXrrdcqojTQJmzwqlA:nope.chat",
+        "name": "tavern",
+        "topic": "A speakeasy place to spent some time with relax",
+        "num_joined_members": 19,
+        "world_readable": 1,
+        "guest_can_join": 0,
+        "avatar_url": "mxc://nope.chat/wlsPuIZDrGbZVNEcaOQeuSuy",
+        "canonical_alias": "#tavern:nope.chat",
+        "aliases": ""
+    },
+    {
+        "id": 111811,
+        "server": "nope.chat",
+        "room_id": "!bhlMWSJNdLkNVFzqmM:nope.chat",
+        "name": "Saturn",
         "topic": "",
         "num_joined_members": 19,
         "world_readable": 1,
         "guest_can_join": 1,
-        "avatar_url": "mxc://nope.chat/ICdLurqLXTWTFnfyuCzhSxuS",
-        "canonical_alias": "#pixels_roblox:nope.chat",
+        "avatar_url": null,
+        "canonical_alias": "#saturn:nope.chat",
         "aliases": ""
     },
     {
@@ -35409,19 +35474,6 @@
         "guest_can_join": 0,
         "avatar_url": null,
         "canonical_alias": "#SWEEANDGORI:matrix.org",
-        "aliases": ""
-    },
-    {
-        "id": 2303,
-        "server": "matrix.gemeinsam.jetzt",
-        "room_id": "!HwRvlEFRKlBdtqzoAA:gemeinsam.jetzt",
-        "name": "Falter Radio",
-        "topic": "Falter podcast auf https://www.falter.at/falter/radio?ref=social",
-        "num_joined_members": 18,
-        "world_readable": 0,
-        "guest_can_join": 1,
-        "avatar_url": "mxc://gemeinsam.jetzt/vFniQTmZktyMfRQirQzyeBJJ",
-        "canonical_alias": "#falter-radio:gemeinsam.jetzt",
         "aliases": ""
     },
     {
@@ -35815,19 +35867,6 @@
         "aliases": ""
     },
     {
-        "id": 2305,
-        "server": "matrix.gemeinsam.jetzt",
-        "room_id": "!tKMtBXThDMlPIJGgXu:gemeinsam.jetzt",
-        "name": "Radio Helsinki",
-        "topic": null,
-        "num_joined_members": 17,
-        "world_readable": 1,
-        "guest_can_join": 1,
-        "avatar_url": "mxc://gemeinsam.jetzt/vetGspUXcAViSWqphrHJZKHJ",
-        "canonical_alias": "#helsinki-feed:gemeinsam.jetzt",
-        "aliases": ""
-    },
-    {
         "id": 2338,
         "server": "matrix.muensterhack.de",
         "room_id": "!tnsKsawdlRVMDAHeOJ:matrix.muensterhack.de",
@@ -35890,6 +35929,19 @@
         "guest_can_join": 1,
         "avatar_url": null,
         "canonical_alias": "#baduk:riot.firechicken.net",
+        "aliases": ""
+    },
+    {
+        "id": 2649,
+        "server": "nope.chat",
+        "room_id": "!HEgDpKWKZriZaQobqF:nope.chat",
+        "name": "AI Library",
+        "topic": "Die AI Library ist unsere Wissenszentrale. Hier findest du Ressourcen, Tutorials, wissenschaftliche Artikel und andere informative Materialien rund um Künstliche Intelligenz. Tauche ein, lerne Neues und erweitere dein Verständnis für die faszinierende Welt der AI.",
+        "num_joined_members": 17,
+        "world_readable": 1,
+        "guest_can_join": 0,
+        "avatar_url": "mxc://nope.chat/bqgdDQmBpHhSbJfiRKIAuAZy",
+        "canonical_alias": "#ai-library:nope.chat",
         "aliases": ""
     },
     {
@@ -36088,16 +36140,16 @@
         "aliases": ""
     },
     {
-        "id": 111808,
+        "id": 114074,
         "server": "nope.chat",
-        "room_id": "!fXrrdcqojTQJmzwqlA:nope.chat",
-        "name": "tavern",
-        "topic": "A speakeasy place to spent some time with relax",
+        "room_id": "!VekVkfVNPDapgjwveQ:nope.chat",
+        "name": "СЛАВА ХУЕСОС",
+        "topic": null,
         "num_joined_members": 17,
-        "world_readable": 1,
+        "world_readable": 0,
         "guest_can_join": 0,
-        "avatar_url": "mxc://nope.chat/wlsPuIZDrGbZVNEcaOQeuSuy",
-        "canonical_alias": "#tavern:nope.chat",
+        "avatar_url": null,
+        "canonical_alias": "#slava_xyecoc:nope.chat",
         "aliases": ""
     },
     {
@@ -36374,19 +36426,6 @@
         "aliases": ""
     },
     {
-        "id": 2649,
-        "server": "nope.chat",
-        "room_id": "!HEgDpKWKZriZaQobqF:nope.chat",
-        "name": "AI Library",
-        "topic": "Die AI Library ist unsere Wissenszentrale. Hier findest du Ressourcen, Tutorials, wissenschaftliche Artikel und andere informative Materialien rund um Künstliche Intelligenz. Tauche ein, lerne Neues und erweitere dein Verständnis für die faszinierende Welt der AI.",
-        "num_joined_members": 16,
-        "world_readable": 1,
-        "guest_can_join": 0,
-        "avatar_url": "mxc://nope.chat/bqgdDQmBpHhSbJfiRKIAuAZy",
-        "canonical_alias": "#ai-library:nope.chat",
-        "aliases": ""
-    },
-    {
         "id": 2655,
         "server": "nope.chat",
         "room_id": "!hwKUgpcNlHaslukIwk:nope.chat",
@@ -36465,19 +36504,6 @@
         "aliases": ""
     },
     {
-        "id": 90499,
-        "server": "matrix.gemeinsam.jetzt",
-        "room_id": "!mGDckUpoUpmrtPzALJ:gemeinsam.jetzt",
-        "name": "GLT",
-        "topic": "Grazer Linuxtage Space",
-        "num_joined_members": 16,
-        "world_readable": 1,
-        "guest_can_join": 1,
-        "avatar_url": "mxc://gemeinsam.jetzt/kvaODxwpSuyUmlZpHecBbuof",
-        "canonical_alias": "#glt:gemeinsam.jetzt",
-        "aliases": ""
-    },
-    {
         "id": 107435,
         "server": "matrix.opulus.space",
         "room_id": "!xhTilmPierKKRvgbSw:matrix.org",
@@ -36488,19 +36514,6 @@
         "guest_can_join": 1,
         "avatar_url": "mxc://matrix.org/SyfSlOopmQdFSLzAVpPgmbMe",
         "canonical_alias": "#tochkadostupu:matrix.org",
-        "aliases": ""
-    },
-    {
-        "id": 114074,
-        "server": "nope.chat",
-        "room_id": "!VekVkfVNPDapgjwveQ:nope.chat",
-        "name": "СЛАВА ХУЕСОС",
-        "topic": null,
-        "num_joined_members": 16,
-        "world_readable": 0,
-        "guest_can_join": 0,
-        "avatar_url": null,
-        "canonical_alias": "#slava_xyecoc:nope.chat",
         "aliases": ""
     },
     {
@@ -36517,6 +36530,19 @@
         "aliases": ""
     },
     {
+        "id": 121920,
+        "server": "riot.firechicken.net",
+        "room_id": "!bRBpqsxJGORHUQqNMy:riot.firechicken.net",
+        "name": "House of Madness",
+        "topic": "OOOOOO YOU LIKE BOYS UR A BOYKISSER",
+        "num_joined_members": 16,
+        "world_readable": 0,
+        "guest_can_join": 0,
+        "avatar_url": "mxc://riot.firechicken.net/eSJtrZLbRMMJgFCupprCuxfW",
+        "canonical_alias": "#houseofmadness:riot.firechicken.net",
+        "aliases": ""
+    },
+    {
         "id": 126354,
         "server": "matrix.luanti.ru",
         "room_id": "!NPKKsipsYytWZVBNwD:matrix.luanti.ru",
@@ -36527,6 +36553,19 @@
         "guest_can_join": 1,
         "avatar_url": "mxc://matrix.luanti.ru/voYPOZjTaEXPouwXCtkSjhVI",
         "canonical_alias": "#mine-apocalypse:matrix.luanti.ru",
+        "aliases": ""
+    },
+    {
+        "id": 128343,
+        "server": "nope.chat",
+        "room_id": "!BuaIsMBTMXsDwIXIlk:nope.chat",
+        "name": "testing",
+        "topic": null,
+        "num_joined_members": 16,
+        "world_readable": 0,
+        "guest_can_join": 0,
+        "avatar_url": null,
+        "canonical_alias": "#test:nope.chat",
         "aliases": ""
     },
     {
@@ -36735,6 +36774,19 @@
         "guest_can_join": 0,
         "avatar_url": null,
         "canonical_alias": "#power:bark.lgbt",
+        "aliases": ""
+    },
+    {
+        "id": 2306,
+        "server": "matrix.gemeinsam.jetzt",
+        "room_id": "!XjxmqNtFzdxDoJdnJD:gemeinsam.jetzt",
+        "name": "Plausch-Sofa",
+        "topic": null,
+        "num_joined_members": 15,
+        "world_readable": 1,
+        "guest_can_join": 0,
+        "avatar_url": null,
+        "canonical_alias": "#plausch:gemeinsam.jetzt",
         "aliases": ""
     },
     {
@@ -37115,16 +37167,16 @@
         "aliases": ""
     },
     {
-        "id": 111811,
+        "id": 111178,
         "server": "nope.chat",
-        "room_id": "!bhlMWSJNdLkNVFzqmM:nope.chat",
-        "name": "Saturn",
+        "room_id": "!iujyfyrgfbIjQVaGOe:nope.chat",
+        "name": "Einsatzinfos",
         "topic": "",
         "num_joined_members": 15,
         "world_readable": 1,
         "guest_can_join": 1,
         "avatar_url": null,
-        "canonical_alias": "#saturn:nope.chat",
+        "canonical_alias": "#einsatzinfos:nope.chat",
         "aliases": ""
     },
     {
@@ -37154,19 +37206,6 @@
         "aliases": ""
     },
     {
-        "id": 121920,
-        "server": "riot.firechicken.net",
-        "room_id": "!bRBpqsxJGORHUQqNMy:riot.firechicken.net",
-        "name": "House of Madness",
-        "topic": "OOOOOO YOU LIKE BOYS UR A BOYKISSER",
-        "num_joined_members": 15,
-        "world_readable": 0,
-        "guest_can_join": 0,
-        "avatar_url": "mxc://riot.firechicken.net/eSJtrZLbRMMJgFCupprCuxfW",
-        "canonical_alias": "#houseofmadness:riot.firechicken.net",
-        "aliases": ""
-    },
-    {
         "id": 127772,
         "server": "matrix.luanti.ru",
         "room_id": "!dlSIHZYwbfxTzliSUA:matrix.luanti.ru",
@@ -37177,19 +37216,6 @@
         "guest_can_join": 1,
         "avatar_url": "mxc://matrix.luanti.ru/zfwVLRTiHvDKxOsigiXfogHY",
         "canonical_alias": "#luanti_game_chats:matrix.luanti.ru",
-        "aliases": ""
-    },
-    {
-        "id": 128343,
-        "server": "nope.chat",
-        "room_id": "!BuaIsMBTMXsDwIXIlk:nope.chat",
-        "name": "testing",
-        "topic": null,
-        "num_joined_members": 15,
-        "world_readable": 0,
-        "guest_can_join": 0,
-        "avatar_url": null,
-        "canonical_alias": "#test:nope.chat",
         "aliases": ""
     },
     {
@@ -37765,19 +37791,6 @@
         "aliases": ""
     },
     {
-        "id": 111178,
-        "server": "nope.chat",
-        "room_id": "!iujyfyrgfbIjQVaGOe:nope.chat",
-        "name": "Einsatzinfos",
-        "topic": "",
-        "num_joined_members": 14,
-        "world_readable": 1,
-        "guest_can_join": 1,
-        "avatar_url": null,
-        "canonical_alias": "#einsatzinfos:nope.chat",
-        "aliases": ""
-    },
-    {
         "id": 113005,
         "server": "glasgow.social",
         "room_id": "!fwpvvHUwVnQdXFzqNG:matrix.org",
@@ -37853,6 +37866,19 @@
         "guest_can_join": 1,
         "avatar_url": "mxc://matrix.luanti.ru/qohIHujemGHTNhUqveLbqYKa",
         "canonical_alias": "#public:matrix.luanti.ru",
+        "aliases": ""
+    },
+    {
+        "id": 128421,
+        "server": "sabrinateenlich.win",
+        "room_id": "!yQUhK3fVwwux30uH57WJ4GSH5bouk8r01iE4FwhnxPs",
+        "name": "👥General Community",
+        "topic": "General discussions!",
+        "num_joined_members": 14,
+        "world_readable": 1,
+        "guest_can_join": 1,
+        "avatar_url": "mxc://sabrinateenlich.win/DlgsTFSegyoxtteEABzwpWsi",
+        "canonical_alias": "#generalcommunity-sltc:sabrinateenlich.win",
         "aliases": ""
     },
     {
@@ -38532,19 +38558,6 @@
         "aliases": ""
     },
     {
-        "id": 128421,
-        "server": "sabrinateenlich.win",
-        "room_id": "!yQUhK3fVwwux30uH57WJ4GSH5bouk8r01iE4FwhnxPs",
-        "name": "👥General Community",
-        "topic": "General discussions!",
-        "num_joined_members": 13,
-        "world_readable": 1,
-        "guest_can_join": 1,
-        "avatar_url": "mxc://sabrinateenlich.win/DlgsTFSegyoxtteEABzwpWsi",
-        "canonical_alias": "#generalcommunity-sltc:sabrinateenlich.win",
-        "aliases": ""
-    },
-    {
         "id": 129417,
         "server": "matrix.luanti.ru",
         "room_id": "!naIKIQCxmbHlhceIJo:matrix.luanti.ru",
@@ -38893,19 +38906,6 @@
         "guest_can_join": 1,
         "avatar_url": "mxc://gemeinsam.jetzt/eABNIHBNSPQXIaOkXiHUBqYI",
         "canonical_alias": "#styrrion:gemeinsam.jetzt",
-        "aliases": ""
-    },
-    {
-        "id": 2306,
-        "server": "matrix.gemeinsam.jetzt",
-        "room_id": "!XjxmqNtFzdxDoJdnJD:gemeinsam.jetzt",
-        "name": "Plausch-Sofa",
-        "topic": null,
-        "num_joined_members": 12,
-        "world_readable": 1,
-        "guest_can_join": 0,
-        "avatar_url": null,
-        "canonical_alias": "#plausch:gemeinsam.jetzt",
         "aliases": ""
     },
     {
@@ -39429,6 +39429,19 @@
         "aliases": ""
     },
     {
+        "id": 128422,
+        "server": "sabrinateenlich.win",
+        "room_id": "!Qf5VmTbg4QCnygNIynqbWfc1NzvegYiEIN4oGAsgMv8",
+        "name": "👥🕹️Gaming General",
+        "topic": "General gaming discussions",
+        "num_joined_members": 12,
+        "world_readable": 1,
+        "guest_can_join": 1,
+        "avatar_url": null,
+        "canonical_alias": "#gaminggeneral-sltc:sabrinateenlich.win",
+        "aliases": ""
+    },
+    {
         "id": 1974,
         "server": "matrix-federation.matrix.org",
         "room_id": "!XdTeCCWCXHZxEhfajB:matrix.org",
@@ -39910,6 +39923,19 @@
         "aliases": ""
     },
     {
+        "id": 14847,
+        "server": "matrix.gemeinsam.jetzt",
+        "room_id": "!PCsYEeLTZYemOBAeBy:gemeinsam.jetzt",
+        "name": "EVAL Ehrfurcht Vor Allem Leben",
+        "topic": "Aufrüttelnder Fundamental-Vortrag: Die Abrechnung mit der Geschichte",
+        "num_joined_members": 11,
+        "world_readable": 0,
+        "guest_can_join": 0,
+        "avatar_url": null,
+        "canonical_alias": "#gemeinsam.jetzt:gemeinsam.jetzt",
+        "aliases": ""
+    },
+    {
         "id": 17710,
         "server": "matrix-federation.matrix.org",
         "room_id": "!hDJGISrXehzTrlSOVv:matrix.org",
@@ -40326,6 +40352,19 @@
         "aliases": ""
     },
     {
+        "id": 121729,
+        "server": "matrix.gemeinsam.jetzt",
+        "room_id": "!bcJfYTVxBdFTCrTsQz:gemeinsam.jetzt",
+        "name": "VirtuellerSteg",
+        "topic": null,
+        "num_joined_members": 11,
+        "world_readable": 0,
+        "guest_can_join": 0,
+        "avatar_url": null,
+        "canonical_alias": "#my-room:gemeinsam.jetzt",
+        "aliases": ""
+    },
+    {
         "id": 127212,
         "server": "riot.firechicken.net",
         "room_id": "!gMwsDlPQSZaIVRVmCT:riot.firechicken.net",
@@ -40375,19 +40414,6 @@
         "guest_can_join": 0,
         "avatar_url": "mxc://matrix.luanti.ru/eTOXYMJjTvyuZnwtiaScOrbr",
         "canonical_alias": "#gitea:matrix.luanti.ru",
-        "aliases": ""
-    },
-    {
-        "id": 128422,
-        "server": "sabrinateenlich.win",
-        "room_id": "!Qf5VmTbg4QCnygNIynqbWfc1NzvegYiEIN4oGAsgMv8",
-        "name": "👥🕹️Gaming General",
-        "topic": "General gaming discussions",
-        "num_joined_members": 11,
-        "world_readable": 1,
-        "guest_can_join": 1,
-        "avatar_url": null,
-        "canonical_alias": "#gaminggeneral-sltc:sabrinateenlich.win",
         "aliases": ""
     },
     {
@@ -41470,6 +41496,19 @@
         "aliases": ""
     },
     {
+        "id": 108493,
+        "server": "nope.chat",
+        "room_id": "!lqsqFfxzmQTYcgPLsu:nope.chat",
+        "name": "I Fucking Hate Science Chat",
+        "topic": "This is the chat associated with the I Fucking Hate Science group",
+        "num_joined_members": 10,
+        "world_readable": 0,
+        "guest_can_join": 0,
+        "avatar_url": "mxc://nope.chat/mmdjnZhVQZgsUqNMpHpMIXnQ",
+        "canonical_alias": "#ifhs.chat:nope.chat",
+        "aliases": ""
+    },
+    {
         "id": 109468,
         "server": "2hi.me",
         "room_id": "!TgzhstlErjFSzDXPQa:2hi.me",
@@ -41496,6 +41535,19 @@
         "aliases": ""
     },
     {
+        "id": 111813,
+        "server": "nope.chat",
+        "room_id": "!SBpThyibpuHHMpIxSl:nope.chat",
+        "name": "AlexPewMaster's Zimmer",
+        "topic": "Ein Platz für alle Dinge über AlexPewMaster. Alle Räume sind mit Discord verbunden!",
+        "num_joined_members": 10,
+        "world_readable": 1,
+        "guest_can_join": 1,
+        "avatar_url": "mxc://nope.chat/MPXOqVeiiRFvOWoRhetDPPBU",
+        "canonical_alias": "#alexpewmasters-zimmer:nope.chat",
+        "aliases": ""
+    },
+    {
         "id": 113006,
         "server": "glasgow.social",
         "room_id": "!eyHyfkMyFuReERoQob:glasgow.social",
@@ -41519,19 +41571,6 @@
         "guest_can_join": 0,
         "avatar_url": "mxc://chat.marimoko.biz/NEvwuEhnTJDczQJwppYDgBIw",
         "canonical_alias": "#bj-n-hookers:chat.marimoko.biz",
-        "aliases": ""
-    },
-    {
-        "id": 121729,
-        "server": "matrix.gemeinsam.jetzt",
-        "room_id": "!bcJfYTVxBdFTCrTsQz:gemeinsam.jetzt",
-        "name": "VirtuellerSteg",
-        "topic": null,
-        "num_joined_members": 10,
-        "world_readable": 0,
-        "guest_can_join": 0,
-        "avatar_url": null,
-        "canonical_alias": "#my-room:gemeinsam.jetzt",
         "aliases": ""
     },
     {
@@ -41584,6 +41623,19 @@
         "guest_can_join": 0,
         "avatar_url": null,
         "canonical_alias": "#test-public:sutcliffe.xyz",
+        "aliases": ""
+    },
+    {
+        "id": 128423,
+        "server": "sabrinateenlich.win",
+        "room_id": "!6gFIur4un1FH6VQZmijtPZ_79PCw4d7DmRTDut8q42U",
+        "name": "👥🃏Board Games General",
+        "topic": null,
+        "num_joined_members": 10,
+        "world_readable": 1,
+        "guest_can_join": 1,
+        "avatar_url": null,
+        "canonical_alias": "#boardgamesgeneral-sltc:sabrinateenlich.win",
         "aliases": ""
     },
     {
@@ -42143,19 +42195,6 @@
         "guest_can_join": 0,
         "avatar_url": null,
         "canonical_alias": "#kampot:matrix.org",
-        "aliases": ""
-    },
-    {
-        "id": 14847,
-        "server": "matrix.gemeinsam.jetzt",
-        "room_id": "!PCsYEeLTZYemOBAeBy:gemeinsam.jetzt",
-        "name": "EVAL Ehrfurcht Vor Allem Leben",
-        "topic": "Aufrüttelnder Fundamental-Vortrag: Die Abrechnung mit der Geschichte",
-        "num_joined_members": 9,
-        "world_readable": 0,
-        "guest_can_join": 0,
-        "avatar_url": null,
-        "canonical_alias": "#gemeinsam.jetzt:gemeinsam.jetzt",
         "aliases": ""
     },
     {
@@ -43056,19 +43095,6 @@
         "aliases": ""
     },
     {
-        "id": 108493,
-        "server": "nope.chat",
-        "room_id": "!lqsqFfxzmQTYcgPLsu:nope.chat",
-        "name": "I Fucking Hate Science Chat",
-        "topic": "This is the chat associated with the I Fucking Hate Science group",
-        "num_joined_members": 9,
-        "world_readable": 0,
-        "guest_can_join": 0,
-        "avatar_url": "mxc://nope.chat/mmdjnZhVQZgsUqNMpHpMIXnQ",
-        "canonical_alias": "#ifhs.chat:nope.chat",
-        "aliases": ""
-    },
-    {
         "id": 110959,
         "server": "matrix.grin.hu",
         "room_id": "!XZoeAGrjXaDYoICGMs:grin.hu",
@@ -43082,16 +43108,16 @@
         "aliases": ""
     },
     {
-        "id": 111813,
-        "server": "nope.chat",
-        "room_id": "!SBpThyibpuHHMpIxSl:nope.chat",
-        "name": "AlexPewMaster's Zimmer",
-        "topic": "Ein Platz für alle Dinge über AlexPewMaster. Alle Räume sind mit Discord verbunden!",
+        "id": 111845,
+        "server": "matrix.gemeinsam.jetzt",
+        "room_id": "!MpBjuZESIoTopMtNHH:gemeinsam.jetzt",
+        "name": "GrazWiki",
+        "topic": null,
         "num_joined_members": 9,
-        "world_readable": 1,
-        "guest_can_join": 1,
-        "avatar_url": "mxc://nope.chat/MPXOqVeiiRFvOWoRhetDPPBU",
-        "canonical_alias": "#alexpewmasters-zimmer:nope.chat",
+        "world_readable": 0,
+        "guest_can_join": 0,
+        "avatar_url": "mxc://gemeinsam.jetzt/TqbabLDbywRddxVqVAwEMFfZ",
+        "canonical_alias": "#grazwiki:gemeinsam.jetzt",
         "aliases": ""
     },
     {
@@ -43147,16 +43173,29 @@
         "aliases": ""
     },
     {
-        "id": 128423,
-        "server": "sabrinateenlich.win",
-        "room_id": "!6gFIur4un1FH6VQZmijtPZ_79PCw4d7DmRTDut8q42U",
-        "name": "👥🃏Board Games General",
+        "id": 129381,
+        "server": "nope.chat",
+        "room_id": "!nxuBZsxXieWJiJQTvB:nope.chat",
+        "name": "Perry Mason",
+        "topic": "Raymond Burr TV series",
+        "num_joined_members": 9,
+        "world_readable": 0,
+        "guest_can_join": 0,
+        "avatar_url": null,
+        "canonical_alias": "#perrymason:nope.chat",
+        "aliases": ""
+    },
+    {
+        "id": 129669,
+        "server": "nope.chat",
+        "room_id": "!zrctgUbFXCfyGmxXGF:nope.chat",
+        "name": "Tool",
         "topic": null,
         "num_joined_members": 9,
         "world_readable": 1,
-        "guest_can_join": 1,
+        "guest_can_join": 0,
         "avatar_url": null,
-        "canonical_alias": "#boardgamesgeneral-sltc:sabrinateenlich.win",
+        "canonical_alias": "#Tool:nope.chat",
         "aliases": ""
     },
     {
@@ -43170,6 +43209,32 @@
         "guest_can_join": 0,
         "avatar_url": null,
         "canonical_alias": "#trillium:nope.chat",
+        "aliases": ""
+    },
+    {
+        "id": 130074,
+        "server": "nope.chat",
+        "room_id": "!JajQwJBxKvWKsAfBEA:nope.chat",
+        "name": "Dallas",
+        "topic": "talking about things local to Dallas,Texas",
+        "num_joined_members": 9,
+        "world_readable": 0,
+        "guest_can_join": 0,
+        "avatar_url": null,
+        "canonical_alias": "#DallasTX:nope.chat",
+        "aliases": ""
+    },
+    {
+        "id": 130076,
+        "server": "nope.chat",
+        "room_id": "!ODsIEKWiyKfYpOhrLw:nope.chat",
+        "name": "GavaiMultiVerse",
+        "topic": "ladno\n",
+        "num_joined_members": 9,
+        "world_readable": 1,
+        "guest_can_join": 1,
+        "avatar_url": null,
+        "canonical_alias": "#gavaimultiverse:nope.chat",
         "aliases": ""
     },
     {
@@ -45266,6 +45331,19 @@
         "aliases": ""
     },
     {
+        "id": 61625,
+        "server": "nope.chat",
+        "room_id": "!bmlTmaUuJIiqlKajZh:nope.chat",
+        "name": "testtss",
+        "topic": null,
+        "num_joined_members": 8,
+        "world_readable": 0,
+        "guest_can_join": 0,
+        "avatar_url": null,
+        "canonical_alias": "#ergolyamtest:nope.chat",
+        "aliases": ""
+    },
+    {
         "id": 71075,
         "server": "matrix-federation.matrix.org",
         "room_id": "!jmJxBgDoRpZfyZOJTP:matrix.org",
@@ -45344,16 +45422,16 @@
         "aliases": ""
     },
     {
-        "id": 111845,
+        "id": 111843,
         "server": "matrix.gemeinsam.jetzt",
-        "room_id": "!MpBjuZESIoTopMtNHH:gemeinsam.jetzt",
-        "name": "GrazWiki",
-        "topic": null,
+        "room_id": "!dxlQqByFQzdnFqygeu:gemeinsam.jetzt",
+        "name": "KostNix-Laden EggenLend",
+        "topic": "Der KostNix-Laden EggenLend ist ein Nachbarschaftsprojekt der Stadtteilarbeit EggenLend und wird von Ehrenamtlichen betreut.\n\nShare Community - bringen und nehmen, teilen und tauschen im solidarischen Sinne für alle offen!",
         "num_joined_members": 8,
-        "world_readable": 0,
+        "world_readable": 1,
         "guest_can_join": 0,
-        "avatar_url": "mxc://gemeinsam.jetzt/TqbabLDbywRddxVqVAwEMFfZ",
-        "canonical_alias": "#grazwiki:gemeinsam.jetzt",
+        "avatar_url": "mxc://gemeinsam.jetzt/yWHvYGVseiqrVSturmUjEepQ",
+        "canonical_alias": "#kostnixladen-eggenlend:gemeinsam.jetzt",
         "aliases": ""
     },
     {
@@ -45435,6 +45513,19 @@
         "aliases": ""
     },
     {
+        "id": 129154,
+        "server": "matrix.potatom.ru",
+        "room_id": "!TfqbfQWngwQEIKByEK:matrix.potatom.ru",
+        "name": "POTATOM",
+        "topic": "",
+        "num_joined_members": 8,
+        "world_readable": 1,
+        "guest_can_join": 1,
+        "avatar_url": "mxc://matrix.potatom.ru/WORZiPyrIVtjLJTaJBlJJkdR",
+        "canonical_alias": "#potatom:matrix.potatom.ru",
+        "aliases": ""
+    },
+    {
         "id": 129195,
         "server": "matrix.psi-clan.com",
         "room_id": "!gYonUcDQyImZuDygry:matrix.psi-clan.com",
@@ -45445,19 +45536,6 @@
         "guest_can_join": 1,
         "avatar_url": "mxc://matrix.psi-clan.com/QfDbwZxnrVemjeFwTHWBqYeI",
         "canonical_alias": "#lobby:matrix.psi-clan.com",
-        "aliases": ""
-    },
-    {
-        "id": 129381,
-        "server": "nope.chat",
-        "room_id": "!nxuBZsxXieWJiJQTvB:nope.chat",
-        "name": "Perry Mason",
-        "topic": "Raymond Burr TV series",
-        "num_joined_members": 8,
-        "world_readable": 0,
-        "guest_can_join": 0,
-        "avatar_url": null,
-        "canonical_alias": "#perrymason:nope.chat",
         "aliases": ""
     },
     {
@@ -47996,19 +48074,6 @@
         "aliases": ""
     },
     {
-        "id": 61625,
-        "server": "nope.chat",
-        "room_id": "!bmlTmaUuJIiqlKajZh:nope.chat",
-        "name": "testtss",
-        "topic": null,
-        "num_joined_members": 7,
-        "world_readable": 0,
-        "guest_can_join": 0,
-        "avatar_url": null,
-        "canonical_alias": "#ergolyamtest:nope.chat",
-        "aliases": ""
-    },
-    {
         "id": 70974,
         "server": "matrix-federation.matrix.org",
         "room_id": "!KywDieSFehdxJAchTj:matrix.org",
@@ -48087,16 +48152,29 @@
         "aliases": ""
     },
     {
-        "id": 111843,
-        "server": "matrix.gemeinsam.jetzt",
-        "room_id": "!dxlQqByFQzdnFqygeu:gemeinsam.jetzt",
-        "name": "KostNix-Laden EggenLend",
-        "topic": "Der KostNix-Laden EggenLend ist ein Nachbarschaftsprojekt der Stadtteilarbeit EggenLend und wird von Ehrenamtlichen betreut.\n\nShare Community - bringen und nehmen, teilen und tauschen im solidarischen Sinne für alle offen!",
+        "id": 117048,
+        "server": "nope.chat",
+        "room_id": "!IioiEuwIwZEapaQHhl:nope.chat",
+        "name": "Hi",
+        "topic": "We don't like mr.miller",
+        "num_joined_members": 7,
+        "world_readable": 0,
+        "guest_can_join": 0,
+        "avatar_url": null,
+        "canonical_alias": "#8-1:nope.chat",
+        "aliases": ""
+    },
+    {
+        "id": 118255,
+        "server": "matrix.gnulinux.club",
+        "room_id": "!pEV4P4PwS7SVIRAjhbgIefDuN_jn5qkcVjgA4WGAcjI",
+        "name": "introductions",
+        "topic": "Please provide an authentic and meaningful introduction in this channel. This is required for anyone who desires to join the pubglug channel or spaces, whether home server member or not. Once you post your introduction and it's approved, you will be invited to the pubglug space and channel, where you are required to stay and be active as per the TOS. Please remember introductions must include a tech blogk, gitlab, or some other similar form in which your public/real presence can be verified. Once verified, you are removed from this channel. ",
         "num_joined_members": 7,
         "world_readable": 1,
-        "guest_can_join": 0,
-        "avatar_url": "mxc://gemeinsam.jetzt/yWHvYGVseiqrVSturmUjEepQ",
-        "canonical_alias": "#kostnixladen-eggenlend:gemeinsam.jetzt",
+        "guest_can_join": 1,
+        "avatar_url": "mxc://gnulinux.club/UpAcdEEuvLrRjmlvsMbqgYBi",
+        "canonical_alias": "#introductions:gnulinux.club",
         "aliases": ""
     },
     {
@@ -48136,45 +48214,6 @@
         "guest_can_join": 1,
         "avatar_url": null,
         "canonical_alias": null,
-        "aliases": ""
-    },
-    {
-        "id": 129154,
-        "server": "matrix.potatom.ru",
-        "room_id": "!TfqbfQWngwQEIKByEK:matrix.potatom.ru",
-        "name": "POTATOM",
-        "topic": "",
-        "num_joined_members": 7,
-        "world_readable": 1,
-        "guest_can_join": 1,
-        "avatar_url": "mxc://matrix.potatom.ru/WORZiPyrIVtjLJTaJBlJJkdR",
-        "canonical_alias": "#potatom:matrix.potatom.ru",
-        "aliases": ""
-    },
-    {
-        "id": 129669,
-        "server": "nope.chat",
-        "room_id": "!zrctgUbFXCfyGmxXGF:nope.chat",
-        "name": "Tool",
-        "topic": null,
-        "num_joined_members": 7,
-        "world_readable": 1,
-        "guest_can_join": 0,
-        "avatar_url": null,
-        "canonical_alias": "#Tool:nope.chat",
-        "aliases": ""
-    },
-    {
-        "id": 130074,
-        "server": "nope.chat",
-        "room_id": "!JajQwJBxKvWKsAfBEA:nope.chat",
-        "name": "Dallas",
-        "topic": "talking about things local to Dallas,Texas",
-        "num_joined_members": 7,
-        "world_readable": 0,
-        "guest_can_join": 0,
-        "avatar_url": null,
-        "canonical_alias": "#DallasTX:nope.chat",
         "aliases": ""
     },
     {
@@ -51792,19 +51831,6 @@
         "aliases": ""
     },
     {
-        "id": 117048,
-        "server": "nope.chat",
-        "room_id": "!IioiEuwIwZEapaQHhl:nope.chat",
-        "name": "Hi",
-        "topic": "We don't like mr.miller",
-        "num_joined_members": 6,
-        "world_readable": 0,
-        "guest_can_join": 0,
-        "avatar_url": null,
-        "canonical_alias": "#8-1:nope.chat",
-        "aliases": ""
-    },
-    {
         "id": 126386,
         "server": "socialnetwork24.com",
         "room_id": "!tJBBtwasYsbOpaPryF:socialnetwork24.com",
@@ -51883,29 +51909,55 @@
         "aliases": ""
     },
     {
-        "id": 130076,
+        "id": 130078,
         "server": "nope.chat",
-        "room_id": "!ODsIEKWiyKfYpOhrLw:nope.chat",
-        "name": "GavaiMultiVerse",
-        "topic": "ladno\n",
+        "room_id": "!yhEtioLzGnWEoXzFte:nope.chat",
+        "name": "locutor99",
+        "topic": "Spanish voice over from \nhttps://www.locutortv.es/\nhttps://www.locutortv.com/\nhttps://www.spanish-voiceover.com\nhttps://www.locutortv.es/index_voiceoversspanish.htm \nhttps://www.amorypoesia.es/\nhttps://www.locutortv.com/american-spanish-dubbing-american-spanish-dubbing-company-dubbing-services-latin-american-dubbing/ \n",
         "num_joined_members": 6,
         "world_readable": 1,
         "guest_can_join": 1,
         "avatar_url": null,
-        "canonical_alias": "#gavaimultiverse:nope.chat",
+        "canonical_alias": "#locutor99:nope.chat",
+        "aliases": ""
+    },
+    {
+        "id": 130079,
+        "server": "nope.chat",
+        "room_id": "!XKSEhJaWGIueuYwaOP:nope.chat",
+        "name": "fdf",
+        "topic": null,
+        "num_joined_members": 6,
+        "world_readable": 1,
+        "guest_can_join": 0,
+        "avatar_url": null,
+        "canonical_alias": "#sfd:nope.chat",
         "aliases": ""
     },
     {
         "id": 130082,
         "server": "fasoley.net",
         "room_id": "!wUCEmEAnDVbc5oE1:fasoley.net",
-        "name": "siepatch@c.j.r",
+        "name": "siepatchdb@c.j.r",
         "topic": "Салам пополам",
         "num_joined_members": 6,
         "world_readable": 0,
         "guest_can_join": 0,
         "avatar_url": "mxc://fasoley.net/6b7977b577c72c3687e9d39697b59f35d3f8f7955258d018f42cf2f0d4c606b7",
         "canonical_alias": "#siepatch-c.j.r:fasoley.net",
+        "aliases": ""
+    },
+    {
+        "id": 130410,
+        "server": "matrix.bastion-local.ru",
+        "room_id": "!ivwUvMyBEnwehARebR:matrix.bastion-local.ru",
+        "name": "PK-2",
+        "topic": null,
+        "num_joined_members": 6,
+        "world_readable": 0,
+        "guest_can_join": 0,
+        "avatar_url": null,
+        "canonical_alias": "#PK-2:matrix.bastion-local.ru",
         "aliases": ""
     },
     {
@@ -54782,19 +54834,6 @@
         "aliases": ""
     },
     {
-        "id": 118255,
-        "server": "matrix.gnulinux.club",
-        "room_id": "!pEV4P4PwS7SVIRAjhbgIefDuN_jn5qkcVjgA4WGAcjI",
-        "name": "introductions",
-        "topic": "Please provide an authentic and meaningful introduction in this channel. This is required for anyone who desires to join the pubglug channel or spaces, whether home server member or not. Once you post your introduction and it's approved, you will be invited to the pubglug space and channel, where you are required to stay and be active as per the TOS. Please remember introductions must include a tech blogk, gitlab, or some other similar form in which your public/real presence can be verified. Once verified, you are removed from this channel. ",
-        "num_joined_members": 5,
-        "world_readable": 1,
-        "guest_can_join": 1,
-        "avatar_url": "mxc://gnulinux.club/UpAcdEEuvLrRjmlvsMbqgYBi",
-        "canonical_alias": "#introductions:gnulinux.club",
-        "aliases": ""
-    },
-    {
         "id": 121877,
         "server": "matrix.grin.hu",
         "room_id": "!ITAHJYuPhQzOCrnkwc:grin.hu",
@@ -54909,32 +54948,6 @@
         "guest_can_join": 0,
         "avatar_url": "mxc://glasgow.social/VQdyzNBcOPrpUdZeRhUtGXwD",
         "canonical_alias": "#emacs:glasgow.social",
-        "aliases": ""
-    },
-    {
-        "id": 130078,
-        "server": "nope.chat",
-        "room_id": "!yhEtioLzGnWEoXzFte:nope.chat",
-        "name": "locutor99",
-        "topic": "Spanish voice over from \nhttps://www.locutortv.es/\nhttps://www.locutortv.com/\nhttps://www.spanish-voiceover.com\nhttps://www.locutortv.es/index_voiceoversspanish.htm \nhttps://www.amorypoesia.es/\nhttps://www.locutortv.com/american-spanish-dubbing-american-spanish-dubbing-company-dubbing-services-latin-american-dubbing/ \n",
-        "num_joined_members": 5,
-        "world_readable": 1,
-        "guest_can_join": 1,
-        "avatar_url": null,
-        "canonical_alias": "#locutor99:nope.chat",
-        "aliases": ""
-    },
-    {
-        "id": 130079,
-        "server": "nope.chat",
-        "room_id": "!XKSEhJaWGIueuYwaOP:nope.chat",
-        "name": "fdf",
-        "topic": null,
-        "num_joined_members": 5,
-        "world_readable": 1,
-        "guest_can_join": 0,
-        "avatar_url": null,
-        "canonical_alias": "#sfd:nope.chat",
         "aliases": ""
     }
 ]
