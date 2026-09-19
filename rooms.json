@@ -8242,6 +8242,19 @@
         "aliases": ""
     },
     {
+        "id": 5058,
+        "server": "glasgow.social",
+        "room_id": "!BOrDFgeDdZZbUvfjjs:glasgow.social",
+        "name": "Glasgow",
+        "topic": "https://glasgow.social | Events in The Gamer Club - Tech meetup: 6pm, first Fridays, Geek meetup: 6pm, last Fridays of the month) | General meetup: Sat 15th June 2024 7pm",
+        "num_joined_members": 1362,
+        "world_readable": 1,
+        "guest_can_join": 1,
+        "avatar_url": "mxc://glasgow.social/qbJKqoKoPhoXiUBcjIQlwmZL",
+        "canonical_alias": "#glasgow:glasgow.social",
+        "aliases": ""
+    },
+    {
         "id": 584,
         "server": "matrix-federation.matrix.org",
         "room_id": "!KAnuHggtkLqxAJLtvZ:blob.cat",
@@ -8382,19 +8395,6 @@
         "guest_can_join": 0,
         "avatar_url": null,
         "canonical_alias": "#unixporno:matrix.org",
-        "aliases": ""
-    },
-    {
-        "id": 5058,
-        "server": "glasgow.social",
-        "room_id": "!BOrDFgeDdZZbUvfjjs:glasgow.social",
-        "name": "Glasgow",
-        "topic": "https://glasgow.social | Events in The Gamer Club - Tech meetup: 6pm, first Fridays, Geek meetup: 6pm, last Fridays of the month) | General meetup: Sat 15th June 2024 7pm",
-        "num_joined_members": 1350,
-        "world_readable": 1,
-        "guest_can_join": 1,
-        "avatar_url": "mxc://glasgow.social/qbJKqoKoPhoXiUBcjIQlwmZL",
-        "canonical_alias": "#glasgow:glasgow.social",
         "aliases": ""
     },
     {
@@ -13884,6 +13884,19 @@
         "aliases": ""
     },
     {
+        "id": 5059,
+        "server": "glasgow.social",
+        "room_id": "!WbyXiAXhtnEqgrSftB:glasgow.social",
+        "name": "Geek",
+        "topic": "https://www.meetup.com/The-Glasgow-Geeks/ | Board games: Alternating Tuesdays from 6:30pm in The Gamer Club and Curlers | Monthly meetup: 6pm Friday 28th Feb in The Gamer Club https://www.meetup.com/the-glasgow-geeks/events/305861342/ | https://lemmy.glasgow.social/c/geek",
+        "num_joined_members": 807,
+        "world_readable": 0,
+        "guest_can_join": 1,
+        "avatar_url": "mxc://glasgow.social/KHDKHsUYqSaTqHMWfxsijEco",
+        "canonical_alias": "#geek:glasgow.social",
+        "aliases": ""
+    },
+    {
         "id": 46,
         "server": "matrix-federation.matrix.org",
         "room_id": "!sSktOPplyhJqhNXfPz:aria-net.org",
@@ -13907,19 +13920,6 @@
         "guest_can_join": 0,
         "avatar_url": null,
         "canonical_alias": "#taichi-general:matrix.org",
-        "aliases": ""
-    },
-    {
-        "id": 5059,
-        "server": "glasgow.social",
-        "room_id": "!WbyXiAXhtnEqgrSftB:glasgow.social",
-        "name": "Geek",
-        "topic": "https://www.meetup.com/The-Glasgow-Geeks/ | Board games: Alternating Tuesdays from 6:30pm in The Gamer Club and Curlers | Monthly meetup: 6pm Friday 28th Feb in The Gamer Club https://www.meetup.com/the-glasgow-geeks/events/305861342/ | https://lemmy.glasgow.social/c/geek",
-        "num_joined_members": 803,
-        "world_readable": 0,
-        "guest_can_join": 1,
-        "avatar_url": "mxc://glasgow.social/KHDKHsUYqSaTqHMWfxsijEco",
-        "canonical_alias": "#geek:glasgow.social",
         "aliases": ""
     },
     {
@@ -16263,19 +16263,6 @@
         "aliases": ""
     },
     {
-        "id": 2292,
-        "server": "matrix.gemeinsam.jetzt",
-        "room_id": "!hpsvYXDsDZQBDQPYYH:gemeinsam.jetzt",
-        "name": "matrix / element",
-        "topic": "Fragen, Anregungen, Wünsche rund um matrix / element bei gemeinsam.jetzt",
-        "num_joined_members": 658,
-        "world_readable": 0,
-        "guest_can_join": 0,
-        "avatar_url": "mxc://gemeinsam.jetzt/akKUYfWhCtGpestnkSewbCmw",
-        "canonical_alias": "#matrix:gemeinsam.jetzt",
-        "aliases": ""
-    },
-    {
         "id": 1182,
         "server": "matrix-federation.matrix.org",
         "room_id": "!TIdxaHEHYFNLGBKujN:matrix.org",
@@ -16299,6 +16286,19 @@
         "guest_can_join": 1,
         "avatar_url": "mxc://m.scd31.com/jJCfomjZENvjdsgfTlqtvFsu",
         "canonical_alias": "#hamradio:m.scd31.com",
+        "aliases": ""
+    },
+    {
+        "id": 2292,
+        "server": "matrix.gemeinsam.jetzt",
+        "room_id": "!hpsvYXDsDZQBDQPYYH:gemeinsam.jetzt",
+        "name": "matrix / element",
+        "topic": "Fragen, Anregungen, Wünsche rund um matrix / element bei gemeinsam.jetzt",
+        "num_joined_members": 657,
+        "world_readable": 0,
+        "guest_can_join": 0,
+        "avatar_url": "mxc://gemeinsam.jetzt/akKUYfWhCtGpestnkSewbCmw",
+        "canonical_alias": "#matrix:gemeinsam.jetzt",
         "aliases": ""
     },
     {
@@ -18603,6 +18603,19 @@
         "aliases": ""
     },
     {
+        "id": 5062,
+        "server": "glasgow.social",
+        "room_id": "!pbCJeLvLtsnsCOPciD:glasgow.social",
+        "name": "The Gamer Club",
+        "topic": "A members club for board gamers and video gamers - public chat - Next open day: Sat 14th Sep 2024 from 1pm",
+        "num_joined_members": 547,
+        "world_readable": 0,
+        "guest_can_join": 0,
+        "avatar_url": "mxc://glasgow.social/GBVRaGbovTxYOFffiFhZQAYe",
+        "canonical_alias": "#gamersclub:glasgow.social",
+        "aliases": ""
+    },
+    {
         "id": 1331,
         "server": "matrix-federation.matrix.org",
         "room_id": "!KIypyvxDVANGApfyud:matrix.org",
@@ -18639,19 +18652,6 @@
         "guest_can_join": 1,
         "avatar_url": "mxc://matrix.org/LpxBXZuxTcQNtKEMKWqcKIOO",
         "canonical_alias": "#tectar:matrix.org",
-        "aliases": ""
-    },
-    {
-        "id": 5062,
-        "server": "glasgow.social",
-        "room_id": "!pbCJeLvLtsnsCOPciD:glasgow.social",
-        "name": "The Gamer Club",
-        "topic": "A members club for board gamers and video gamers - public chat - Next open day: Sat 14th Sep 2024 from 1pm",
-        "num_joined_members": 542,
-        "world_readable": 0,
-        "guest_can_join": 0,
-        "avatar_url": "mxc://glasgow.social/GBVRaGbovTxYOFffiFhZQAYe",
-        "canonical_alias": "#gamersclub:glasgow.social",
         "aliases": ""
     },
     {
@@ -19188,6 +19188,19 @@
         "aliases": ""
     },
     {
+        "id": 2330,
+        "server": "matrix.muensterhack.de",
+        "room_id": "!KDvgQHrLCsuJyiIrFv:matrix.muensterhack.de",
+        "name": "Allgemein",
+        "topic": "Allgemeiner Raum für Austausch aller Art zum Hackathon",
+        "num_joined_members": 518,
+        "world_readable": 0,
+        "guest_can_join": 0,
+        "avatar_url": "mxc://matrix.muensterhack.de/xANwxLWgHnKQDuRVsWrXdlBb",
+        "canonical_alias": "#general:matrix.muensterhack.de",
+        "aliases": ""
+    },
+    {
         "id": 1378,
         "server": "matrix-federation.matrix.org",
         "room_id": "!jWScpSLKpSlnhcCctl:matrix.org",
@@ -19211,19 +19224,6 @@
         "guest_can_join": 0,
         "avatar_url": "mxc://matrix.org/tJheDtSFLNjuFuLKsmKSEBXq",
         "canonical_alias": "#ut_surya:matrix.org",
-        "aliases": ""
-    },
-    {
-        "id": 2330,
-        "server": "matrix.muensterhack.de",
-        "room_id": "!KDvgQHrLCsuJyiIrFv:matrix.muensterhack.de",
-        "name": "Allgemein",
-        "topic": "Allgemeiner Raum für Austausch aller Art zum Hackathon",
-        "num_joined_members": 517,
-        "world_readable": 0,
-        "guest_can_join": 0,
-        "avatar_url": "mxc://matrix.muensterhack.de/xANwxLWgHnKQDuRVsWrXdlBb",
-        "canonical_alias": "#general:matrix.muensterhack.de",
         "aliases": ""
     },
     {
@@ -19279,6 +19279,19 @@
         "aliases": ""
     },
     {
+        "id": 2331,
+        "server": "matrix.muensterhack.de",
+        "room_id": "!VPQvBXFRefCKUwIseV:matrix.muensterhack.de",
+        "name": "Ankündigungen",
+        "topic": "Ankündigungen des Orgateams",
+        "num_joined_members": 513,
+        "world_readable": 0,
+        "guest_can_join": 0,
+        "avatar_url": "mxc://matrix.muensterhack.de/xZJhkKcTclMTfXYUoDZMswxr",
+        "canonical_alias": "#announcements:matrix.muensterhack.de",
+        "aliases": ""
+    },
+    {
         "id": 1386,
         "server": "matrix-federation.matrix.org",
         "room_id": "!EAVARKZmMcnDOPiSkf:matrix.org",
@@ -19302,19 +19315,6 @@
         "guest_can_join": 1,
         "avatar_url": "mxc://matrix.org/PAfoQIOJSGpjbCkGjejZOztj",
         "canonical_alias": null,
-        "aliases": ""
-    },
-    {
-        "id": 2331,
-        "server": "matrix.muensterhack.de",
-        "room_id": "!VPQvBXFRefCKUwIseV:matrix.muensterhack.de",
-        "name": "Ankündigungen",
-        "topic": "Ankündigungen des Orgateams",
-        "num_joined_members": 512,
-        "world_readable": 0,
-        "guest_can_join": 0,
-        "avatar_url": "mxc://matrix.muensterhack.de/xZJhkKcTclMTfXYUoDZMswxr",
-        "canonical_alias": "#announcements:matrix.muensterhack.de",
         "aliases": ""
     },
     {
@@ -20098,6 +20098,19 @@
         "aliases": ""
     },
     {
+        "id": 131839,
+        "server": "matrix.playstar.se",
+        "room_id": "!rmmkMJZlGonylxosum:matrix.playstar.se",
+        "name": "NSFW",
+        "topic": null,
+        "num_joined_members": 480,
+        "world_readable": 1,
+        "guest_can_join": 0,
+        "avatar_url": null,
+        "canonical_alias": "#nfsw:matrix.playstar.se",
+        "aliases": ""
+    },
+    {
         "id": 2528,
         "server": "matrix.grin.hu",
         "room_id": "!YSwNBqxedFQCmFadgo:matrix.cocamserverguild.com",
@@ -20277,19 +20290,6 @@
         "guest_can_join": 0,
         "avatar_url": null,
         "canonical_alias": "#lausummer:matrix.org",
-        "aliases": ""
-    },
-    {
-        "id": 131839,
-        "server": "matrix.playstar.se",
-        "room_id": "!rmmkMJZlGonylxosum:matrix.playstar.se",
-        "name": "NSFW",
-        "topic": null,
-        "num_joined_members": 472,
-        "world_readable": 1,
-        "guest_can_join": 0,
-        "avatar_url": null,
-        "canonical_alias": "#nfsw:matrix.playstar.se",
         "aliases": ""
     },
     {
@@ -20501,6 +20501,19 @@
         "aliases": ""
     },
     {
+        "id": 5061,
+        "server": "glasgow.social",
+        "room_id": "!uVhYeryxRiaOwTlATT:glasgow.social",
+        "name": "Open Source",
+        "topic": "https://opensource.glasgow.social | https://www.meetup.com/Open-Source-Glasgow/ | Next social: After work drinks in the pub (The Gamer Club) [6pm, 1st Fridays of the month] | Next tutorial: Command line for hackers Mon Mar 4th 6pm, The Gamer Club",
+        "num_joined_members": 459,
+        "world_readable": 0,
+        "guest_can_join": 1,
+        "avatar_url": "mxc://glasgow.social/NQPIjpSluEGAwUShHAJnCXYW",
+        "canonical_alias": "#opensource:glasgow.social",
+        "aliases": ""
+    },
+    {
         "id": 1518,
         "server": "matrix-federation.matrix.org",
         "room_id": "!FIemRRuiYpoqWNGAnX:matrix.org",
@@ -20511,19 +20524,6 @@
         "guest_can_join": 0,
         "avatar_url": "mxc://pridelands-after-dark.com/LZSoNJbPmCwJEeEDjbSurNrh",
         "canonical_alias": "#pad-clean-artwork:pridelands-after-dark.com",
-        "aliases": ""
-    },
-    {
-        "id": 5061,
-        "server": "glasgow.social",
-        "room_id": "!uVhYeryxRiaOwTlATT:glasgow.social",
-        "name": "Open Source",
-        "topic": "https://opensource.glasgow.social | https://www.meetup.com/Open-Source-Glasgow/ | Next social: After work drinks in the pub (The Gamer Club) [6pm, 1st Fridays of the month] | Next tutorial: Command line for hackers Mon Mar 4th 6pm, The Gamer Club",
-        "num_joined_members": 458,
-        "world_readable": 0,
-        "guest_can_join": 1,
-        "avatar_url": "mxc://glasgow.social/NQPIjpSluEGAwUShHAJnCXYW",
-        "canonical_alias": "#opensource:glasgow.social",
         "aliases": ""
     },
     {
@@ -20930,6 +20930,19 @@
         "aliases": ""
     },
     {
+        "id": 5064,
+        "server": "glasgow.social",
+        "room_id": "!TAewuLymGysnpVzAGq:glasgow.social",
+        "name": "Board games",
+        "topic": "For folks that like tabletop gaming in all its forms.\nBoard Game Night Meetups every Tuesday: https://www.meetup.com/the-glasgow-geeks | https://www.glasgowboardgames.com",
+        "num_joined_members": 434,
+        "world_readable": 0,
+        "guest_can_join": 0,
+        "avatar_url": "mxc://glasgow.social/WiDyOKEekrFLgnANjfudoxln",
+        "canonical_alias": "#boardgames:glasgow.social",
+        "aliases": ""
+    },
+    {
         "id": 1514,
         "server": "matrix-federation.matrix.org",
         "room_id": "!tStTYLKGmrVZDgtyMk:matrix.org",
@@ -20992,19 +21005,6 @@
         "guest_can_join": 1,
         "avatar_url": "mxc://matrix.org/oYXDsQsqmLBEijwApRTguqrF",
         "canonical_alias": null,
-        "aliases": ""
-    },
-    {
-        "id": 5064,
-        "server": "glasgow.social",
-        "room_id": "!TAewuLymGysnpVzAGq:glasgow.social",
-        "name": "Board games",
-        "topic": "For folks that like tabletop gaming in all its forms.\nBoard Game Night Meetups every Tuesday: https://www.meetup.com/the-glasgow-geeks | https://www.glasgowboardgames.com",
-        "num_joined_members": 431,
-        "world_readable": 0,
-        "guest_can_join": 0,
-        "avatar_url": "mxc://glasgow.social/WiDyOKEekrFLgnANjfudoxln",
-        "canonical_alias": "#boardgames:glasgow.social",
         "aliases": ""
     },
     {
@@ -21858,7 +21858,7 @@
         "room_id": "!AAvJVaBaKKuyxjrScz:glasgow.social",
         "name": "Reddit",
         "topic": "https://www.reddit.com/r/glasgow | https://wiki.glasgow.social/reddit | Next Meetup: Sat 15th June, 7pm in The Gamer Club | https://wiki.glasgow.social/reddit_meetup_week_2024",
-        "num_joined_members": 368,
+        "num_joined_members": 369,
         "world_readable": 0,
         "guest_can_join": 1,
         "avatar_url": "mxc://glasgow.social/VSMMZxuzxKXVyviaOUGzfJNd",
@@ -22417,7 +22417,7 @@
         "room_id": "!hsAEluVojUQfFgfuMR:glasgow.social",
         "name": "Movies & TV",
         "topic": "Glasgow Movie Club - https://www.meetup.com/glasgow-movie-group/ | Upcoming screenings: The Room cult movie, Fri 21st Nov",
-        "num_joined_members": 295,
+        "num_joined_members": 296,
         "world_readable": 0,
         "guest_can_join": 1,
         "avatar_url": null,
@@ -22508,7 +22508,7 @@
         "room_id": "!ApzzRrcNmgmKcfQZDn:glasgow.social",
         "name": "Glasgow Gig Goers",
         "topic": "For chat relating to live music in Glasgow and the surrounding area.",
-        "num_joined_members": 288,
+        "num_joined_members": 289,
         "world_readable": 0,
         "guest_can_join": 0,
         "avatar_url": "mxc://glasgow.social/UNOYHzqkvNzFajmVUMHYnNvZ",
@@ -22685,6 +22685,19 @@
         "aliases": ""
     },
     {
+        "id": 5071,
+        "server": "glasgow.social",
+        "room_id": "!WedhBaqNcaZixxVsrf:glasgow.social",
+        "name": "D&D & TTRPGs",
+        "topic": "Dungeons and Dragons and other RPG games - next one shot afternoon: Sun 6th Oct 2024 1pm at The Gamer Club (https://www.meetup.com/the-glasgow-geeks/events/303328474/)",
+        "num_joined_members": 270,
+        "world_readable": 0,
+        "guest_can_join": 1,
+        "avatar_url": null,
+        "canonical_alias": "#dnd:glasgow.social",
+        "aliases": ""
+    },
+    {
         "id": 63339,
         "server": "matrix-federation.matrix.org",
         "room_id": "!BsaaDuOAZbuVFqtzko:tapenet.org",
@@ -22695,19 +22708,6 @@
         "guest_can_join": 0,
         "avatar_url": "mxc://tapenet.org/QUlMnmWfwrlKXouUBwOHNLUS",
         "canonical_alias": "#go-lang:matrix.org",
-        "aliases": ""
-    },
-    {
-        "id": 5071,
-        "server": "glasgow.social",
-        "room_id": "!WedhBaqNcaZixxVsrf:glasgow.social",
-        "name": "D&D & TTRPGs",
-        "topic": "Dungeons and Dragons and other RPG games - next one shot afternoon: Sun 6th Oct 2024 1pm at The Gamer Club (https://www.meetup.com/the-glasgow-geeks/events/303328474/)",
-        "num_joined_members": 268,
-        "world_readable": 0,
-        "guest_can_join": 1,
-        "avatar_url": null,
-        "canonical_alias": "#dnd:glasgow.social",
         "aliases": ""
     },
     {
@@ -22937,7 +22937,7 @@
         "room_id": "!AvpynAXWztdfNZSjpF:matrix.org",
         "name": "Corrupt Yiff 2",
         "topic": null,
-        "num_joined_members": 241,
+        "num_joined_members": 242,
         "world_readable": 1,
         "guest_can_join": 0,
         "avatar_url": "mxc://matrix.org/vYVOVuwrGpsfPvifRrLVsAof",
@@ -22950,7 +22950,7 @@
         "room_id": "!eEsntROzxGsODSekET:matrix.org",
         "name": "0 A.D. Central",
         "topic": "A place to discuss 0 A.D., the Open Source RTS game developed by Wildfire Games. https://play0ad.com/\nShort-Address: #0ad-unofficial:matrix.org,  matrix.to/#/#0ad-unofficial:matrix.org\nThis group was just created spontaneously by fans.\n\nTags: 0ad 0-ad",
-        "num_joined_members": 238,
+        "num_joined_members": 239,
         "world_readable": 0,
         "guest_can_join": 1,
         "avatar_url": "mxc://matrix.org/vpiAUmNhXnGYknGlWldsLVCY",
@@ -22994,6 +22994,19 @@
         "guest_can_join": 0,
         "avatar_url": null,
         "canonical_alias": "#OnlyfansLeaks:matrix.org",
+        "aliases": ""
+    },
+    {
+        "id": 5069,
+        "server": "glasgow.social",
+        "room_id": "!dMnoJAPMMbmBQeSWTV:glasgow.social",
+        "name": "PC Gaming",
+        "topic": "Come play some games with us!  https://wiki.glasgow.social/pc_gaming | Next LAN Party: Sun 29th from noon https://www.meetup.com/the-glasgow-geeks/events/303461724/",
+        "num_joined_members": 232,
+        "world_readable": 0,
+        "guest_can_join": 0,
+        "avatar_url": "mxc://glasgow.social/nwnpgWCWQsEgCYEbtJAvWzCG",
+        "canonical_alias": "#pcgaming:glasgow.social",
         "aliases": ""
     },
     {
@@ -23046,19 +23059,6 @@
         "guest_can_join": 0,
         "avatar_url": null,
         "canonical_alias": null,
-        "aliases": ""
-    },
-    {
-        "id": 5069,
-        "server": "glasgow.social",
-        "room_id": "!dMnoJAPMMbmBQeSWTV:glasgow.social",
-        "name": "PC Gaming",
-        "topic": "Come play some games with us!  https://wiki.glasgow.social/pc_gaming | Next LAN Party: Sun 29th from noon https://www.meetup.com/the-glasgow-geeks/events/303461724/",
-        "num_joined_members": 229,
-        "world_readable": 0,
-        "guest_can_join": 0,
-        "avatar_url": "mxc://glasgow.social/nwnpgWCWQsEgCYEbtJAvWzCG",
-        "canonical_alias": "#pcgaming:glasgow.social",
         "aliases": ""
     },
     {
@@ -23153,6 +23153,32 @@
         "aliases": ""
     },
     {
+        "id": 5068,
+        "server": "glasgow.social",
+        "room_id": "!ErqvbcUIrfpTRxWHWx:glasgow.social",
+        "name": "Computers",
+        "topic": "All things computer geek and computer science\n(HackerNews front page feed) | Social meetup, 6pm First Friday of every month, Bon Accord",
+        "num_joined_members": 224,
+        "world_readable": 0,
+        "guest_can_join": 0,
+        "avatar_url": null,
+        "canonical_alias": "#computer:glasgow.social",
+        "aliases": ""
+    },
+    {
+        "id": 5070,
+        "server": "glasgow.social",
+        "room_id": "!KxcbqlGjHKmYpnIGMc:glasgow.social",
+        "name": "Book Group",
+        "topic": "Sci-fi book group, meets 3rd Wednesday of the month\nNext event: Wed Sep 16th, 6:30pm - Horror Sci-fi novels at The Gamer Club\nhttps://www.meetup.com/the-glasgow-geeks/events/316252128/",
+        "num_joined_members": 224,
+        "world_readable": 1,
+        "guest_can_join": 1,
+        "avatar_url": "mxc://glasgow.social/BqQuFDYinCMIBWyEsdKFzAOR",
+        "canonical_alias": "#bookgroup:glasgow.social",
+        "aliases": ""
+    },
+    {
         "id": 909,
         "server": "matrix-federation.matrix.org",
         "room_id": "!bKoSyiiwbxHHHeEgFJ:matrix.org",
@@ -23166,19 +23192,6 @@
         "aliases": ""
     },
     {
-        "id": 5070,
-        "server": "glasgow.social",
-        "room_id": "!KxcbqlGjHKmYpnIGMc:glasgow.social",
-        "name": "Book Group",
-        "topic": "Sci-fi book group, meets 3rd Wednesday of the month\nNext event: Wed Aug 19th, 6:30pm - Non-English Sci-fi novels at The Gamer Club\nhttps://www.meetup.com/the-glasgow-geeks/events/315774963/",
-        "num_joined_members": 222,
-        "world_readable": 1,
-        "guest_can_join": 1,
-        "avatar_url": "mxc://glasgow.social/BqQuFDYinCMIBWyEsdKFzAOR",
-        "canonical_alias": "#bookgroup:glasgow.social",
-        "aliases": ""
-    },
-    {
         "id": 2540,
         "server": "nope.chat",
         "room_id": "!igUfnIxhrrITqiiRfh:cdom.de",
@@ -23189,19 +23202,6 @@
         "guest_can_join": 0,
         "avatar_url": "mxc://cdom.de/IyucmMGHELMJQIIHmkZdVsxl",
         "canonical_alias": "#fun:cdom.de",
-        "aliases": ""
-    },
-    {
-        "id": 5068,
-        "server": "glasgow.social",
-        "room_id": "!ErqvbcUIrfpTRxWHWx:glasgow.social",
-        "name": "Computers",
-        "topic": "All things computer geek and computer science\n(HackerNews front page feed) | Social meetup, 6pm First Friday of every month, Bon Accord",
-        "num_joined_members": 221,
-        "world_readable": 0,
-        "guest_can_join": 0,
-        "avatar_url": null,
-        "canonical_alias": "#computer:glasgow.social",
         "aliases": ""
     },
     {
@@ -23283,6 +23283,19 @@
         "aliases": ""
     },
     {
+        "id": 11804,
+        "server": "chat.marimoko.biz",
+        "room_id": "!oBVoYunaJhupdDGnOS:chat.marimoko.biz",
+        "name": "Server Links ",
+        "topic": "Share links and get more users. If you are a sicko or doing anything illegal, leave now before you are banned.",
+        "num_joined_members": 216,
+        "world_readable": 0,
+        "guest_can_join": 0,
+        "avatar_url": "mxc://chat.marimoko.biz/wobyyrAMYNpFPNXGHXwinrtd",
+        "canonical_alias": "#serverlinks:chat.marimoko.biz",
+        "aliases": ""
+    },
+    {
         "id": 681,
         "server": "matrix-federation.matrix.org",
         "room_id": "!msWMYrozAheWsHBAau:matrix.org",
@@ -23293,19 +23306,6 @@
         "guest_can_join": 0,
         "avatar_url": "mxc://t2bot.io/cad8faec8e8b33178d335a060697c201c249e5b71722120192055574528",
         "canonical_alias": "#osm-kerala:matrix.org",
-        "aliases": ""
-    },
-    {
-        "id": 11804,
-        "server": "chat.marimoko.biz",
-        "room_id": "!oBVoYunaJhupdDGnOS:chat.marimoko.biz",
-        "name": "Server Links ",
-        "topic": "Share links and get more users. If you are a sicko or doing anything illegal, leave now before you are banned.",
-        "num_joined_members": 215,
-        "world_readable": 0,
-        "guest_can_join": 0,
-        "avatar_url": "mxc://chat.marimoko.biz/wobyyrAMYNpFPNXGHXwinrtd",
-        "canonical_alias": "#serverlinks:chat.marimoko.biz",
         "aliases": ""
     },
     {
@@ -23332,6 +23332,19 @@
         "guest_can_join": 1,
         "avatar_url": "mxc://tchncs.de/2fc1fdf1bd06274597cc85123170c09e311c168d2027798221362823168",
         "canonical_alias": "#hackmasspace:gemeinsam.jetzt",
+        "aliases": ""
+    },
+    {
+        "id": 1759,
+        "server": "riot.firechicken.net",
+        "room_id": "!hBJnAXYXfGJTVDwaRW:matrix.org",
+        "name": ".Unkno",
+        "topic": "Public home of unknown group",
+        "num_joined_members": 213,
+        "world_readable": 1,
+        "guest_can_join": 0,
+        "avatar_url": "mxc://matrix.org/RGYZuGhAeuBXpiQGFWAvPcwN",
+        "canonical_alias": "#.unkno:matrix.org",
         "aliases": ""
     },
     {
@@ -23371,19 +23384,6 @@
         "guest_can_join": 1,
         "avatar_url": "mxc://cypherstack.com/MsWxXltPaIyxdxrCiMlNDRVz",
         "canonical_alias": "#monero-site:monero.social",
-        "aliases": ""
-    },
-    {
-        "id": 1759,
-        "server": "riot.firechicken.net",
-        "room_id": "!hBJnAXYXfGJTVDwaRW:matrix.org",
-        "name": ".Unkno",
-        "topic": "Public home of unknown group",
-        "num_joined_members": 211,
-        "world_readable": 1,
-        "guest_can_join": 0,
-        "avatar_url": "mxc://matrix.org/RGYZuGhAeuBXpiQGFWAvPcwN",
-        "canonical_alias": "#.unkno:matrix.org",
         "aliases": ""
     },
     {
@@ -23465,6 +23465,19 @@
         "aliases": ""
     },
     {
+        "id": 132671,
+        "server": "synapse.thedreamer.nl",
+        "room_id": "!KtABXlWLHazatgrPqk:thedreamer.nl",
+        "name": "Link Dump",
+        "topic": null,
+        "num_joined_members": 206,
+        "world_readable": 1,
+        "guest_can_join": 1,
+        "avatar_url": null,
+        "canonical_alias": "#td_linkdump:thedreamer.nl",
+        "aliases": ""
+    },
+    {
         "id": 1634,
         "server": "matrix-federation.matrix.org",
         "room_id": "!dEBYptFQjPnLSSlRpN:lossy.network",
@@ -23483,7 +23496,7 @@
         "room_id": "!zHxtyeRDkPgqBzSSbK:glasgow.social",
         "name": "Coding",
         "topic": "Programming chat and live tutorials/workshops | Next event: After work social meetup (The Gamer Club) [6pm, 1st Fridays of the month]",
-        "num_joined_members": 202,
+        "num_joined_members": 203,
         "world_readable": 0,
         "guest_can_join": 0,
         "avatar_url": null,
@@ -23553,19 +23566,6 @@
         "guest_can_join": 0,
         "avatar_url": "mxc://matrix.org/ZqSndcYdOrkNMmvrEYTWCtSb",
         "canonical_alias": "#recherche_amour_plaisir_homo:matrix.org",
-        "aliases": ""
-    },
-    {
-        "id": 132671,
-        "server": "synapse.thedreamer.nl",
-        "room_id": "!KtABXlWLHazatgrPqk:thedreamer.nl",
-        "name": "Link Dump",
-        "topic": null,
-        "num_joined_members": 201,
-        "world_readable": 1,
-        "guest_can_join": 1,
-        "avatar_url": null,
-        "canonical_alias": "#td_linkdump:thedreamer.nl",
         "aliases": ""
     },
     {
@@ -24700,6 +24700,19 @@
         "aliases": ""
     },
     {
+        "id": 5075,
+        "server": "glasgow.social",
+        "room_id": "!QNuwSMusRmpNQzYMWb:glasgow.social",
+        "name": "Science",
+        "topic": "Pint of Science events in Glasgow - 22nd to 24th May 2023 https://pintofscience.co.uk/",
+        "num_joined_members": 140,
+        "world_readable": 0,
+        "guest_can_join": 1,
+        "avatar_url": "mxc://glasgow.social/tNQMyBZuYaueoPcWsJPNzKJh",
+        "canonical_alias": "#science:glasgow.social",
+        "aliases": ""
+    },
+    {
         "id": 1431,
         "server": "matrix-federation.matrix.org",
         "room_id": "!nKJQdpqGogdsStyswc:matrix.org",
@@ -24749,19 +24762,6 @@
         "guest_can_join": 1,
         "avatar_url": null,
         "canonical_alias": "#openmw-shaders:matrix.org",
-        "aliases": ""
-    },
-    {
-        "id": 5075,
-        "server": "glasgow.social",
-        "room_id": "!QNuwSMusRmpNQzYMWb:glasgow.social",
-        "name": "Science",
-        "topic": "Pint of Science events in Glasgow - 22nd to 24th May 2023 https://pintofscience.co.uk/",
-        "num_joined_members": 138,
-        "world_readable": 0,
-        "guest_can_join": 1,
-        "avatar_url": "mxc://glasgow.social/tNQMyBZuYaueoPcWsJPNzKJh",
-        "canonical_alias": "#science:glasgow.social",
         "aliases": ""
     },
     {
@@ -24934,6 +24934,19 @@
         "aliases": ""
     },
     {
+        "id": 49977,
+        "server": "matrix.juggler.jp",
+        "room_id": "!PNQRQnbAhnATPnGdUD:matrix.juggler.jp",
+        "name": "Pomf2",
+        "topic": null,
+        "num_joined_members": 129,
+        "world_readable": 0,
+        "guest_can_join": 0,
+        "avatar_url": "mxc://matrix.juggler.jp/rCeIwWAxmILdwpBRbMTuHsLn",
+        "canonical_alias": "#pomf2:matrix.juggler.jp",
+        "aliases": ""
+    },
+    {
         "id": 1668,
         "server": "matrix.grin.hu",
         "room_id": "!HvdreLuwoIukcSoJDZ:matrix.org",
@@ -25012,19 +25025,6 @@
         "aliases": ""
     },
     {
-        "id": 49977,
-        "server": "matrix.juggler.jp",
-        "room_id": "!PNQRQnbAhnATPnGdUD:matrix.juggler.jp",
-        "name": "Pomf2",
-        "topic": null,
-        "num_joined_members": 127,
-        "world_readable": 0,
-        "guest_can_join": 0,
-        "avatar_url": "mxc://matrix.juggler.jp/rCeIwWAxmILdwpBRbMTuHsLn",
-        "canonical_alias": "#pomf2:matrix.juggler.jp",
-        "aliases": ""
-    },
-    {
         "id": 1709,
         "server": "matrix-federation.matrix.org",
         "room_id": "!QzNmKfDhzCQFDqmUhl:matrix.org",
@@ -25064,6 +25064,19 @@
         "aliases": ""
     },
     {
+        "id": 5088,
+        "server": "glasgow.social",
+        "room_id": "!KCdDtSGHeaypHkzGME:glasgow.social",
+        "name": "AI",
+        "topic": "All things AI, ML and LLM | https://wiki.glasgow.social/AI",
+        "num_joined_members": 123,
+        "world_readable": 1,
+        "guest_can_join": 0,
+        "avatar_url": null,
+        "canonical_alias": "#ai:glasgow.social",
+        "aliases": ""
+    },
+    {
         "id": 2377,
         "server": "matrix.frens.io",
         "room_id": "!KUglKuMCgWpdGgvQcS:frens.io",
@@ -25090,6 +25103,19 @@
         "aliases": ""
     },
     {
+        "id": 5093,
+        "server": "glasgow.social",
+        "room_id": "!bUslACXzcIDfdZnCpZ:glasgow.social",
+        "name": "LGBTQ",
+        "topic": "https://wiki.glasgow.social/lgbtq",
+        "num_joined_members": 122,
+        "world_readable": 1,
+        "guest_can_join": 0,
+        "avatar_url": "mxc://glasgow.social/HRcCQUCJQOefsBJwZgdWcNXh",
+        "canonical_alias": "#lgbtq:glasgow.social",
+        "aliases": ""
+    },
+    {
         "id": 2557,
         "server": "nope.chat",
         "room_id": "!ZgcSkgXPxdyLhGnNpY:nakama.tv",
@@ -25100,32 +25126,6 @@
         "guest_can_join": 0,
         "avatar_url": null,
         "canonical_alias": "#memes:nakama.tv",
-        "aliases": ""
-    },
-    {
-        "id": 5088,
-        "server": "glasgow.social",
-        "room_id": "!KCdDtSGHeaypHkzGME:glasgow.social",
-        "name": "AI",
-        "topic": "All things AI, ML and LLM | https://wiki.glasgow.social/AI",
-        "num_joined_members": 121,
-        "world_readable": 1,
-        "guest_can_join": 0,
-        "avatar_url": null,
-        "canonical_alias": "#ai:glasgow.social",
-        "aliases": ""
-    },
-    {
-        "id": 5093,
-        "server": "glasgow.social",
-        "room_id": "!bUslACXzcIDfdZnCpZ:glasgow.social",
-        "name": "LGBTQ",
-        "topic": "https://wiki.glasgow.social/lgbtq",
-        "num_joined_members": 121,
-        "world_readable": 1,
-        "guest_can_join": 0,
-        "avatar_url": "mxc://glasgow.social/HRcCQUCJQOefsBJwZgdWcNXh",
-        "canonical_alias": "#lgbtq:glasgow.social",
         "aliases": ""
     },
     {
@@ -25220,19 +25220,6 @@
         "aliases": ""
     },
     {
-        "id": 107120,
-        "server": "matrix.it-syndik.at",
-        "room_id": "!wgMkHUaxADIQSQDZOZ:it-syndik.at",
-        "name": "IT-Syndikat",
-        "topic": "Hackerspace Innsbruck",
-        "num_joined_members": 117,
-        "world_readable": 0,
-        "guest_can_join": 1,
-        "avatar_url": "mxc://it-syndik.at/CGnkoEKdfXKyQvvYqopNwZpK",
-        "canonical_alias": "#lobby:it-syndik.at",
-        "aliases": ""
-    },
-    {
         "id": 131070,
         "server": "immercord.de",
         "room_id": "!EYOJ5L7yKKOcH9V7lqfLO6gupQGWyadOSPMirw_num4",
@@ -25256,6 +25243,19 @@
         "guest_can_join": 0,
         "avatar_url": null,
         "canonical_alias": "#art-general-chat:nakama.tv",
+        "aliases": ""
+    },
+    {
+        "id": 107120,
+        "server": "matrix.it-syndik.at",
+        "room_id": "!wgMkHUaxADIQSQDZOZ:it-syndik.at",
+        "name": "IT-Syndikat",
+        "topic": "Hackerspace Innsbruck",
+        "num_joined_members": 116,
+        "world_readable": 0,
+        "guest_can_join": 1,
+        "avatar_url": "mxc://it-syndik.at/CGnkoEKdfXKyQvvYqopNwZpK",
+        "canonical_alias": "#lobby:it-syndik.at",
         "aliases": ""
     },
     {
@@ -25402,6 +25402,19 @@
         "aliases": ""
     },
     {
+        "id": 5080,
+        "server": "glasgow.social",
+        "room_id": "!CuEvsIRGTEPVxDOJMt:glasgow.social",
+        "name": "Stand-up Comedy",
+        "topic": "https://comedy.glasgow.social/ - https://peertube.glasgow.social/video-channels/standup/videos | Join us at Laugh in the Park - Sat 24th July 2021, 7pm",
+        "num_joined_members": 112,
+        "world_readable": 0,
+        "guest_can_join": 0,
+        "avatar_url": null,
+        "canonical_alias": "#comedy:glasgow.social",
+        "aliases": ""
+    },
+    {
         "id": 1716,
         "server": "matrix-federation.matrix.org",
         "room_id": "!DjtOqdPZoxZMJpyRJK:matrix.org",
@@ -25425,19 +25438,6 @@
         "guest_can_join": 0,
         "avatar_url": "mxc://glasgow.social/AJkjJOPgNXYeteIcDVRDRNkl",
         "canonical_alias": "#politics:glasgow.social",
-        "aliases": ""
-    },
-    {
-        "id": 5080,
-        "server": "glasgow.social",
-        "room_id": "!CuEvsIRGTEPVxDOJMt:glasgow.social",
-        "name": "Stand-up Comedy",
-        "topic": "https://comedy.glasgow.social/ - https://peertube.glasgow.social/video-channels/standup/videos | Join us at Laugh in the Park - Sat 24th July 2021, 7pm",
-        "num_joined_members": 111,
-        "world_readable": 0,
-        "guest_can_join": 0,
-        "avatar_url": null,
-        "canonical_alias": "#comedy:glasgow.social",
         "aliases": ""
     },
     {
@@ -25477,6 +25477,19 @@
         "guest_can_join": 0,
         "avatar_url": "mxc://matrix.org/UZiNfAkWmbSWMTfcqDzspXPE",
         "canonical_alias": "#splobby:matrix.org",
+        "aliases": ""
+    },
+    {
+        "id": 5079,
+        "server": "glasgow.social",
+        "room_id": "!FGzttegilRQaqxZrcj:glasgow.social",
+        "name": "Pubs",
+        "topic": "https://pubs.glasgow.social",
+        "num_joined_members": 109,
+        "world_readable": 0,
+        "guest_can_join": 0,
+        "avatar_url": null,
+        "canonical_alias": "#pubs:glasgow.social",
         "aliases": ""
     },
     {
@@ -25620,19 +25633,6 @@
         "guest_can_join": 0,
         "avatar_url": "mxc://matrix.opulus.space/HTXyTodMbVdYZAmZEzkFxBSq",
         "canonical_alias": "#command_and_conquer_ua:matrix.org",
-        "aliases": ""
-    },
-    {
-        "id": 5079,
-        "server": "glasgow.social",
-        "room_id": "!FGzttegilRQaqxZrcj:glasgow.social",
-        "name": "Pubs",
-        "topic": "https://pubs.glasgow.social",
-        "num_joined_members": 107,
-        "world_readable": 0,
-        "guest_can_join": 0,
-        "avatar_url": null,
-        "canonical_alias": "#pubs:glasgow.social",
         "aliases": ""
     },
     {
@@ -26156,6 +26156,19 @@
         "aliases": ""
     },
     {
+        "id": 5087,
+        "server": "glasgow.social",
+        "room_id": "!XhPwFNLHHKJygrJHKC:glasgow.social",
+        "name": "Glasgow Wiki",
+        "topic": "https://wiki.glasgow.social",
+        "num_joined_members": 94,
+        "world_readable": 0,
+        "guest_can_join": 0,
+        "avatar_url": null,
+        "canonical_alias": "#wiki:glasgow.social",
+        "aliases": ""
+    },
+    {
         "id": 12059,
         "server": "matrix.grin.hu",
         "room_id": "!iltJZFIAEJNyswIEvZ:grin.hu",
@@ -26208,16 +26221,16 @@
         "aliases": ""
     },
     {
-        "id": 5087,
-        "server": "glasgow.social",
-        "room_id": "!XhPwFNLHHKJygrJHKC:glasgow.social",
-        "name": "Glasgow Wiki",
-        "topic": "https://wiki.glasgow.social",
+        "id": 49975,
+        "server": "matrix.juggler.jp",
+        "room_id": "!xWZOVszJPPTCGadEPN:matrix.juggler.jp",
+        "name": "ロビー",
+        "topic": "明るく健全な#ロビーへようこそ/matrix.juggler.jpの雑談用です。コアなネタなどは誰かが誘導してくれるでしょー（たぶん）\n[院長] へ(へ´)3(｀)へ　ｶｻｶｻｶｻｶｻ",
         "num_joined_members": 92,
         "world_readable": 0,
         "guest_can_join": 0,
-        "avatar_url": null,
-        "canonical_alias": "#wiki:glasgow.social",
+        "avatar_url": "mxc://matrix.juggler.jp/cTCCBgdNuwMtBebhTfLxTIWg",
+        "canonical_alias": "#lobby:matrix.juggler.jp",
         "aliases": ""
     },
     {
@@ -26247,16 +26260,16 @@
         "aliases": ""
     },
     {
-        "id": 49975,
-        "server": "matrix.juggler.jp",
-        "room_id": "!xWZOVszJPPTCGadEPN:matrix.juggler.jp",
-        "name": "ロビー",
-        "topic": "明るく健全な#ロビーへようこそ/matrix.juggler.jpの雑談用です。コアなネタなどは誰かが誘導してくれるでしょー（たぶん）\n[院長] へ(へ´)3(｀)へ　ｶｻｶｻｶｻｶｻ",
+        "id": 9126,
+        "server": "glasgow.social",
+        "room_id": "!aoqjKTPZTzfaYnyiBl:glasgow.social",
+        "name": "Python",
+        "topic": null,
         "num_joined_members": 91,
-        "world_readable": 0,
+        "world_readable": 1,
         "guest_can_join": 0,
-        "avatar_url": "mxc://matrix.juggler.jp/cTCCBgdNuwMtBebhTfLxTIWg",
-        "canonical_alias": "#lobby:matrix.juggler.jp",
+        "avatar_url": null,
+        "canonical_alias": "#python:glasgow.social",
         "aliases": ""
     },
     {
@@ -26270,19 +26283,6 @@
         "guest_can_join": 0,
         "avatar_url": "mxc://immercord.de/bBmgZPwuyxpkHZiJBcOpNnkP",
         "canonical_alias": "#immernachtreich:immercord.de",
-        "aliases": ""
-    },
-    {
-        "id": 9126,
-        "server": "glasgow.social",
-        "room_id": "!aoqjKTPZTzfaYnyiBl:glasgow.social",
-        "name": "Python",
-        "topic": null,
-        "num_joined_members": 90,
-        "world_readable": 1,
-        "guest_can_join": 0,
-        "avatar_url": null,
-        "canonical_alias": "#python:glasgow.social",
         "aliases": ""
     },
     {
@@ -26507,6 +26507,19 @@
         "aliases": ""
     },
     {
+        "id": 118347,
+        "server": "server.matrix4ulm.de",
+        "room_id": "!VnUGSVZ6B4NoV5XxHZ8jppsi2fsQ6gvWjdDw4OR326M",
+        "name": "#freiraum",
+        "topic": "Freiraum - Hackerspace Ulm e.V. / Chaos Computer Club Ulm",
+        "num_joined_members": 86,
+        "world_readable": 0,
+        "guest_can_join": 1,
+        "avatar_url": "mxc://server.matrix4ulm.de/AVUTXVvUxOxAsYxvMyUIkRsb",
+        "canonical_alias": "#freiraum:server.matrix4ulm.de",
+        "aliases": ""
+    },
+    {
         "id": 1708,
         "server": "matrix-federation.matrix.org",
         "room_id": "!iwkcTjwwBGtGTGgcgz:matrix.org",
@@ -26530,6 +26543,19 @@
         "guest_can_join": 1,
         "avatar_url": null,
         "canonical_alias": "#rulescocamserver:cutefunny.art",
+        "aliases": ""
+    },
+    {
+        "id": 49976,
+        "server": "matrix.juggler.jp",
+        "room_id": "!sKrNIRFZMrtyPWHEpI:matrix.juggler.jp",
+        "name": "おもしろネタ速報 Ⅲ HD",
+        "topic": "西成区人権啓発センター移転先、兼おもネタ移転先 2024/06/04開設 HD=禿同\nｴｯﾎｴｯﾎ おもネタはハッテン場って伝えなきゃ ｴｯﾎｴｯﾎ\n[川柳検出BOT] 川柳を検出しました！\n「抜かれたら 体調悪く なりそうや」",
+        "num_joined_members": 85,
+        "world_readable": 0,
+        "guest_can_join": 0,
+        "avatar_url": "mxc://matrix.juggler.jp/xjnCHdCiLMymypTajzoFYSYc",
+        "canonical_alias": "#omoneta3:matrix.juggler.jp",
         "aliases": ""
     },
     {
@@ -26598,19 +26624,6 @@
         "aliases": ""
     },
     {
-        "id": 49976,
-        "server": "matrix.juggler.jp",
-        "room_id": "!sKrNIRFZMrtyPWHEpI:matrix.juggler.jp",
-        "name": "おもしろネタ速報 Ⅲ HD",
-        "topic": "西成区人権啓発センター移転先、兼おもネタ移転先 2024/06/04開設 HD=禿同\nｴｯﾎｴｯﾎ おもネタはハッテン場って伝えなきゃ ｴｯﾎｴｯﾎ\n[川柳検出BOT] 川柳を検出しました！\n「抜かれたら 体調悪く なりそうや」",
-        "num_joined_members": 84,
-        "world_readable": 0,
-        "guest_can_join": 0,
-        "avatar_url": "mxc://matrix.juggler.jp/xjnCHdCiLMymypTajzoFYSYc",
-        "canonical_alias": "#omoneta3:matrix.juggler.jp",
-        "aliases": ""
-    },
-    {
         "id": 1729,
         "server": "matrix-federation.matrix.org",
         "room_id": "!dXBIaYRMZRfPCShhkn:matrix.org",
@@ -26660,19 +26673,6 @@
         "guest_can_join": 0,
         "avatar_url": null,
         "canonical_alias": "#photography:glasgow.social",
-        "aliases": ""
-    },
-    {
-        "id": 118347,
-        "server": "server.matrix4ulm.de",
-        "room_id": "!VnUGSVZ6B4NoV5XxHZ8jppsi2fsQ6gvWjdDw4OR326M",
-        "name": "#freiraum",
-        "topic": "Freiraum - Hackerspace Ulm e.V. / Chaos Computer Club Ulm",
-        "num_joined_members": 83,
-        "world_readable": 0,
-        "guest_can_join": 1,
-        "avatar_url": "mxc://server.matrix4ulm.de/AVUTXVvUxOxAsYxvMyUIkRsb",
-        "canonical_alias": "#freiraum:server.matrix4ulm.de",
         "aliases": ""
     },
     {
@@ -26897,6 +26897,19 @@
         "aliases": ""
     },
     {
+        "id": 5113,
+        "server": "glasgow.social",
+        "room_id": "!tlPgfNjcuYqyaaHodZ:glasgow.social",
+        "name": "Video Games",
+        "topic": "A place to arrange game nights.  Next official meetup in the club: Sun 29th Oct and Sat 12th Oct",
+        "num_joined_members": 79,
+        "world_readable": 1,
+        "guest_can_join": 0,
+        "avatar_url": null,
+        "canonical_alias": "#videogames:glasgow.social",
+        "aliases": ""
+    },
+    {
         "id": 12057,
         "server": "matrix.grin.hu",
         "room_id": "!DnfrDkPlbrIojJqDEK:grin.hu",
@@ -26907,19 +26920,6 @@
         "guest_can_join": 1,
         "avatar_url": "mxc://grin.hu/JVRosPkPOQIZZrcFzRxzIIyY",
         "canonical_alias": "#wikipedia:grin.hu",
-        "aliases": ""
-    },
-    {
-        "id": 5113,
-        "server": "glasgow.social",
-        "room_id": "!tlPgfNjcuYqyaaHodZ:glasgow.social",
-        "name": "Video Games",
-        "topic": "A place to arrange game nights.  Next official meetup in the club: Sun 29th Oct and Sat 12th Oct",
-        "num_joined_members": 78,
-        "world_readable": 1,
-        "guest_can_join": 0,
-        "avatar_url": null,
-        "canonical_alias": "#videogames:glasgow.social",
         "aliases": ""
     },
     {
@@ -27118,6 +27118,19 @@
         "aliases": ""
     },
     {
+        "id": 5085,
+        "server": "glasgow.social",
+        "room_id": "!lnSkTAwHMjrjUZbMSO:glasgow.social",
+        "name": "Game Dev and Other Dev",
+        "topic": "Retired room: See #gamedev:glasgow.social and #coding:glasgow.social | Social meetup Fri 6th Sep at The Gamer Club, from 6pm - https://www.meetup.com/videogames-glasgow/events/302786428/",
+        "num_joined_members": 75,
+        "world_readable": 0,
+        "guest_can_join": 0,
+        "avatar_url": null,
+        "canonical_alias": "#gdod:glasgow.social",
+        "aliases": ""
+    },
+    {
         "id": 1736,
         "server": "matrix-federation.matrix.org",
         "room_id": "!tEQsAdDeCNSwhYOLuS:matrix.org",
@@ -27167,19 +27180,6 @@
         "guest_can_join": 0,
         "avatar_url": null,
         "canonical_alias": "#gamedev:glasgow.social",
-        "aliases": ""
-    },
-    {
-        "id": 5085,
-        "server": "glasgow.social",
-        "room_id": "!lnSkTAwHMjrjUZbMSO:glasgow.social",
-        "name": "Game Dev and Other Dev",
-        "topic": "Retired room: See #gamedev:glasgow.social and #coding:glasgow.social | Social meetup Fri 6th Sep at The Gamer Club, from 6pm - https://www.meetup.com/videogames-glasgow/events/302786428/",
-        "num_joined_members": 74,
-        "world_readable": 0,
-        "guest_can_join": 0,
-        "avatar_url": null,
-        "canonical_alias": "#gdod:glasgow.social",
         "aliases": ""
     },
     {
@@ -27508,6 +27508,19 @@
         "aliases": ""
     },
     {
+        "id": 5089,
+        "server": "glasgow.social",
+        "room_id": "!BSFxNrAdMdaaZeXosC:glasgow.social",
+        "name": "Skeptics",
+        "topic": "https://glasgowskeptics.com/ Next event: 7:15pm Tue Jan 16th in The Admiral Woods Bar - Scotland: A Brief Geological History – Luisa Hendry",
+        "num_joined_members": 68,
+        "world_readable": 0,
+        "guest_can_join": 0,
+        "avatar_url": null,
+        "canonical_alias": "#skeptics:glasgow.social",
+        "aliases": ""
+    },
+    {
         "id": 12062,
         "server": "matrix.grin.hu",
         "room_id": "!USTzJWlsqnMRklBMhn:grin.hu",
@@ -27547,16 +27560,16 @@
         "aliases": ""
     },
     {
-        "id": 5089,
+        "id": 5106,
         "server": "glasgow.social",
-        "room_id": "!BSFxNrAdMdaaZeXosC:glasgow.social",
-        "name": "Skeptics",
-        "topic": "https://glasgowskeptics.com/ Next event: 7:15pm Tue Jan 16th in The Admiral Woods Bar - Scotland: A Brief Geological History – Luisa Hendry",
+        "room_id": "!OuLmguKgKgwSkpjYYm:glasgow.social",
+        "name": "Parents",
+        "topic": "Parents of babies and toddlers",
         "num_joined_members": 67,
-        "world_readable": 0,
+        "world_readable": 1,
         "guest_can_join": 0,
         "avatar_url": null,
-        "canonical_alias": "#skeptics:glasgow.social",
+        "canonical_alias": "#parents:glasgow.social",
         "aliases": ""
     },
     {
@@ -27638,16 +27651,16 @@
         "aliases": ""
     },
     {
-        "id": 5106,
-        "server": "glasgow.social",
-        "room_id": "!OuLmguKgKgwSkpjYYm:glasgow.social",
-        "name": "Parents",
-        "topic": "Parents of babies and toddlers",
+        "id": 49978,
+        "server": "matrix.juggler.jp",
+        "room_id": "!FlsvMYGkzHIAefUMZN:matrix.juggler.jp",
+        "name": "matrix.juggler.jpのお知らせ",
+        "topic": "サーバ運営のお知らせとか作業記録とか。\n**利用規約  https://matrix.juggler.jp/ **",
         "num_joined_members": 66,
         "world_readable": 1,
         "guest_can_join": 0,
-        "avatar_url": null,
-        "canonical_alias": "#parents:glasgow.social",
+        "avatar_url": "mxc://matrix.juggler.jp/YgiuSsRaJREsbINyjKMeleyA",
+        "canonical_alias": "#mjj:matrix.juggler.jp",
         "aliases": ""
     },
     {
@@ -27820,19 +27833,6 @@
         "aliases": ""
     },
     {
-        "id": 49978,
-        "server": "matrix.juggler.jp",
-        "room_id": "!FlsvMYGkzHIAefUMZN:matrix.juggler.jp",
-        "name": "matrix.juggler.jpのお知らせ",
-        "topic": "サーバ運営のお知らせとか作業記録とか。\n**利用規約  https://matrix.juggler.jp/ **",
-        "num_joined_members": 64,
-        "world_readable": 1,
-        "guest_can_join": 0,
-        "avatar_url": "mxc://matrix.juggler.jp/YgiuSsRaJREsbINyjKMeleyA",
-        "canonical_alias": "#mjj:matrix.juggler.jp",
-        "aliases": ""
-    },
-    {
         "id": 2390,
         "server": "matrix.trom.tf",
         "room_id": "!vkVhOqfehtBLZRVOsC:matrix.trom.tf",
@@ -27924,6 +27924,19 @@
         "aliases": ""
     },
     {
+        "id": 5096,
+        "server": "glasgow.social",
+        "room_id": "!NfxfFlubUrcQWXYnQt:glasgow.social",
+        "name": "Hackerspace",
+        "topic": "Hackerspaces & Makerspaces in Glasgow | https://wiki.hackerspaces.org/Glasgow | Monthly open day: second Saturday of the month from 1pm (https://www.thegamerclub.co.uk/openday)",
+        "num_joined_members": 60,
+        "world_readable": 1,
+        "guest_can_join": 0,
+        "avatar_url": null,
+        "canonical_alias": "#hackerspace:glasgow.social",
+        "aliases": ""
+    },
+    {
         "id": 12089,
         "server": "matrix.grin.hu",
         "room_id": "!helzvsvOwNzkyWZTbw:matrix.bgsoft.hu",
@@ -27986,19 +27999,6 @@
         "guest_can_join": 1,
         "avatar_url": "mxc://matrix.muensterhack.de/NSIdDdOjqkuaLvHYkxLJmAeN",
         "canonical_alias": "#mshack22:matrix.muensterhack.de",
-        "aliases": ""
-    },
-    {
-        "id": 5096,
-        "server": "glasgow.social",
-        "room_id": "!NfxfFlubUrcQWXYnQt:glasgow.social",
-        "name": "Hackerspace",
-        "topic": "Hackerspaces & Makerspaces in Glasgow | https://wiki.hackerspaces.org/Glasgow | Monthly open day: second Saturday of the month from 1pm (https://www.thegamerclub.co.uk/openday)",
-        "num_joined_members": 59,
-        "world_readable": 1,
-        "guest_can_join": 0,
-        "avatar_url": null,
-        "canonical_alias": "#hackerspace:glasgow.social",
         "aliases": ""
     },
     {
@@ -28145,6 +28145,19 @@
         "aliases": ""
     },
     {
+        "id": 49980,
+        "server": "matrix.juggler.jp",
+        "room_id": "!lCRtUvzgxwUPipoMhu:matrix.juggler.jp",
+        "name": "政治選挙速報局",
+        "topic": "選挙が終了したので政治とか国際情報とか/ 今月の選挙スケジュール https://www.nhk.or.jp/senkyo/schedule/monthly/ / おもしろ政治選挙→政治選挙速報局に変わりました。",
+        "num_joined_members": 58,
+        "world_readable": 0,
+        "guest_can_join": 0,
+        "avatar_url": "mxc://matrix.juggler.jp/wIaeufGXRdbjcSBbtoCGGbWK",
+        "canonical_alias": "#omo-seijisenkyo:matrix.juggler.jp",
+        "aliases": ""
+    },
+    {
         "id": 1741,
         "server": "matrix-federation.matrix.org",
         "room_id": "!zdlKpuHMnbzvMRSmFM:realm.bz",
@@ -28246,19 +28259,6 @@
         "guest_can_join": 0,
         "avatar_url": "mxc://flieger.chat/gFAXHvxaVUAJnQDvfoIiQNoC",
         "canonical_alias": "#politics4thesane:flieger.chat",
-        "aliases": ""
-    },
-    {
-        "id": 49980,
-        "server": "matrix.juggler.jp",
-        "room_id": "!lCRtUvzgxwUPipoMhu:matrix.juggler.jp",
-        "name": "政治選挙速報局",
-        "topic": "選挙が終了したので政治とか国際情報とか/ 今月の選挙スケジュール https://www.nhk.or.jp/senkyo/schedule/monthly/ / おもしろ政治選挙→政治選挙速報局に変わりました。",
-        "num_joined_members": 57,
-        "world_readable": 0,
-        "guest_can_join": 0,
-        "avatar_url": "mxc://matrix.juggler.jp/wIaeufGXRdbjcSBbtoCGGbWK",
-        "canonical_alias": "#omo-seijisenkyo:matrix.juggler.jp",
         "aliases": ""
     },
     {
@@ -28418,6 +28418,19 @@
         "aliases": ""
     },
     {
+        "id": 61413,
+        "server": "synapse.thedreamer.nl",
+        "room_id": "!okITjfZABEWnsQQibq:thedreamer.nl",
+        "name": "Public Chat",
+        "topic": "Public Chatroom on the TheDreamer.nl Matrix Server\nLocal users: Remember to set notifications per channel to avoid email spam!",
+        "num_joined_members": 56,
+        "world_readable": 1,
+        "guest_can_join": 1,
+        "avatar_url": "mxc://thedreamer.nl/ALGdDbyKPcSAUPwJxFORtBzF",
+        "canonical_alias": "#public:thedreamer.nl",
+        "aliases": ""
+    },
+    {
         "id": 107709,
         "server": "nope.chat",
         "room_id": "!UlYykzsGvYetFDZuPU:chagai.website",
@@ -28480,6 +28493,19 @@
         "guest_can_join": 0,
         "avatar_url": null,
         "canonical_alias": "#announcement:cutefunny.art",
+        "aliases": ""
+    },
+    {
+        "id": 49981,
+        "server": "matrix.juggler.jp",
+        "room_id": "!PIVmBVysxUcjrCiosM:matrix.juggler.jp",
+        "name": "プログラミング",
+        "topic": null,
+        "num_joined_members": 55,
+        "world_readable": 0,
+        "guest_can_join": 0,
+        "avatar_url": "mxc://matrix.juggler.jp/laCrWDrfpjtlSidydXOuYBiy",
+        "canonical_alias": "#programming:matrix.juggler.jp",
         "aliases": ""
     },
     {
@@ -28665,32 +28691,6 @@
         "aliases": ""
     },
     {
-        "id": 49981,
-        "server": "matrix.juggler.jp",
-        "room_id": "!PIVmBVysxUcjrCiosM:matrix.juggler.jp",
-        "name": "プログラミング",
-        "topic": null,
-        "num_joined_members": 54,
-        "world_readable": 0,
-        "guest_can_join": 0,
-        "avatar_url": "mxc://matrix.juggler.jp/laCrWDrfpjtlSidydXOuYBiy",
-        "canonical_alias": "#programming:matrix.juggler.jp",
-        "aliases": ""
-    },
-    {
-        "id": 61413,
-        "server": "synapse.thedreamer.nl",
-        "room_id": "!okITjfZABEWnsQQibq:thedreamer.nl",
-        "name": "Public Chat",
-        "topic": "Public Chatroom on the TheDreamer.nl Matrix Server\nLocal users: Remember to set notifications per channel to avoid email spam!",
-        "num_joined_members": 54,
-        "world_readable": 1,
-        "guest_can_join": 1,
-        "avatar_url": "mxc://thedreamer.nl/ALGdDbyKPcSAUPwJxFORtBzF",
-        "canonical_alias": "#public:thedreamer.nl",
-        "aliases": ""
-    },
-    {
         "id": 1751,
         "server": "matrix-federation.matrix.org",
         "room_id": "!svyJmZkJYNPkPRXrWY:matrix.org",
@@ -28727,19 +28727,6 @@
         "guest_can_join": 1,
         "avatar_url": null,
         "canonical_alias": "#otheranime:cutefunny.art",
-        "aliases": ""
-    },
-    {
-        "id": 5111,
-        "server": "glasgow.social",
-        "room_id": "!NYRlrYujWhAyfpDYkS:glasgow.social",
-        "name": "The Red Door",
-        "topic": "If you know, you know :) https://thereddoor.glasgow.social/",
-        "num_joined_members": 53,
-        "world_readable": 1,
-        "guest_can_join": 0,
-        "avatar_url": null,
-        "canonical_alias": "#TheRedDoor:glasgow.social",
         "aliases": ""
     },
     {
@@ -28792,6 +28779,19 @@
         "guest_can_join": 1,
         "avatar_url": null,
         "canonical_alias": "#hackers123:matrix.org",
+        "aliases": ""
+    },
+    {
+        "id": 2334,
+        "server": "matrix.muensterhack.de",
+        "room_id": "!TODdHzHyvmoDILufcN:matrix.muensterhack.de",
+        "name": "Solution Enabler",
+        "topic": "Abstimmung zum Solution Enabler Programm des #MSHACK2021",
+        "num_joined_members": 52,
+        "world_readable": 0,
+        "guest_can_join": 0,
+        "avatar_url": "mxc://matrix.muensterhack.de/BCRACoZZPCJycHQpJSqMStQT",
+        "canonical_alias": "#solutionenabler:matrix.muensterhack.de",
         "aliases": ""
     },
     {
@@ -28873,6 +28873,19 @@
         "aliases": ""
     },
     {
+        "id": 5111,
+        "server": "glasgow.social",
+        "room_id": "!NYRlrYujWhAyfpDYkS:glasgow.social",
+        "name": "The Red Door",
+        "topic": "If you know, you know :) https://thereddoor.glasgow.social/",
+        "num_joined_members": 52,
+        "world_readable": 1,
+        "guest_can_join": 0,
+        "avatar_url": null,
+        "canonical_alias": "#TheRedDoor:glasgow.social",
+        "aliases": ""
+    },
+    {
         "id": 1783,
         "server": "matrix.grin.hu",
         "room_id": "!NqCwEKzMODuUVMVSgb:grin.hu",
@@ -28896,19 +28909,6 @@
         "guest_can_join": 0,
         "avatar_url": "mxc://mx.grupotd.nat.cu/fZZRTebtpwNVlwITfZAkFgia",
         "canonical_alias": "#grupotd-fork:mx.grupotd.nat.cu",
-        "aliases": ""
-    },
-    {
-        "id": 2334,
-        "server": "matrix.muensterhack.de",
-        "room_id": "!TODdHzHyvmoDILufcN:matrix.muensterhack.de",
-        "name": "Solution Enabler",
-        "topic": "Abstimmung zum Solution Enabler Programm des #MSHACK2021",
-        "num_joined_members": 51,
-        "world_readable": 0,
-        "guest_can_join": 0,
-        "avatar_url": "mxc://matrix.muensterhack.de/BCRACoZZPCJycHQpJSqMStQT",
-        "canonical_alias": "#solutionenabler:matrix.muensterhack.de",
         "aliases": ""
     },
     {
@@ -29029,6 +29029,19 @@
         "aliases": ""
     },
     {
+        "id": 2296,
+        "server": "matrix.gemeinsam.jetzt",
+        "room_id": "!EjniZolNFXAZihUOtN:gemeinsam.jetzt",
+        "name": "CTG Commodore-Treffen Graz",
+        "topic": "CTG $4D am 10. Oktober ab 18:00 Uhr",
+        "num_joined_members": 50,
+        "world_readable": 0,
+        "guest_can_join": 1,
+        "avatar_url": "mxc://matrix.org/pfOjMrvheWCCfoZSskiyCtAF",
+        "canonical_alias": "#ctg:matrix.org",
+        "aliases": ""
+    },
+    {
         "id": 2573,
         "server": "nope.chat",
         "room_id": "!cJBVnRnprLfxcczzBX:nakama.tv",
@@ -29078,6 +29091,19 @@
         "guest_can_join": 0,
         "avatar_url": null,
         "canonical_alias": "#mastodon:glasgow.social",
+        "aliases": ""
+    },
+    {
+        "id": 5101,
+        "server": "glasgow.social",
+        "room_id": "!WmXRqIixIqrvlmKjiS:glasgow.social",
+        "name": "Nintendo switch ",
+        "topic": null,
+        "num_joined_members": 50,
+        "world_readable": 0,
+        "guest_can_join": 0,
+        "avatar_url": null,
+        "canonical_alias": "#Nintendo-switch:glasgow.social",
         "aliases": ""
     },
     {
@@ -29159,16 +29185,16 @@
         "aliases": ""
     },
     {
-        "id": 2296,
-        "server": "matrix.gemeinsam.jetzt",
-        "room_id": "!EjniZolNFXAZihUOtN:gemeinsam.jetzt",
-        "name": "CTG Commodore-Treffen Graz",
-        "topic": "CTG $4D am 10. Oktober ab 18:00 Uhr",
+        "id": 2288,
+        "server": "matrix.gnulinux.club",
+        "room_id": "!ztMALohtyGbvtQjYwk:gnulinux.club",
+        "name": "gnulinuxclub",
+        "topic": "Welcome to the GNU/Linux Club, a public space dedicated to furthering Free Software and its surrounding culture.",
         "num_joined_members": 49,
-        "world_readable": 0,
+        "world_readable": 1,
         "guest_can_join": 1,
-        "avatar_url": "mxc://matrix.org/pfOjMrvheWCCfoZSskiyCtAF",
-        "canonical_alias": "#ctg:matrix.org",
+        "avatar_url": "mxc://gnulinux.club/LRcTtzCVYAqscHEpkBjpHUER",
+        "canonical_alias": "#gnulinuxclub:gnulinux.club",
         "aliases": ""
     },
     {
@@ -29182,19 +29208,6 @@
         "guest_can_join": 0,
         "avatar_url": "mxc://glasgow.social/pAEmBjRIsBBHDYhWwKOhZlSs",
         "canonical_alias": "#jellyfin:glasgow.social",
-        "aliases": ""
-    },
-    {
-        "id": 5101,
-        "server": "glasgow.social",
-        "room_id": "!WmXRqIixIqrvlmKjiS:glasgow.social",
-        "name": "Nintendo switch ",
-        "topic": null,
-        "num_joined_members": 49,
-        "world_readable": 0,
-        "guest_can_join": 0,
-        "avatar_url": null,
-        "canonical_alias": "#Nintendo-switch:glasgow.social",
         "aliases": ""
     },
     {
@@ -29367,19 +29380,6 @@
         "aliases": ""
     },
     {
-        "id": 2288,
-        "server": "matrix.gnulinux.club",
-        "room_id": "!ztMALohtyGbvtQjYwk:gnulinux.club",
-        "name": "gnulinuxclub",
-        "topic": "Welcome to the GNU/Linux Club, a public space dedicated to furthering Free Software and its surrounding culture.",
-        "num_joined_members": 47,
-        "world_readable": 1,
-        "guest_can_join": 1,
-        "avatar_url": "mxc://gnulinux.club/LRcTtzCVYAqscHEpkBjpHUER",
-        "canonical_alias": "#gnulinuxclub:gnulinux.club",
-        "aliases": ""
-    },
-    {
         "id": 2578,
         "server": "nope.chat",
         "room_id": "!csUQTsGaidZFVAOfau:nakama.tv",
@@ -29468,6 +29468,19 @@
         "guest_can_join": 1,
         "avatar_url": "mxc://100oj.com/EnDrjjyrfHSLdvTntRwJnmzB",
         "canonical_alias": "#minecraft:100oj.com",
+        "aliases": ""
+    },
+    {
+        "id": 117692,
+        "server": "server.matrix4ulm.de",
+        "room_id": "!tAzt097v7SWtFlTl1uMfTxAwMLGfVU2D-TMGsPtasTc",
+        "name": "#chill-out-room",
+        "topic": "Chill-out-Room von matrix4ulm.de - Zum \"Abhängen\" und \"Testen\"  - Admin Room",
+        "num_joined_members": 47,
+        "world_readable": 0,
+        "guest_can_join": 1,
+        "avatar_url": "mxc://server.matrix4ulm.de/DkEVwRiKpTpUIzIIXyGywULf",
+        "canonical_alias": "#chill-out-room:server.matrix4ulm.de",
         "aliases": ""
     },
     {
@@ -29588,19 +29601,6 @@
         "aliases": ""
     },
     {
-        "id": 117692,
-        "server": "server.matrix4ulm.de",
-        "room_id": "!tAzt097v7SWtFlTl1uMfTxAwMLGfVU2D-TMGsPtasTc",
-        "name": "#chill-out-room",
-        "topic": "Chill-out-Room von matrix4ulm.de - Zum \"Abhängen\" und \"Testen\"  - Admin Room",
-        "num_joined_members": 46,
-        "world_readable": 0,
-        "guest_can_join": 1,
-        "avatar_url": "mxc://server.matrix4ulm.de/DkEVwRiKpTpUIzIIXyGywULf",
-        "canonical_alias": "#chill-out-room:server.matrix4ulm.de",
-        "aliases": ""
-    },
-    {
         "id": 1765,
         "server": "matrix-federation.matrix.org",
         "room_id": "!UrkFylzMNMSjbxBFke:matrix.org",
@@ -29705,6 +29705,19 @@
         "aliases": ""
     },
     {
+        "id": 49983,
+        "server": "matrix.juggler.jp",
+        "room_id": "!BByzhEMhPyuyPiieJg:matrix.juggler.jp",
+        "name": "カメラ",
+        "topic": null,
+        "num_joined_members": 45,
+        "world_readable": 0,
+        "guest_can_join": 0,
+        "avatar_url": "mxc://matrix.juggler.jp/ljiADZFEPvKeHHvsMipBkXHh",
+        "canonical_alias": "#camera:matrix.juggler.jp",
+        "aliases": ""
+    },
+    {
         "id": 113090,
         "server": "nope.chat",
         "room_id": "!pLirCKdxCHvgEnlXyS:nope.chat",
@@ -29793,19 +29806,6 @@
         "guest_can_join": 1,
         "avatar_url": "mxc://comm.cx/fa72a19a59d7931598e76ac2133d6655df4ef1bb",
         "canonical_alias": "#zgw:comm.cx",
-        "aliases": ""
-    },
-    {
-        "id": 49983,
-        "server": "matrix.juggler.jp",
-        "room_id": "!BByzhEMhPyuyPiieJg:matrix.juggler.jp",
-        "name": "カメラ",
-        "topic": null,
-        "num_joined_members": 44,
-        "world_readable": 0,
-        "guest_can_join": 0,
-        "avatar_url": "mxc://matrix.juggler.jp/ljiADZFEPvKeHHvsMipBkXHh",
-        "canonical_alias": "#camera:matrix.juggler.jp",
         "aliases": ""
     },
     {
@@ -29978,6 +29978,19 @@
         "aliases": ""
     },
     {
+        "id": 11803,
+        "server": "chat.marimoko.biz",
+        "room_id": "!luIRvXSzTxvOnqARkI:chat.marimoko.biz",
+        "name": "Show Your Smoke",
+        "topic": null,
+        "num_joined_members": 43,
+        "world_readable": 0,
+        "guest_can_join": 0,
+        "avatar_url": "mxc://chat.marimoko.biz/JBrwfKRxEQVSKXfFEBxTBWik",
+        "canonical_alias": "#smokeshow:chat.marimoko.biz",
+        "aliases": ""
+    },
+    {
         "id": 21110,
         "server": "matrix.birdcat.cafe",
         "room_id": "!uvzCQSyULyqXmVOfgh:matrix.birdcat.cafe",
@@ -30108,6 +30121,19 @@
         "aliases": ""
     },
     {
+        "id": 5094,
+        "server": "glasgow.social",
+        "room_id": "!UmOnGgaazFdYPcIjuM:glasgow.social",
+        "name": "Virtual Reality",
+        "topic": "Mixed Reality Scotland (AR/VR/MR) https://www.meetup.com/mixed-reality-scotland/",
+        "num_joined_members": 42,
+        "world_readable": 1,
+        "guest_can_join": 0,
+        "avatar_url": null,
+        "canonical_alias": "#vr:glasgow.social",
+        "aliases": ""
+    },
+    {
         "id": 5100,
         "server": "glasgow.social",
         "room_id": "!ZDbyjHeSvYFQXEIusq:glasgow.social",
@@ -30118,19 +30144,6 @@
         "guest_can_join": 0,
         "avatar_url": null,
         "canonical_alias": "#peertube:glasgow.social",
-        "aliases": ""
-    },
-    {
-        "id": 11803,
-        "server": "chat.marimoko.biz",
-        "room_id": "!luIRvXSzTxvOnqARkI:chat.marimoko.biz",
-        "name": "Show Your Smoke",
-        "topic": null,
-        "num_joined_members": 42,
-        "world_readable": 0,
-        "guest_can_join": 0,
-        "avatar_url": "mxc://chat.marimoko.biz/JBrwfKRxEQVSKXfFEBxTBWik",
-        "canonical_alias": "#smokeshow:chat.marimoko.biz",
         "aliases": ""
     },
     {
@@ -30173,16 +30186,16 @@
         "aliases": ""
     },
     {
-        "id": 5094,
-        "server": "glasgow.social",
-        "room_id": "!UmOnGgaazFdYPcIjuM:glasgow.social",
-        "name": "Virtual Reality",
-        "topic": "Mixed Reality Scotland (AR/VR/MR) https://www.meetup.com/mixed-reality-scotland/",
+        "id": 49987,
+        "server": "matrix.juggler.jp",
+        "room_id": "!cBjgFpVeCMqeIcdKJX:matrix.juggler.jp",
+        "name": "RSS Feeds",
+        "topic": "Alyx's choice of RSS feeds",
         "num_joined_members": 41,
-        "world_readable": 1,
+        "world_readable": 0,
         "guest_can_join": 0,
-        "avatar_url": null,
-        "canonical_alias": "#vr:glasgow.social",
+        "avatar_url": "mxc://matrix.juggler.jp/zKMccVEZHyqbXnILMiHcoIVR",
+        "canonical_alias": "#alyx.rss:matrix.juggler.jp",
         "aliases": ""
     },
     {
@@ -30352,19 +30365,6 @@
         "guest_can_join": 0,
         "avatar_url": null,
         "canonical_alias": "#map-notifications:matrix.unloze.com",
-        "aliases": ""
-    },
-    {
-        "id": 49987,
-        "server": "matrix.juggler.jp",
-        "room_id": "!cBjgFpVeCMqeIcdKJX:matrix.juggler.jp",
-        "name": "RSS Feeds",
-        "topic": "Alyx's choice of RSS feeds",
-        "num_joined_members": 40,
-        "world_readable": 0,
-        "guest_can_join": 0,
-        "avatar_url": "mxc://matrix.juggler.jp/zKMccVEZHyqbXnILMiHcoIVR",
-        "canonical_alias": "#alyx.rss:matrix.juggler.jp",
         "aliases": ""
     },
     {
@@ -31395,6 +31395,19 @@
         "aliases": ""
     },
     {
+        "id": 11817,
+        "server": "chat.marimoko.biz",
+        "room_id": "!QBpLksXwkYCAnhgmLL:chat.marimoko.biz",
+        "name": "Canada-Eh",
+        "topic": "All things Canada",
+        "num_joined_members": 32,
+        "world_readable": 1,
+        "guest_can_join": 1,
+        "avatar_url": "mxc://chat.marimoko.biz/TXpHxcfyiQQfqeasLTmlhRUw",
+        "canonical_alias": "#canada-eh:chat.marimoko.biz",
+        "aliases": ""
+    },
+    {
         "id": 12081,
         "server": "matrix.grin.hu",
         "room_id": "!pJEGuFLfKPjfejhjZu:grin.hu",
@@ -31564,6 +31577,19 @@
         "aliases": ""
     },
     {
+        "id": 5107,
+        "server": "glasgow.social",
+        "room_id": "!ENYOgVUbIiqLCaucIU:glasgow.social",
+        "name": "Arguments",
+        "topic": "A place for debates, discussions and an eventual argument meetup group",
+        "num_joined_members": 31,
+        "world_readable": 1,
+        "guest_can_join": 0,
+        "avatar_url": null,
+        "canonical_alias": "#arguments:glasgow.social",
+        "aliases": ""
+    },
+    {
         "id": 11807,
         "server": "chat.marimoko.biz",
         "room_id": "!wrHJRfNGMClShVSXmQ:chat.marimoko.biz",
@@ -31574,19 +31600,6 @@
         "guest_can_join": 0,
         "avatar_url": "mxc://chat.marimoko.biz/WutqouWChtIissQCgvAbfoCa",
         "canonical_alias": "#harvest:chat.marimoko.biz",
-        "aliases": ""
-    },
-    {
-        "id": 11817,
-        "server": "chat.marimoko.biz",
-        "room_id": "!QBpLksXwkYCAnhgmLL:chat.marimoko.biz",
-        "name": "Canada-Eh",
-        "topic": "All things Canada",
-        "num_joined_members": 31,
-        "world_readable": 1,
-        "guest_can_join": 1,
-        "avatar_url": "mxc://chat.marimoko.biz/TXpHxcfyiQQfqeasLTmlhRUw",
-        "canonical_alias": "#canada-eh:chat.marimoko.biz",
         "aliases": ""
     },
     {
@@ -31808,19 +31821,6 @@
         "guest_can_join": 0,
         "avatar_url": null,
         "canonical_alias": "#images:nakama.tv",
-        "aliases": ""
-    },
-    {
-        "id": 5107,
-        "server": "glasgow.social",
-        "room_id": "!ENYOgVUbIiqLCaucIU:glasgow.social",
-        "name": "Arguments",
-        "topic": "A place for debates, discussions and an eventual argument meetup group",
-        "num_joined_members": 30,
-        "world_readable": 1,
-        "guest_can_join": 0,
-        "avatar_url": null,
-        "canonical_alias": "#arguments:glasgow.social",
         "aliases": ""
     },
     {
@@ -32929,19 +32929,6 @@
         "aliases": ""
     },
     {
-        "id": 121920,
-        "server": "riot.firechicken.net",
-        "room_id": "!bRBpqsxJGORHUQqNMy:riot.firechicken.net",
-        "name": "House of Madness",
-        "topic": "OOOOOO YOU LIKE BOYS UR A BOYKISSER",
-        "num_joined_members": 26,
-        "world_readable": 0,
-        "guest_can_join": 0,
-        "avatar_url": "mxc://riot.firechicken.net/eSJtrZLbRMMJgFCupprCuxfW",
-        "canonical_alias": "#houseofmadness:riot.firechicken.net",
-        "aliases": ""
-    },
-    {
         "id": 131063,
         "server": "immercord.de",
         "room_id": "!vcRjsRadzuMDZDSTce:immercord.de",
@@ -33267,6 +33254,19 @@
         "aliases": ""
     },
     {
+        "id": 121920,
+        "server": "riot.firechicken.net",
+        "room_id": "!bRBpqsxJGORHUQqNMy:riot.firechicken.net",
+        "name": "House of Madness",
+        "topic": "OOOOOO YOU LIKE BOYS UR A BOYKISSER",
+        "num_joined_members": 25,
+        "world_readable": 0,
+        "guest_can_join": 0,
+        "avatar_url": "mxc://riot.firechicken.net/eSJtrZLbRMMJgFCupprCuxfW",
+        "canonical_alias": "#houseofmadness:riot.firechicken.net",
+        "aliases": ""
+    },
+    {
         "id": 1841,
         "server": "matrix-federation.matrix.org",
         "room_id": "!qsFQYjLPIkVMkpfavV:matrix.org",
@@ -33576,6 +33576,19 @@
         "guest_can_join": 0,
         "avatar_url": "mxc://matrix.juggler.jp/HrmEqAetipDlVhUzxLVxnEfe",
         "canonical_alias": "#omokan:matrix.juggler.jp",
+        "aliases": ""
+    },
+    {
+        "id": 49995,
+        "server": "matrix.juggler.jp",
+        "room_id": "!USVwauGxWsksXRSxfj:matrix.juggler.jp",
+        "name": "Android",
+        "topic": null,
+        "num_joined_members": 24,
+        "world_readable": 0,
+        "guest_can_join": 0,
+        "avatar_url": "mxc://matrix.juggler.jp/iChIfrLjKjmlTgeQoGbYZkPM",
+        "canonical_alias": "#android:matrix.juggler.jp",
         "aliases": ""
     },
     {
@@ -33956,19 +33969,6 @@
         "aliases": ""
     },
     {
-        "id": 49995,
-        "server": "matrix.juggler.jp",
-        "room_id": "!USVwauGxWsksXRSxfj:matrix.juggler.jp",
-        "name": "Android",
-        "topic": null,
-        "num_joined_members": 23,
-        "world_readable": 0,
-        "guest_can_join": 0,
-        "avatar_url": "mxc://matrix.juggler.jp/iChIfrLjKjmlTgeQoGbYZkPM",
-        "canonical_alias": "#android:matrix.juggler.jp",
-        "aliases": ""
-    },
-    {
         "id": 100659,
         "server": "matrix.qoto.org",
         "room_id": "!tMDfBRlKBUQxoMqYac:qoto.org",
@@ -34330,6 +34330,19 @@
         "guest_can_join": 1,
         "avatar_url": "mxc://matrix.org/pbJXAxUjgrsDcJPrdijYYbdQ",
         "canonical_alias": "#unloze:matrix.unloze.com",
+        "aliases": ""
+    },
+    {
+        "id": 49997,
+        "server": "matrix.juggler.jp",
+        "room_id": "!hjPcFpbHmNfIYqqeyF:matrix.juggler.jp",
+        "name": "間取り",
+        "topic": "間取りとか主にお一人生活者ライフハック/地方ネタとか",
+        "num_joined_members": 22,
+        "world_readable": 0,
+        "guest_can_join": 0,
+        "avatar_url": "mxc://smith.gdgd.jp.net/XzzJxBrGBxkOirlPcvdNYNjj",
+        "canonical_alias": "#realestate:matrix.juggler.jp",
         "aliases": ""
     },
     {
@@ -34824,19 +34837,6 @@
         "guest_can_join": 1,
         "avatar_url": "mxc://grin.hu/VoaiPKfaNXrfpVhCCtpRZZuG",
         "canonical_alias": "#transznemu_csevego:grin.hu",
-        "aliases": ""
-    },
-    {
-        "id": 49997,
-        "server": "matrix.juggler.jp",
-        "room_id": "!hjPcFpbHmNfIYqqeyF:matrix.juggler.jp",
-        "name": "間取り",
-        "topic": "間取りとか主にお一人生活者ライフハック/地方ネタとか",
-        "num_joined_members": 21,
-        "world_readable": 0,
-        "guest_can_join": 0,
-        "avatar_url": "mxc://smith.gdgd.jp.net/XzzJxBrGBxkOirlPcvdNYNjj",
-        "canonical_alias": "#realestate:matrix.juggler.jp",
         "aliases": ""
     },
     {
@@ -35854,6 +35854,19 @@
         "aliases": ""
     },
     {
+        "id": 131325,
+        "server": "synapse.matrix.rocks",
+        "room_id": "!ZxwDtirLyALEectPWS:matrix.rocks",
+        "name": "Taylow Swift",
+        "topic": "Born: Taylor Alison Swift, December 13, 1989, West Reading, Pennsylvania, U.S.\n\nTaylor Alison Swift is an American singer-songwriter. Recognised for her songwriting, musical versatility, artistic reinventions, and influence on the music industry, she is a prominent cultural figure of the 21st century.\nSwift began professional songwriting at age 14 and signed with Big Machine Records in 2005 to become a country singer.\n\nOccupation:Singer-songwriter, producer, director, businesswoman, actress\n\nYears active: 2004–present",
+        "num_joined_members": 19,
+        "world_readable": 0,
+        "guest_can_join": 0,
+        "avatar_url": "mxc://matrix.rocks/OowOvbTLsFIabDVRBzNOidVp",
+        "canonical_alias": "#TaylorSwift:matrix.rocks",
+        "aliases": ""
+    },
+    {
         "id": 132885,
         "server": "sabrinateenlich.win",
         "room_id": "!00OrXffMYG7Gaebif3JBhd9wUYFUIoBcZiMF23aXHmU",
@@ -36712,19 +36725,6 @@
         "aliases": ""
     },
     {
-        "id": 131325,
-        "server": "synapse.matrix.rocks",
-        "room_id": "!ZxwDtirLyALEectPWS:matrix.rocks",
-        "name": "Taylow Swift",
-        "topic": "Born: Taylor Alison Swift, December 13, 1989, West Reading, Pennsylvania, U.S.\n\nTaylor Alison Swift is an American singer-songwriter. Recognised for her songwriting, musical versatility, artistic reinventions, and influence on the music industry, she is a prominent cultural figure of the 21st century.\nSwift began professional songwriting at age 14 and signed with Big Machine Records in 2005 to become a country singer.\n\nOccupation:Singer-songwriter, producer, director, businesswoman, actress\n\nYears active: 2004–present",
-        "num_joined_members": 17,
-        "world_readable": 0,
-        "guest_can_join": 0,
-        "avatar_url": "mxc://matrix.rocks/OowOvbTLsFIabDVRBzNOidVp",
-        "canonical_alias": "#TaylorSwift:matrix.rocks",
-        "aliases": ""
-    },
-    {
         "id": 1920,
         "server": "matrix-federation.matrix.org",
         "room_id": "!wQaxZOPhHcCxMnOrhx:matrix.org",
@@ -37034,6 +37034,19 @@
         "guest_can_join": 0,
         "avatar_url": null,
         "canonical_alias": "#irl:nakama.tv",
+        "aliases": ""
+    },
+    {
+        "id": 5114,
+        "server": "glasgow.social",
+        "room_id": "!ngEYtyKkHfqtIODybY:glasgow.social",
+        "name": "Reddit-Live",
+        "topic": "Firehose mode: All comments from every thread in https://www.reddit.com/r/glasgow",
+        "num_joined_members": 16,
+        "world_readable": 0,
+        "guest_can_join": 0,
+        "avatar_url": null,
+        "canonical_alias": "#reddit-live:glasgow.social",
         "aliases": ""
     },
     {
@@ -37502,19 +37515,6 @@
         "guest_can_join": 0,
         "avatar_url": null,
         "canonical_alias": "#bbbbb9:matrix.org",
-        "aliases": ""
-    },
-    {
-        "id": 5114,
-        "server": "glasgow.social",
-        "room_id": "!ngEYtyKkHfqtIODybY:glasgow.social",
-        "name": "Reddit-Live",
-        "topic": "Firehose mode: All comments from every thread in https://www.reddit.com/r/glasgow",
-        "num_joined_members": 15,
-        "world_readable": 0,
-        "guest_can_join": 0,
-        "avatar_url": null,
-        "canonical_alias": "#reddit-live:glasgow.social",
         "aliases": ""
     },
     {
@@ -43719,6 +43719,19 @@
         "aliases": ""
     },
     {
+        "id": 129154,
+        "server": "matrix.potatom.ru",
+        "room_id": "!TfqbfQWngwQEIKByEK:matrix.potatom.ru",
+        "name": "POTATOM",
+        "topic": "",
+        "num_joined_members": 9,
+        "world_readable": 1,
+        "guest_can_join": 1,
+        "avatar_url": "mxc://matrix.potatom.ru/WORZiPyrIVtjLJTaJBlJJkdR",
+        "canonical_alias": "#potatom:matrix.potatom.ru",
+        "aliases": ""
+    },
+    {
         "id": 129965,
         "server": "glasgow.social",
         "room_id": "!iOLLprpHUNDXIGyFKp:glasgow.social",
@@ -43742,6 +43755,19 @@
         "guest_can_join": 0,
         "avatar_url": "mxc://matrix.chuggybumba.com/lxxkMJrmhxYPLQdHWNBNIbpG",
         "canonical_alias": "#retrospel:matrix.chuggybumba.com",
+        "aliases": ""
+    },
+    {
+        "id": 132675,
+        "server": "synapse.thedreamer.nl",
+        "room_id": "!vMGgMQqAHbncJHWOSN:thedreamer.nl",
+        "name": "Minecraft",
+        "topic": null,
+        "num_joined_members": 9,
+        "world_readable": 1,
+        "guest_can_join": 0,
+        "avatar_url": "mxc://thedreamer.nl/jTuNITwIRCLAXtznGBNfTHjV",
+        "canonical_alias": "#td_minecraft:thedreamer.nl",
         "aliases": ""
     },
     {
@@ -45981,19 +46007,6 @@
         "aliases": ""
     },
     {
-        "id": 129154,
-        "server": "matrix.potatom.ru",
-        "room_id": "!TfqbfQWngwQEIKByEK:matrix.potatom.ru",
-        "name": "POTATOM",
-        "topic": "",
-        "num_joined_members": 8,
-        "world_readable": 1,
-        "guest_can_join": 1,
-        "avatar_url": "mxc://matrix.potatom.ru/WORZiPyrIVtjLJTaJBlJJkdR",
-        "canonical_alias": "#potatom:matrix.potatom.ru",
-        "aliases": ""
-    },
-    {
         "id": 129178,
         "server": "chat.marimoko.biz",
         "room_id": "!POifDvmrNhKkrpWQEX:chat.marimoko.biz",
@@ -46069,19 +46082,6 @@
         "guest_can_join": 1,
         "avatar_url": null,
         "canonical_alias": "#td_technology:thedreamer.nl",
-        "aliases": ""
-    },
-    {
-        "id": 132675,
-        "server": "synapse.thedreamer.nl",
-        "room_id": "!vMGgMQqAHbncJHWOSN:thedreamer.nl",
-        "name": "Minecraft",
-        "topic": null,
-        "num_joined_members": 8,
-        "world_readable": 1,
-        "guest_can_join": 0,
-        "avatar_url": "mxc://thedreamer.nl/jTuNITwIRCLAXtznGBNfTHjV",
-        "canonical_alias": "#td_minecraft:thedreamer.nl",
         "aliases": ""
     },
     {
@@ -52481,6 +52481,19 @@
         "aliases": ""
     },
     {
+        "id": 118255,
+        "server": "matrix.gnulinux.club",
+        "room_id": "!pEV4P4PwS7SVIRAjhbgIefDuN_jn5qkcVjgA4WGAcjI",
+        "name": "introductions",
+        "topic": "Please provide an authentic and meaningful introduction in this channel. This is required for anyone who desires to join the pubglug channel or spaces, whether home server member or not. Once you post your introduction and it's approved, you will be invited to the pubglug space and channel, where you are required to stay and be active as per the TOS. Please remember introductions must include a tech blogk, gitlab, or some other similar form in which your public/real presence can be verified. Once verified, you are removed from this channel. ",
+        "num_joined_members": 6,
+        "world_readable": 1,
+        "guest_can_join": 1,
+        "avatar_url": "mxc://gnulinux.club/UpAcdEEuvLrRjmlvsMbqgYBi",
+        "canonical_alias": "#introductions:gnulinux.club",
+        "aliases": ""
+    },
+    {
         "id": 126386,
         "server": "socialnetwork24.com",
         "room_id": "!tJBBtwasYsbOpaPryF:socialnetwork24.com",
@@ -55442,19 +55455,6 @@
         "guest_can_join": 0,
         "avatar_url": null,
         "canonical_alias": "#armada-poisk:dobro.bar",
-        "aliases": ""
-    },
-    {
-        "id": 118255,
-        "server": "matrix.gnulinux.club",
-        "room_id": "!pEV4P4PwS7SVIRAjhbgIefDuN_jn5qkcVjgA4WGAcjI",
-        "name": "introductions",
-        "topic": "Please provide an authentic and meaningful introduction in this channel. This is required for anyone who desires to join the pubglug channel or spaces, whether home server member or not. Once you post your introduction and it's approved, you will be invited to the pubglug space and channel, where you are required to stay and be active as per the TOS. Please remember introductions must include a tech blogk, gitlab, or some other similar form in which your public/real presence can be verified. Once verified, you are removed from this channel. ",
-        "num_joined_members": 5,
-        "world_readable": 1,
-        "guest_can_join": 1,
-        "avatar_url": "mxc://gnulinux.club/UpAcdEEuvLrRjmlvsMbqgYBi",
-        "canonical_alias": "#introductions:gnulinux.club",
         "aliases": ""
     },
     {
