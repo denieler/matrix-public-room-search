@@ -15782,6 +15782,19 @@
         "aliases": ""
     },
     {
+        "id": 2292,
+        "server": "matrix.gemeinsam.jetzt",
+        "room_id": "!hpsvYXDsDZQBDQPYYH:gemeinsam.jetzt",
+        "name": "matrix / element",
+        "topic": "Fragen, Anregungen, Wünsche rund um matrix / element bei gemeinsam.jetzt",
+        "num_joined_members": 691,
+        "world_readable": 0,
+        "guest_can_join": 0,
+        "avatar_url": "mxc://gemeinsam.jetzt/akKUYfWhCtGpestnkSewbCmw",
+        "canonical_alias": "#matrix:gemeinsam.jetzt",
+        "aliases": ""
+    },
+    {
         "id": 1100,
         "server": "matrix-federation.matrix.org",
         "room_id": "!mnLoZORXOfXSMNRQtH:matrix.org",
@@ -15792,19 +15805,6 @@
         "guest_can_join": 0,
         "avatar_url": "mxc://matrix.org/xDOVBazmFbUQZpuOZurzroru",
         "canonical_alias": "#csharp_tr:matrix.org",
-        "aliases": ""
-    },
-    {
-        "id": 2292,
-        "server": "matrix.gemeinsam.jetzt",
-        "room_id": "!hpsvYXDsDZQBDQPYYH:gemeinsam.jetzt",
-        "name": "matrix / element",
-        "topic": "Fragen, Anregungen, Wünsche rund um matrix / element bei gemeinsam.jetzt",
-        "num_joined_members": 689,
-        "world_readable": 0,
-        "guest_can_join": 0,
-        "avatar_url": "mxc://gemeinsam.jetzt/akKUYfWhCtGpestnkSewbCmw",
-        "canonical_alias": "#matrix:gemeinsam.jetzt",
         "aliases": ""
     },
     {
@@ -18226,6 +18226,19 @@
         "aliases": ""
     },
     {
+        "id": 2330,
+        "server": "matrix.muensterhack.de",
+        "room_id": "!KDvgQHrLCsuJyiIrFv:matrix.muensterhack.de",
+        "name": "Allgemein",
+        "topic": "Allgemeiner Raum für Austausch aller Art zum Hackathon",
+        "num_joined_members": 565,
+        "world_readable": 0,
+        "guest_can_join": 0,
+        "avatar_url": "mxc://matrix.muensterhack.de/xANwxLWgHnKQDuRVsWrXdlBb",
+        "canonical_alias": "#general:matrix.muensterhack.de",
+        "aliases": ""
+    },
+    {
         "id": 1306,
         "server": "matrix-federation.matrix.org",
         "room_id": "!IsMQBXYEEEXBZFztRi:matrix.org",
@@ -18249,19 +18262,6 @@
         "guest_can_join": 1,
         "avatar_url": "mxc://matrix.org/KmeAgXskZsxQjvAsKarIIKby",
         "canonical_alias": "#funshell:matrix.org",
-        "aliases": ""
-    },
-    {
-        "id": 2330,
-        "server": "matrix.muensterhack.de",
-        "room_id": "!KDvgQHrLCsuJyiIrFv:matrix.muensterhack.de",
-        "name": "Allgemein",
-        "topic": "Allgemeiner Raum für Austausch aller Art zum Hackathon",
-        "num_joined_members": 564,
-        "world_readable": 0,
-        "guest_can_join": 0,
-        "avatar_url": "mxc://matrix.muensterhack.de/xANwxLWgHnKQDuRVsWrXdlBb",
-        "canonical_alias": "#general:matrix.muensterhack.de",
         "aliases": ""
     },
     {
@@ -18330,6 +18330,19 @@
         "aliases": ""
     },
     {
+        "id": 2331,
+        "server": "matrix.muensterhack.de",
+        "room_id": "!VPQvBXFRefCKUwIseV:matrix.muensterhack.de",
+        "name": "Ankündigungen",
+        "topic": "Ankündigungen des Orgateams",
+        "num_joined_members": 560,
+        "world_readable": 0,
+        "guest_can_join": 0,
+        "avatar_url": "mxc://matrix.muensterhack.de/xZJhkKcTclMTfXYUoDZMswxr",
+        "canonical_alias": "#announcements:matrix.muensterhack.de",
+        "aliases": ""
+    },
+    {
         "id": 1268,
         "server": "matrix-federation.matrix.org",
         "room_id": "!xDGoZNkfnYjoaxbsfb:matrix.org",
@@ -18340,19 +18353,6 @@
         "guest_can_join": 0,
         "avatar_url": null,
         "canonical_alias": "#Vendas:matrix.org",
-        "aliases": ""
-    },
-    {
-        "id": 2331,
-        "server": "matrix.muensterhack.de",
-        "room_id": "!VPQvBXFRefCKUwIseV:matrix.muensterhack.de",
-        "name": "Ankündigungen",
-        "topic": "Ankündigungen des Orgateams",
-        "num_joined_members": 559,
-        "world_readable": 0,
-        "guest_can_join": 0,
-        "avatar_url": "mxc://matrix.muensterhack.de/xZJhkKcTclMTfXYUoDZMswxr",
-        "canonical_alias": "#announcements:matrix.muensterhack.de",
         "aliases": ""
     },
     {
@@ -23179,6 +23179,19 @@
         "aliases": ""
     },
     {
+        "id": 132671,
+        "server": "synapse.thedreamer.nl",
+        "room_id": "!KtABXlWLHazatgrPqk:thedreamer.nl",
+        "name": "Link Dump",
+        "topic": null,
+        "num_joined_members": 224,
+        "world_readable": 1,
+        "guest_can_join": 1,
+        "avatar_url": null,
+        "canonical_alias": "#td_linkdump:thedreamer.nl",
+        "aliases": ""
+    },
+    {
         "id": 909,
         "server": "matrix-federation.matrix.org",
         "room_id": "!bKoSyiiwbxHHHeEgFJ:matrix.org",
@@ -23228,19 +23241,6 @@
         "guest_can_join": 0,
         "avatar_url": "mxc://chat.marimoko.biz/wobyyrAMYNpFPNXGHXwinrtd",
         "canonical_alias": "#serverlinks:chat.marimoko.biz",
-        "aliases": ""
-    },
-    {
-        "id": 132671,
-        "server": "synapse.thedreamer.nl",
-        "room_id": "!KtABXlWLHazatgrPqk:thedreamer.nl",
-        "name": "Link Dump",
-        "topic": null,
-        "num_joined_members": 220,
-        "world_readable": 1,
-        "guest_can_join": 1,
-        "avatar_url": null,
-        "canonical_alias": "#td_linkdump:thedreamer.nl",
         "aliases": ""
     },
     {
@@ -23634,6 +23634,19 @@
         "aliases": ""
     },
     {
+        "id": 132670,
+        "server": "synapse.thedreamer.nl",
+        "room_id": "!FDWEwuyBSmBwvawDDi:thedreamer.nl",
+        "name": "NSFW",
+        "topic": "Adult content!",
+        "num_joined_members": 195,
+        "world_readable": 0,
+        "guest_can_join": 0,
+        "avatar_url": "mxc://thedreamer.nl/WrmnfqQnMJmQbutseyVjEgFw",
+        "canonical_alias": "#nsfw:thedreamer.nl",
+        "aliases": ""
+    },
+    {
         "id": 2667,
         "server": "obermui.de",
         "room_id": "!VTsiUcuAxMmLxesQRa:obermui.de",
@@ -23644,19 +23657,6 @@
         "guest_can_join": 1,
         "avatar_url": "mxc://obermui.de/vJlvFnJdILgExqlTiWTWdTmi",
         "canonical_alias": "#gitea-pages-server:matrix.org",
-        "aliases": ""
-    },
-    {
-        "id": 132670,
-        "server": "synapse.thedreamer.nl",
-        "room_id": "!FDWEwuyBSmBwvawDDi:thedreamer.nl",
-        "name": "NSFW",
-        "topic": "Adult content!",
-        "num_joined_members": 194,
-        "world_readable": 0,
-        "guest_can_join": 0,
-        "avatar_url": "mxc://thedreamer.nl/WrmnfqQnMJmQbutseyVjEgFw",
-        "canonical_alias": "#nsfw:thedreamer.nl",
         "aliases": ""
     },
     {
@@ -25082,7 +25082,7 @@
         "room_id": "!KUglKuMCgWpdGgvQcS:frens.io",
         "name": "thetagang",
         "topic": "ThetaGang is an IBKR bot for getting money: github.com/brndnmtthws/thetagang",
-        "num_joined_members": 122,
+        "num_joined_members": 123,
         "world_readable": 1,
         "guest_can_join": 1,
         "avatar_url": "mxc://frens.io/KyAuLfTCcANRaBICWuGFyyBF",
@@ -25181,19 +25181,6 @@
         "aliases": ""
     },
     {
-        "id": 107120,
-        "server": "matrix.it-syndik.at",
-        "room_id": "!wgMkHUaxADIQSQDZOZ:it-syndik.at",
-        "name": "IT-Syndikat",
-        "topic": "Hackerspace Innsbruck",
-        "num_joined_members": 118,
-        "world_readable": 0,
-        "guest_can_join": 1,
-        "avatar_url": "mxc://it-syndik.at/CGnkoEKdfXKyQvvYqopNwZpK",
-        "canonical_alias": "#lobby:it-syndik.at",
-        "aliases": ""
-    },
-    {
         "id": 120927,
         "server": "matrix.nicheart.online",
         "room_id": "!xOVgplwbIwgtpzlyAN:nicheart.online",
@@ -25230,6 +25217,19 @@
         "guest_can_join": 0,
         "avatar_url": "mxc://matrix.org/ZfhYJsccibVonGqBbpWZeBjH",
         "canonical_alias": "#gbncb-all:matrix.org",
+        "aliases": ""
+    },
+    {
+        "id": 107120,
+        "server": "matrix.it-syndik.at",
+        "room_id": "!wgMkHUaxADIQSQDZOZ:it-syndik.at",
+        "name": "IT-Syndikat",
+        "topic": "Hackerspace Innsbruck",
+        "num_joined_members": 117,
+        "world_readable": 0,
+        "guest_can_join": 1,
+        "avatar_url": "mxc://it-syndik.at/CGnkoEKdfXKyQvvYqopNwZpK",
+        "canonical_alias": "#lobby:it-syndik.at",
         "aliases": ""
     },
     {
@@ -27222,6 +27222,19 @@
         "aliases": ""
     },
     {
+        "id": 136485,
+        "server": "matrix.tinternet.net",
+        "room_id": "!qYuLURVVrVmTBfwQJg:matrix.tinternet.net",
+        "name": "Tinternet public",
+        "topic": "Salon public de l'association - www.tinternet.net",
+        "num_joined_members": 74,
+        "world_readable": 1,
+        "guest_can_join": 1,
+        "avatar_url": "mxc://matrix.tinternet.net/hFkfoJYPLROFTVuhAZpEHvJY",
+        "canonical_alias": "#general-public:matrix.tinternet.net",
+        "aliases": ""
+    },
+    {
         "id": 1833,
         "server": "matrix-federation.matrix.org",
         "room_id": "!ADOwzWbBmEceCRgXHH:matrix.org",
@@ -27846,6 +27859,19 @@
         "aliases": ""
     },
     {
+        "id": 61413,
+        "server": "synapse.thedreamer.nl",
+        "room_id": "!okITjfZABEWnsQQibq:thedreamer.nl",
+        "name": "Public Chat",
+        "topic": "Public Chatroom on the TheDreamer.nl Matrix Server\nLocal users: Remember to set notifications per channel to avoid email spam!",
+        "num_joined_members": 63,
+        "world_readable": 1,
+        "guest_can_join": 1,
+        "avatar_url": "mxc://thedreamer.nl/ALGdDbyKPcSAUPwJxFORtBzF",
+        "canonical_alias": "#public:thedreamer.nl",
+        "aliases": ""
+    },
+    {
         "id": 90502,
         "server": "mx.grupotd.nat.cu",
         "room_id": "!SmDfpOXfyvayTacAkQ:mx.grupotd.nat.cu",
@@ -27882,19 +27908,6 @@
         "guest_can_join": 0,
         "avatar_url": null,
         "canonical_alias": "#hackerspace:glasgow.social",
-        "aliases": ""
-    },
-    {
-        "id": 61413,
-        "server": "synapse.thedreamer.nl",
-        "room_id": "!okITjfZABEWnsQQibq:thedreamer.nl",
-        "name": "Public Chat",
-        "topic": "Public Chatroom on the TheDreamer.nl Matrix Server\nLocal users: Remember to set notifications per channel to avoid email spam!",
-        "num_joined_members": 61,
-        "world_readable": 1,
-        "guest_can_join": 1,
-        "avatar_url": "mxc://thedreamer.nl/ALGdDbyKPcSAUPwJxFORtBzF",
-        "canonical_alias": "#public:thedreamer.nl",
         "aliases": ""
     },
     {
@@ -29042,6 +29055,19 @@
         "aliases": ""
     },
     {
+        "id": 2296,
+        "server": "matrix.gemeinsam.jetzt",
+        "room_id": "!EjniZolNFXAZihUOtN:gemeinsam.jetzt",
+        "name": "CTG Commodore-Treffen Graz",
+        "topic": "CTG $4D am 10. Oktober ab 18:00 Uhr",
+        "num_joined_members": 50,
+        "world_readable": 0,
+        "guest_can_join": 1,
+        "avatar_url": "mxc://matrix.org/pfOjMrvheWCCfoZSskiyCtAF",
+        "canonical_alias": "#ctg:matrix.org",
+        "aliases": ""
+    },
+    {
         "id": 2573,
         "server": "nope.chat",
         "room_id": "!cJBVnRnprLfxcczzBX:nakama.tv",
@@ -29195,19 +29221,6 @@
         "guest_can_join": 1,
         "avatar_url": "mxc://gnulinux.club/LRcTtzCVYAqscHEpkBjpHUER",
         "canonical_alias": "#gnulinuxclub:gnulinux.club",
-        "aliases": ""
-    },
-    {
-        "id": 2296,
-        "server": "matrix.gemeinsam.jetzt",
-        "room_id": "!EjniZolNFXAZihUOtN:gemeinsam.jetzt",
-        "name": "CTG Commodore-Treffen Graz",
-        "topic": "CTG $4D am 10. Oktober ab 18:00 Uhr",
-        "num_joined_members": 49,
-        "world_readable": 0,
-        "guest_can_join": 1,
-        "avatar_url": "mxc://matrix.org/pfOjMrvheWCCfoZSskiyCtAF",
-        "canonical_alias": "#ctg:matrix.org",
         "aliases": ""
     },
     {
@@ -30459,6 +30472,19 @@
         "aliases": ""
     },
     {
+        "id": 2300,
+        "server": "matrix.gemeinsam.jetzt",
+        "room_id": "!gDVyDhbRbkXwXOuxUL:gemeinsam.jetzt",
+        "name": "graz.social",
+        "topic": "Diskussionen Rund https://info.graz.social",
+        "num_joined_members": 39,
+        "world_readable": 0,
+        "guest_can_join": 1,
+        "avatar_url": "mxc://gemeinsam.jetzt/dijuzeBJAUWfWNQssxveFvND",
+        "canonical_alias": "#graz.social:gemeinsam.jetzt",
+        "aliases": ""
+    },
+    {
         "id": 2603,
         "server": "nope.chat",
         "room_id": "!CLnxcznixTxoVLFlJX:nakama.tv",
@@ -30599,19 +30625,6 @@
         "guest_can_join": 1,
         "avatar_url": null,
         "canonical_alias": "#un0rick:matrix.org",
-        "aliases": ""
-    },
-    {
-        "id": 2300,
-        "server": "matrix.gemeinsam.jetzt",
-        "room_id": "!gDVyDhbRbkXwXOuxUL:gemeinsam.jetzt",
-        "name": "graz.social",
-        "topic": "Diskussionen Rund https://info.graz.social",
-        "num_joined_members": 38,
-        "world_readable": 0,
-        "guest_can_join": 1,
-        "avatar_url": "mxc://gemeinsam.jetzt/dijuzeBJAUWfWNQssxveFvND",
-        "canonical_alias": "#graz.social:gemeinsam.jetzt",
         "aliases": ""
     },
     {
@@ -36712,6 +36725,19 @@
         "aliases": ""
     },
     {
+        "id": 134239,
+        "server": "matrix.frens.io",
+        "room_id": "!GfMWbTXYQzgYLGcSDP:frens.io",
+        "name": "memes",
+        "topic": "share memes, preferably just the good ones; often politically incorrect",
+        "num_joined_members": 17,
+        "world_readable": 0,
+        "guest_can_join": 0,
+        "avatar_url": "mxc://frens.io/IzPeJsEWwoMmhxgdRttyTeoC",
+        "canonical_alias": "#memes:frens.io",
+        "aliases": ""
+    },
+    {
         "id": 1920,
         "server": "matrix-federation.matrix.org",
         "room_id": "!wQaxZOPhHcCxMnOrhx:matrix.org",
@@ -36943,6 +36969,19 @@
         "guest_can_join": 0,
         "avatar_url": null,
         "canonical_alias": "#team6:matrix.muensterhack.de",
+        "aliases": ""
+    },
+    {
+        "id": 2379,
+        "server": "matrix.frens.io",
+        "room_id": "!vLMKnQYmzqnhKZCdVa:frens.io",
+        "name": "the lobby",
+        "topic": "Say hello",
+        "num_joined_members": 16,
+        "world_readable": 0,
+        "guest_can_join": 0,
+        "avatar_url": "mxc://frens.io/sVAGLSABibECyNxJxJEoIEwc",
+        "canonical_alias": "#lobby:frens.io",
         "aliases": ""
     },
     {
@@ -37414,19 +37453,6 @@
         "aliases": ""
     },
     {
-        "id": 2379,
-        "server": "matrix.frens.io",
-        "room_id": "!vLMKnQYmzqnhKZCdVa:frens.io",
-        "name": "the lobby",
-        "topic": "Say hello",
-        "num_joined_members": 15,
-        "world_readable": 0,
-        "guest_can_join": 0,
-        "avatar_url": "mxc://frens.io/sVAGLSABibECyNxJxJEoIEwc",
-        "canonical_alias": "#lobby:frens.io",
-        "aliases": ""
-    },
-    {
         "id": 2469,
         "server": "riot.firechicken.net",
         "room_id": "!sgTnNnsCDsMkiPfQDh:riot.firechicken.net",
@@ -37856,16 +37882,16 @@
         "aliases": ""
     },
     {
-        "id": 134239,
+        "id": 134238,
         "server": "matrix.frens.io",
-        "room_id": "!GfMWbTXYQzgYLGcSDP:frens.io",
-        "name": "memes",
-        "topic": "share memes, preferably just the good ones; often politically incorrect",
+        "room_id": "!PijylMlsqgoyEBoIYU:frens.io",
+        "name": "anti",
+        "topic": "anti-cloud, anti-tech, anti-capitalism, anti-work, anti-fascist, anti-war, anti-natalism",
         "num_joined_members": 15,
         "world_readable": 0,
         "guest_can_join": 0,
-        "avatar_url": "mxc://frens.io/IzPeJsEWwoMmhxgdRttyTeoC",
-        "canonical_alias": "#memes:frens.io",
+        "avatar_url": "mxc://frens.io/alJhFLEDcUtlodFtZZEPwPvY",
+        "canonical_alias": "#anti:frens.io",
         "aliases": ""
     },
     {
@@ -39205,19 +39231,6 @@
         "guest_can_join": 0,
         "avatar_url": null,
         "canonical_alias": "#ebooks:glasgow.social",
-        "aliases": ""
-    },
-    {
-        "id": 134238,
-        "server": "matrix.frens.io",
-        "room_id": "!PijylMlsqgoyEBoIYU:frens.io",
-        "name": "anti",
-        "topic": "anti-cloud, anti-tech, anti-capitalism, anti-work, anti-fascist, anti-war, anti-natalism",
-        "num_joined_members": 13,
-        "world_readable": 0,
-        "guest_can_join": 0,
-        "avatar_url": "mxc://frens.io/alJhFLEDcUtlodFtZZEPwPvY",
-        "canonical_alias": "#anti:frens.io",
         "aliases": ""
     },
     {
@@ -46124,6 +46137,19 @@
         "aliases": ""
     },
     {
+        "id": 136486,
+        "server": "matrix.tinternet.net",
+        "room_id": "!QjPBtZvJjEfmkLIYve:matrix.tinternet.net",
+        "name": "Auto-hébergement",
+        "topic": "Échanger 💬 partager 🔁 autour de l'auto-hébergement !",
+        "num_joined_members": 8,
+        "world_readable": 1,
+        "guest_can_join": 0,
+        "avatar_url": "mxc://neutralnetwork.org/dNGOQRTjnRHXRjeRESFyDpAA",
+        "canonical_alias": "#auto-hebergement:matrix.tinternet.net",
+        "aliases": ""
+    },
+    {
         "id": 2054,
         "server": "matrix-federation.matrix.org",
         "room_id": "!NgloGtZthzxqwzotNw:matrix.org",
@@ -52494,19 +52520,6 @@
         "aliases": ""
     },
     {
-        "id": 118255,
-        "server": "matrix.gnulinux.club",
-        "room_id": "!pEV4P4PwS7SVIRAjhbgIefDuN_jn5qkcVjgA4WGAcjI",
-        "name": "introductions",
-        "topic": "Please provide an authentic and meaningful introduction in this channel. This is required for anyone who desires to join the pubglug channel or spaces, whether home server member or not. Once you post your introduction and it's approved, you will be invited to the pubglug space and channel, where you are required to stay and be active as per the TOS. Please remember introductions must include a tech blogk, gitlab, or some other similar form in which your public/real presence can be verified. Once verified, you are removed from this channel. ",
-        "num_joined_members": 6,
-        "world_readable": 1,
-        "guest_can_join": 1,
-        "avatar_url": "mxc://gnulinux.club/UpAcdEEuvLrRjmlvsMbqgYBi",
-        "canonical_alias": "#introductions:gnulinux.club",
-        "aliases": ""
-    },
-    {
         "id": 126386,
         "server": "socialnetwork24.com",
         "room_id": "!tJBBtwasYsbOpaPryF:socialnetwork24.com",
@@ -55458,6 +55471,19 @@
         "aliases": ""
     },
     {
+        "id": 118255,
+        "server": "matrix.gnulinux.club",
+        "room_id": "!pEV4P4PwS7SVIRAjhbgIefDuN_jn5qkcVjgA4WGAcjI",
+        "name": "introductions",
+        "topic": "Please provide an authentic and meaningful introduction in this channel. This is required for anyone who desires to join the pubglug channel or spaces, whether home server member or not. Once you post your introduction and it's approved, you will be invited to the pubglug space and channel, where you are required to stay and be active as per the TOS. Please remember introductions must include a tech blogk, gitlab, or some other similar form in which your public/real presence can be verified. Once verified, you are removed from this channel. ",
+        "num_joined_members": 5,
+        "world_readable": 1,
+        "guest_can_join": 1,
+        "avatar_url": "mxc://gnulinux.club/UpAcdEEuvLrRjmlvsMbqgYBi",
+        "canonical_alias": "#introductions:gnulinux.club",
+        "aliases": ""
+    },
+    {
         "id": 121877,
         "server": "matrix.grin.hu",
         "room_id": "!ITAHJYuPhQzOCrnkwc:grin.hu",
@@ -55611,6 +55637,19 @@
         "guest_can_join": 0,
         "avatar_url": null,
         "canonical_alias": "#Pavarotti's:glasgow.social",
+        "aliases": ""
+    },
+    {
+        "id": 136553,
+        "server": "matrix.frens.io",
+        "room_id": "!VfeyCdnhjFfiFMhWHA:frens.io",
+        "name": "political fights",
+        "topic": "argue about politics and stuff",
+        "num_joined_members": 5,
+        "world_readable": 0,
+        "guest_can_join": 0,
+        "avatar_url": "mxc://frens.io/gorGHGJYyxQkVihYydzVwxbU",
+        "canonical_alias": "#politics:frens.io",
         "aliases": ""
     }
 ]
