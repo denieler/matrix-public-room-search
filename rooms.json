@@ -15587,6 +15587,19 @@
         "aliases": ""
     },
     {
+        "id": 2292,
+        "server": "matrix.gemeinsam.jetzt",
+        "room_id": "!hpsvYXDsDZQBDQPYYH:gemeinsam.jetzt",
+        "name": "matrix / element",
+        "topic": "Fragen, Anregungen, Wünsche rund um matrix / element bei gemeinsam.jetzt",
+        "num_joined_members": 703,
+        "world_readable": 0,
+        "guest_can_join": 0,
+        "avatar_url": "mxc://gemeinsam.jetzt/akKUYfWhCtGpestnkSewbCmw",
+        "canonical_alias": "#matrix:gemeinsam.jetzt",
+        "aliases": ""
+    },
+    {
         "id": 1083,
         "server": "matrix-federation.matrix.org",
         "room_id": "!WVNqybdPtGyCzmXSPx:matrix.org",
@@ -15649,19 +15662,6 @@
         "guest_can_join": 0,
         "avatar_url": "mxc://t2bot.io/7cc0274bf8ea67657822aaf900f33ee593d48d5e",
         "canonical_alias": "#mengxblog:matrix.org",
-        "aliases": ""
-    },
-    {
-        "id": 2292,
-        "server": "matrix.gemeinsam.jetzt",
-        "room_id": "!hpsvYXDsDZQBDQPYYH:gemeinsam.jetzt",
-        "name": "matrix / element",
-        "topic": "Fragen, Anregungen, Wünsche rund um matrix / element bei gemeinsam.jetzt",
-        "num_joined_members": 699,
-        "world_readable": 0,
-        "guest_can_join": 0,
-        "avatar_url": "mxc://gemeinsam.jetzt/akKUYfWhCtGpestnkSewbCmw",
-        "canonical_alias": "#matrix:gemeinsam.jetzt",
         "aliases": ""
     },
     {
@@ -22425,19 +22425,6 @@
         "aliases": ""
     },
     {
-        "id": 2293,
-        "server": "matrix.gemeinsam.jetzt",
-        "room_id": "!BaXVucgDTZWOFrZrcV:gemeinsam.jetzt",
-        "name": "Håck-mas-Castle General",
-        "topic": "27.08.-30.08.2026 - Ottenschlag\nAnreisetag: 26.08.2026",
-        "num_joined_members": 295,
-        "world_readable": 0,
-        "guest_can_join": 0,
-        "avatar_url": "mxc://tchncs.de/2fc1fdf1bd06274597cc85123170c09e311c168d2027798221362823168",
-        "canonical_alias": "#hackmas:gemeinsam.jetzt",
-        "aliases": ""
-    },
-    {
         "id": 1573,
         "server": "matrix-federation.matrix.org",
         "room_id": "!yUPvZVTmeInlmCnQAG:livingutopia.org",
@@ -22448,6 +22435,19 @@
         "guest_can_join": 0,
         "avatar_url": null,
         "canonical_alias": null,
+        "aliases": ""
+    },
+    {
+        "id": 2293,
+        "server": "matrix.gemeinsam.jetzt",
+        "room_id": "!BaXVucgDTZWOFrZrcV:gemeinsam.jetzt",
+        "name": "Håck-mas-Castle General",
+        "topic": "27.08.-30.08.2026 - Ottenschlag\nAnreisetag: 26.08.2026",
+        "num_joined_members": 294,
+        "world_readable": 0,
+        "guest_can_join": 0,
+        "avatar_url": "mxc://tchncs.de/2fc1fdf1bd06274597cc85123170c09e311c168d2027798221362823168",
+        "canonical_alias": "#hackmas:gemeinsam.jetzt",
         "aliases": ""
     },
     {
@@ -23340,7 +23340,7 @@
         "room_id": "!ueYUKCUmdMsJMRBGgP:gemeinsam.jetzt",
         "name": "Håck-mas-Castle General Space",
         "topic": "",
-        "num_joined_members": 214,
+        "num_joined_members": 212,
         "world_readable": 1,
         "guest_can_join": 1,
         "avatar_url": "mxc://tchncs.de/2fc1fdf1bd06274597cc85123170c09e311c168d2027798221362823168",
@@ -26897,6 +26897,19 @@
         "aliases": ""
     },
     {
+        "id": 2295,
+        "server": "matrix.gemeinsam.jetzt",
+        "room_id": "!KQjvvQVpMfbVDLJOVV:gemeinsam.jetzt",
+        "name": "spektral",
+        "topic": "Spektral Community",
+        "num_joined_members": 79,
+        "world_readable": 0,
+        "guest_can_join": 0,
+        "avatar_url": "mxc://gemeinsam.jetzt/OdlEQOARsmHkpmPRXtxZzhcH",
+        "canonical_alias": "#spektral:gemeinsam.jetzt",
+        "aliases": ""
+    },
+    {
         "id": 2668,
         "server": "obermui.de",
         "room_id": "!hRxboJTEIvphfpTcpL:obermui.de",
@@ -26920,19 +26933,6 @@
         "guest_can_join": 1,
         "avatar_url": "mxc://grin.hu/JVRosPkPOQIZZrcFzRxzIIyY",
         "canonical_alias": "#wikipedia:grin.hu",
-        "aliases": ""
-    },
-    {
-        "id": 2295,
-        "server": "matrix.gemeinsam.jetzt",
-        "room_id": "!KQjvvQVpMfbVDLJOVV:gemeinsam.jetzt",
-        "name": "spektral",
-        "topic": "Spektral Community",
-        "num_joined_members": 78,
-        "world_readable": 0,
-        "guest_can_join": 0,
-        "avatar_url": "mxc://gemeinsam.jetzt/OdlEQOARsmHkpmPRXtxZzhcH",
-        "canonical_alias": "#spektral:gemeinsam.jetzt",
         "aliases": ""
     },
     {
@@ -31005,19 +31005,6 @@
         "aliases": ""
     },
     {
-        "id": 2298,
-        "server": "matrix.gemeinsam.jetzt",
-        "room_id": "!hxzEzZXGZBURLofjvt:gemeinsam.jetzt",
-        "name": "GJ",
-        "topic": "Alles rund um gemeinsam.jetzt",
-        "num_joined_members": 35,
-        "world_readable": 1,
-        "guest_can_join": 0,
-        "avatar_url": "mxc://gemeinsam.jetzt/QblasfnDaXadfwrCtjTOxXDM",
-        "canonical_alias": "#sgj:gemeinsam.jetzt",
-        "aliases": ""
-    },
-    {
         "id": 2644,
         "server": "nope.chat",
         "room_id": "!DvhsmhYqSEkkZJAowq:nope.chat",
@@ -31119,6 +31106,19 @@
         "guest_can_join": 1,
         "avatar_url": "mxc://matrix.org/ObjAgdVTZEOiRxvgrsouzUMo",
         "canonical_alias": "#invizible:matrix.org",
+        "aliases": ""
+    },
+    {
+        "id": 2298,
+        "server": "matrix.gemeinsam.jetzt",
+        "room_id": "!hxzEzZXGZBURLofjvt:gemeinsam.jetzt",
+        "name": "GJ",
+        "topic": "Alles rund um gemeinsam.jetzt",
+        "num_joined_members": 34,
+        "world_readable": 1,
+        "guest_can_join": 0,
+        "avatar_url": "mxc://gemeinsam.jetzt/QblasfnDaXadfwrCtjTOxXDM",
+        "canonical_alias": "#sgj:gemeinsam.jetzt",
         "aliases": ""
     },
     {
@@ -48789,6 +48789,19 @@
         "aliases": ""
     },
     {
+        "id": 118255,
+        "server": "matrix.gnulinux.club",
+        "room_id": "!pEV4P4PwS7SVIRAjhbgIefDuN_jn5qkcVjgA4WGAcjI",
+        "name": "introductions",
+        "topic": "Please provide an authentic and meaningful introduction in this channel. This is required for anyone who desires to join the pubglug channel or spaces, whether home server member or not. Once you post your introduction and it's approved, you will be invited to the pubglug space and channel, where you are required to stay and be active as per the TOS. Please remember introductions must include a tech blogk, gitlab, or some other similar form in which your public/real presence can be verified. Once verified, you are removed from this channel. ",
+        "num_joined_members": 7,
+        "world_readable": 1,
+        "guest_can_join": 1,
+        "avatar_url": "mxc://gnulinux.club/UpAcdEEuvLrRjmlvsMbqgYBi",
+        "canonical_alias": "#introductions:gnulinux.club",
+        "aliases": ""
+    },
+    {
         "id": 123372,
         "server": "matrix.grin.hu",
         "room_id": "!HwULLVSbPUfeSGZeej:grin.hu",
@@ -52504,19 +52517,6 @@
         "guest_can_join": 0,
         "avatar_url": null,
         "canonical_alias": "#8-1:nope.chat",
-        "aliases": ""
-    },
-    {
-        "id": 118255,
-        "server": "matrix.gnulinux.club",
-        "room_id": "!pEV4P4PwS7SVIRAjhbgIefDuN_jn5qkcVjgA4WGAcjI",
-        "name": "introductions",
-        "topic": "Please provide an authentic and meaningful introduction in this channel. This is required for anyone who desires to join the pubglug channel or spaces, whether home server member or not. Once you post your introduction and it's approved, you will be invited to the pubglug space and channel, where you are required to stay and be active as per the TOS. Please remember introductions must include a tech blogk, gitlab, or some other similar form in which your public/real presence can be verified. Once verified, you are removed from this channel. ",
-        "num_joined_members": 6,
-        "world_readable": 1,
-        "guest_can_join": 1,
-        "avatar_url": "mxc://gnulinux.club/UpAcdEEuvLrRjmlvsMbqgYBi",
-        "canonical_alias": "#introductions:gnulinux.club",
         "aliases": ""
     },
     {
