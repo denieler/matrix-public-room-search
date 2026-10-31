@@ -1,7 +1,7 @@
-imagisphe.re
-matrix.unredacted.org
 matrix.dewrito.net
+imagisphe.re
 hot-chilli.im
+matrix.unredacted.org
 exarius.org
 matrix.gnulinux.club
 matrix.gemeinsam.jetzt
