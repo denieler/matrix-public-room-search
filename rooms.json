@@ -15067,6 +15067,19 @@
         "aliases": ""
     },
     {
+        "id": 2292,
+        "server": "matrix.gemeinsam.jetzt",
+        "room_id": "!hpsvYXDsDZQBDQPYYH:gemeinsam.jetzt",
+        "name": "matrix / element",
+        "topic": "Fragen, Anregungen, Wünsche rund um matrix / element bei gemeinsam.jetzt",
+        "num_joined_members": 729,
+        "world_readable": 0,
+        "guest_can_join": 0,
+        "avatar_url": "mxc://gemeinsam.jetzt/akKUYfWhCtGpestnkSewbCmw",
+        "canonical_alias": "#matrix:gemeinsam.jetzt",
+        "aliases": ""
+    },
+    {
         "id": 131062,
         "server": "immercord.de",
         "room_id": "!CTYE1JLqDGRuXzfG16NvMVB8y_Z7j-OK_kycPTjCiXs",
@@ -15324,19 +15337,6 @@
         "guest_can_join": 0,
         "avatar_url": "mxc://matrix.org/oFHGWgcPauyGsQyMsGSMzefn",
         "canonical_alias": "#fwgs-help:matrix.org",
-        "aliases": ""
-    },
-    {
-        "id": 2292,
-        "server": "matrix.gemeinsam.jetzt",
-        "room_id": "!hpsvYXDsDZQBDQPYYH:gemeinsam.jetzt",
-        "name": "matrix / element",
-        "topic": "Fragen, Anregungen, Wünsche rund um matrix / element bei gemeinsam.jetzt",
-        "num_joined_members": 714,
-        "world_readable": 0,
-        "guest_can_join": 0,
-        "avatar_url": "mxc://gemeinsam.jetzt/akKUYfWhCtGpestnkSewbCmw",
-        "canonical_alias": "#matrix:gemeinsam.jetzt",
         "aliases": ""
     },
     {
@@ -22443,7 +22443,7 @@
         "room_id": "!BaXVucgDTZWOFrZrcV:gemeinsam.jetzt",
         "name": "Håck-mas-Castle General",
         "topic": "27.08.-30.08.2026 - Ottenschlag\nAnreisetag: 26.08.2026",
-        "num_joined_members": 294,
+        "num_joined_members": 293,
         "world_readable": 0,
         "guest_can_join": 0,
         "avatar_url": "mxc://tchncs.de/2fc1fdf1bd06274597cc85123170c09e311c168d2027798221362823168",
@@ -23335,19 +23335,6 @@
         "aliases": ""
     },
     {
-        "id": 2294,
-        "server": "matrix.gemeinsam.jetzt",
-        "room_id": "!ueYUKCUmdMsJMRBGgP:gemeinsam.jetzt",
-        "name": "Håck-mas-Castle General Space",
-        "topic": "",
-        "num_joined_members": 212,
-        "world_readable": 1,
-        "guest_can_join": 1,
-        "avatar_url": "mxc://tchncs.de/2fc1fdf1bd06274597cc85123170c09e311c168d2027798221362823168",
-        "canonical_alias": "#hackmasspace:gemeinsam.jetzt",
-        "aliases": ""
-    },
-    {
         "id": 2541,
         "server": "matrix.grin.hu",
         "room_id": "!QMjJABdmqAvwryzifM:matrix.cocamserverguild.com",
@@ -23397,6 +23384,19 @@
         "guest_can_join": 0,
         "avatar_url": "mxc://matrix.org/RGYZuGhAeuBXpiQGFWAvPcwN",
         "canonical_alias": "#.unkno:matrix.org",
+        "aliases": ""
+    },
+    {
+        "id": 2294,
+        "server": "matrix.gemeinsam.jetzt",
+        "room_id": "!ueYUKCUmdMsJMRBGgP:gemeinsam.jetzt",
+        "name": "Håck-mas-Castle General Space",
+        "topic": "",
+        "num_joined_members": 211,
+        "world_readable": 1,
+        "guest_can_join": 1,
+        "avatar_url": "mxc://tchncs.de/2fc1fdf1bd06274597cc85123170c09e311c168d2027798221362823168",
+        "canonical_alias": "#hackmasspace:gemeinsam.jetzt",
         "aliases": ""
     },
     {
@@ -28730,6 +28730,19 @@
         "aliases": ""
     },
     {
+        "id": 2288,
+        "server": "matrix.gnulinux.club",
+        "room_id": "!ztMALohtyGbvtQjYwk:gnulinux.club",
+        "name": "gnulinuxclub",
+        "topic": "Welcome to the GNU/Linux Club, a public space dedicated to furthering Free Software and its surrounding culture.",
+        "num_joined_members": 53,
+        "world_readable": 1,
+        "guest_can_join": 1,
+        "avatar_url": "mxc://gnulinux.club/LRcTtzCVYAqscHEpkBjpHUER",
+        "canonical_alias": "#gnulinuxclub:gnulinux.club",
+        "aliases": ""
+    },
+    {
         "id": 2579,
         "server": "nope.chat",
         "room_id": "!xonwfLyZsFsQGvFWBB:nakama.tv",
@@ -28909,19 +28922,6 @@
         "guest_can_join": 1,
         "avatar_url": "mxc://grin.hu/gaWLOwPatCohGQTgnnFWxNNM",
         "canonical_alias": "#hirek:grin.hu",
-        "aliases": ""
-    },
-    {
-        "id": 2288,
-        "server": "matrix.gnulinux.club",
-        "room_id": "!ztMALohtyGbvtQjYwk:gnulinux.club",
-        "name": "gnulinuxclub",
-        "topic": "Welcome to the GNU/Linux Club, a public space dedicated to furthering Free Software and its surrounding culture.",
-        "num_joined_members": 51,
-        "world_readable": 1,
-        "guest_can_join": 1,
-        "avatar_url": "mxc://gnulinux.club/LRcTtzCVYAqscHEpkBjpHUER",
-        "canonical_alias": "#gnulinuxclub:gnulinux.club",
         "aliases": ""
     },
     {
@@ -29302,6 +29302,19 @@
         "aliases": ""
     },
     {
+        "id": 2296,
+        "server": "matrix.gemeinsam.jetzt",
+        "room_id": "!EjniZolNFXAZihUOtN:gemeinsam.jetzt",
+        "name": "CTG Commodore-Treffen Graz",
+        "topic": "READY.",
+        "num_joined_members": 48,
+        "world_readable": 0,
+        "guest_can_join": 1,
+        "avatar_url": "mxc://matrix.org/pfOjMrvheWCCfoZSskiyCtAF",
+        "canonical_alias": "#ctg:matrix.org",
+        "aliases": ""
+    },
+    {
         "id": 2575,
         "server": "nope.chat",
         "room_id": "!OTaYAudMZdVJfWqOme:nakama.tv",
@@ -29507,19 +29520,6 @@
         "guest_can_join": 0,
         "avatar_url": null,
         "canonical_alias": "#shopifyeccomerce:matrix.org",
-        "aliases": ""
-    },
-    {
-        "id": 2296,
-        "server": "matrix.gemeinsam.jetzt",
-        "room_id": "!EjniZolNFXAZihUOtN:gemeinsam.jetzt",
-        "name": "CTG Commodore-Treffen Graz",
-        "topic": "READY.",
-        "num_joined_members": 46,
-        "world_readable": 0,
-        "guest_can_join": 1,
-        "avatar_url": "mxc://matrix.org/pfOjMrvheWCCfoZSskiyCtAF",
-        "canonical_alias": "#ctg:matrix.org",
         "aliases": ""
     },
     {
@@ -30472,19 +30472,6 @@
         "aliases": ""
     },
     {
-        "id": 2300,
-        "server": "matrix.gemeinsam.jetzt",
-        "room_id": "!gDVyDhbRbkXwXOuxUL:gemeinsam.jetzt",
-        "name": "graz.social",
-        "topic": "Diskussionen Rund https://info.graz.social",
-        "num_joined_members": 39,
-        "world_readable": 0,
-        "guest_can_join": 1,
-        "avatar_url": "mxc://gemeinsam.jetzt/dijuzeBJAUWfWNQssxveFvND",
-        "canonical_alias": "#graz.social:gemeinsam.jetzt",
-        "aliases": ""
-    },
-    {
         "id": 2603,
         "server": "nope.chat",
         "room_id": "!CLnxcznixTxoVLFlJX:nakama.tv",
@@ -30625,6 +30612,19 @@
         "guest_can_join": 1,
         "avatar_url": null,
         "canonical_alias": "#un0rick:matrix.org",
+        "aliases": ""
+    },
+    {
+        "id": 2300,
+        "server": "matrix.gemeinsam.jetzt",
+        "room_id": "!gDVyDhbRbkXwXOuxUL:gemeinsam.jetzt",
+        "name": "graz.social",
+        "topic": "Diskussionen Rund https://info.graz.social",
+        "num_joined_members": 38,
+        "world_readable": 0,
+        "guest_can_join": 1,
+        "avatar_url": "mxc://gemeinsam.jetzt/dijuzeBJAUWfWNQssxveFvND",
+        "canonical_alias": "#graz.social:gemeinsam.jetzt",
         "aliases": ""
     },
     {
@@ -32630,6 +32630,19 @@
         "aliases": ""
     },
     {
+        "id": 90499,
+        "server": "matrix.gemeinsam.jetzt",
+        "room_id": "!mGDckUpoUpmrtPzALJ:gemeinsam.jetzt",
+        "name": "GLT",
+        "topic": "Grazer Linuxtage Space",
+        "num_joined_members": 27,
+        "world_readable": 1,
+        "guest_can_join": 1,
+        "avatar_url": "mxc://gemeinsam.jetzt/kvaODxwpSuyUmlZpHecBbuof",
+        "canonical_alias": "#glt:gemeinsam.jetzt",
+        "aliases": ""
+    },
+    {
         "id": 107406,
         "server": "matrix.opulus.space",
         "room_id": "!VCcibBrQeytvMWDWhT:matrix.org",
@@ -32926,19 +32939,6 @@
         "guest_can_join": 0,
         "avatar_url": "mxc://matrix.juggler.jp/qFhXWnXaGTBmJXMDkNLjMfca",
         "canonical_alias": "#hololive:matrix.juggler.jp",
-        "aliases": ""
-    },
-    {
-        "id": 90499,
-        "server": "matrix.gemeinsam.jetzt",
-        "room_id": "!mGDckUpoUpmrtPzALJ:gemeinsam.jetzt",
-        "name": "GLT",
-        "topic": "Grazer Linuxtage Space",
-        "num_joined_members": 26,
-        "world_readable": 1,
-        "guest_can_join": 1,
-        "avatar_url": "mxc://gemeinsam.jetzt/kvaODxwpSuyUmlZpHecBbuof",
-        "canonical_alias": "#glt:gemeinsam.jetzt",
         "aliases": ""
     },
     {
@@ -45981,19 +45981,6 @@
         "aliases": ""
     },
     {
-        "id": 118255,
-        "server": "matrix.gnulinux.club",
-        "room_id": "!pEV4P4PwS7SVIRAjhbgIefDuN_jn5qkcVjgA4WGAcjI",
-        "name": "introductions",
-        "topic": "Please provide an authentic and meaningful introduction in this channel. This is required for anyone who desires to join the pubglug channel or spaces, whether home server member or not. Once you post your introduction and it's approved, you will be invited to the pubglug space and channel, where you are required to stay and be active as per the TOS. Please remember introductions must include a tech blogk, gitlab, or some other similar form in which your public/real presence can be verified. Once verified, you are removed from this channel. ",
-        "num_joined_members": 8,
-        "world_readable": 1,
-        "guest_can_join": 1,
-        "avatar_url": "mxc://gnulinux.club/UpAcdEEuvLrRjmlvsMbqgYBi",
-        "canonical_alias": "#introductions:gnulinux.club",
-        "aliases": ""
-    },
-    {
         "id": 121879,
         "server": "matrix.grin.hu",
         "room_id": "!BFoexRVr52GlDmgYqW:cwt.grin.hu",
@@ -52517,6 +52504,19 @@
         "guest_can_join": 0,
         "avatar_url": null,
         "canonical_alias": "#8-1:nope.chat",
+        "aliases": ""
+    },
+    {
+        "id": 118255,
+        "server": "matrix.gnulinux.club",
+        "room_id": "!pEV4P4PwS7SVIRAjhbgIefDuN_jn5qkcVjgA4WGAcjI",
+        "name": "introductions",
+        "topic": "Please provide an authentic and meaningful introduction in this channel. This is required for anyone who desires to join the pubglug channel or spaces, whether home server member or not. Once you post your introduction and it's approved, you will be invited to the pubglug space and channel, where you are required to stay and be active as per the TOS. Please remember introductions must include a tech blogk, gitlab, or some other similar form in which your public/real presence can be verified. Once verified, you are removed from this channel. ",
+        "num_joined_members": 6,
+        "world_readable": 1,
+        "guest_can_join": 1,
+        "avatar_url": "mxc://gnulinux.club/UpAcdEEuvLrRjmlvsMbqgYBi",
+        "canonical_alias": "#introductions:gnulinux.club",
         "aliases": ""
     },
     {
