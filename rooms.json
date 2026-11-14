@@ -14937,6 +14937,19 @@
         "aliases": ""
     },
     {
+        "id": 2292,
+        "server": "matrix.gemeinsam.jetzt",
+        "room_id": "!hpsvYXDsDZQBDQPYYH:gemeinsam.jetzt",
+        "name": "matrix / element",
+        "topic": "Fragen, Anregungen, Wünsche rund um matrix / element bei gemeinsam.jetzt",
+        "num_joined_members": 739,
+        "world_readable": 0,
+        "guest_can_join": 0,
+        "avatar_url": "mxc://gemeinsam.jetzt/akKUYfWhCtGpestnkSewbCmw",
+        "canonical_alias": "#matrix:gemeinsam.jetzt",
+        "aliases": ""
+    },
+    {
         "id": 1037,
         "server": "matrix-federation.matrix.org",
         "room_id": "!vRDpqdukjXUmtjOGJf:matrix.org",
@@ -15064,19 +15077,6 @@
         "guest_can_join": 0,
         "avatar_url": null,
         "canonical_alias": "#taichi-support:matrix.org",
-        "aliases": ""
-    },
-    {
-        "id": 2292,
-        "server": "matrix.gemeinsam.jetzt",
-        "room_id": "!hpsvYXDsDZQBDQPYYH:gemeinsam.jetzt",
-        "name": "matrix / element",
-        "topic": "Fragen, Anregungen, Wünsche rund um matrix / element bei gemeinsam.jetzt",
-        "num_joined_members": 729,
-        "world_readable": 0,
-        "guest_can_join": 0,
-        "avatar_url": "mxc://gemeinsam.jetzt/akKUYfWhCtGpestnkSewbCmw",
-        "canonical_alias": "#matrix:gemeinsam.jetzt",
         "aliases": ""
     },
     {
@@ -23387,19 +23387,6 @@
         "aliases": ""
     },
     {
-        "id": 2294,
-        "server": "matrix.gemeinsam.jetzt",
-        "room_id": "!ueYUKCUmdMsJMRBGgP:gemeinsam.jetzt",
-        "name": "Håck-mas-Castle General Space",
-        "topic": "",
-        "num_joined_members": 211,
-        "world_readable": 1,
-        "guest_can_join": 1,
-        "avatar_url": "mxc://tchncs.de/2fc1fdf1bd06274597cc85123170c09e311c168d2027798221362823168",
-        "canonical_alias": "#hackmasspace:gemeinsam.jetzt",
-        "aliases": ""
-    },
-    {
         "id": 2212,
         "server": "matrix.constellatory.net",
         "room_id": "!QWmSRsAvuPESGVtbzx:constellatory.net",
@@ -23423,6 +23410,19 @@
         "guest_can_join": 0,
         "avatar_url": "mxc://matrix.opulus.space/PXaBxokcOdzpsedwDAszVvyj",
         "canonical_alias": "#django_ukraine:matrix.org",
+        "aliases": ""
+    },
+    {
+        "id": 2294,
+        "server": "matrix.gemeinsam.jetzt",
+        "room_id": "!ueYUKCUmdMsJMRBGgP:gemeinsam.jetzt",
+        "name": "Håck-mas-Castle General Space",
+        "topic": "",
+        "num_joined_members": 210,
+        "world_readable": 1,
+        "guest_can_join": 1,
+        "avatar_url": "mxc://tchncs.de/2fc1fdf1bd06274597cc85123170c09e311c168d2027798221362823168",
+        "canonical_alias": "#hackmasspace:gemeinsam.jetzt",
         "aliases": ""
     },
     {
@@ -29068,6 +29068,19 @@
         "aliases": ""
     },
     {
+        "id": 2296,
+        "server": "matrix.gemeinsam.jetzt",
+        "room_id": "!EjniZolNFXAZihUOtN:gemeinsam.jetzt",
+        "name": "CTG Commodore-Treffen Graz",
+        "topic": "READY.",
+        "num_joined_members": 50,
+        "world_readable": 0,
+        "guest_can_join": 1,
+        "avatar_url": "mxc://matrix.org/pfOjMrvheWCCfoZSskiyCtAF",
+        "canonical_alias": "#ctg:matrix.org",
+        "aliases": ""
+    },
+    {
         "id": 2573,
         "server": "nope.chat",
         "room_id": "!cJBVnRnprLfxcczzBX:nakama.tv",
@@ -29299,19 +29312,6 @@
         "guest_can_join": 0,
         "avatar_url": "mxc://cyberfurz.chat/AGPjeMozxGMSiKVwbjmvaCbW",
         "canonical_alias": "#stickers_xenia_by_rinidisc:bark.lgbt",
-        "aliases": ""
-    },
-    {
-        "id": 2296,
-        "server": "matrix.gemeinsam.jetzt",
-        "room_id": "!EjniZolNFXAZihUOtN:gemeinsam.jetzt",
-        "name": "CTG Commodore-Treffen Graz",
-        "topic": "READY.",
-        "num_joined_members": 48,
-        "world_readable": 0,
-        "guest_can_join": 1,
-        "avatar_url": "mxc://matrix.org/pfOjMrvheWCCfoZSskiyCtAF",
-        "canonical_alias": "#ctg:matrix.org",
         "aliases": ""
     },
     {
@@ -31109,6 +31109,19 @@
         "aliases": ""
     },
     {
+        "id": 2297,
+        "server": "matrix.gemeinsam.jetzt",
+        "room_id": "!WCCWjnQYeInXCoJQqb:gemeinsam.jetzt",
+        "name": "Solidarische Bezugsgruppen/ Solidary affinity groups",
+        "topic": null,
+        "num_joined_members": 34,
+        "world_readable": 0,
+        "guest_can_join": 0,
+        "avatar_url": null,
+        "canonical_alias": "#solidarischebezugsgruppen:gemeinsam.jetzt",
+        "aliases": ""
+    },
+    {
         "id": 2298,
         "server": "matrix.gemeinsam.jetzt",
         "room_id": "!hxzEzZXGZBURLofjvt:gemeinsam.jetzt",
@@ -31301,19 +31314,6 @@
         "guest_can_join": 0,
         "avatar_url": "mxc://matrix.org/EeqPHspjGJBicGDFYsfNOPSE",
         "canonical_alias": "#meshtastic_germany:matrix.org",
-        "aliases": ""
-    },
-    {
-        "id": 2297,
-        "server": "matrix.gemeinsam.jetzt",
-        "room_id": "!WCCWjnQYeInXCoJQqb:gemeinsam.jetzt",
-        "name": "Solidarische Bezugsgruppen/ Solidary affinity groups",
-        "topic": null,
-        "num_joined_members": 33,
-        "world_readable": 0,
-        "guest_can_join": 0,
-        "avatar_url": null,
-        "canonical_alias": "#solidarischebezugsgruppen:gemeinsam.jetzt",
         "aliases": ""
     },
     {
@@ -34255,6 +34255,19 @@
         "aliases": ""
     },
     {
+        "id": 2303,
+        "server": "matrix.gemeinsam.jetzt",
+        "room_id": "!HwRvlEFRKlBdtqzoAA:gemeinsam.jetzt",
+        "name": "Falter Radio",
+        "topic": "Falter podcast auf https://www.falter.at/falter/radio?ref=social",
+        "num_joined_members": 22,
+        "world_readable": 0,
+        "guest_can_join": 1,
+        "avatar_url": "mxc://gemeinsam.jetzt/vFniQTmZktyMfRQirQzyeBJJ",
+        "canonical_alias": "#falter-radio:gemeinsam.jetzt",
+        "aliases": ""
+    },
+    {
         "id": 2320,
         "server": "matrix.underworld.fr",
         "room_id": "!kRNaITvuXlHqxFodGI:matrix.underworld.fr",
@@ -34629,19 +34642,6 @@
         "guest_can_join": 1,
         "avatar_url": null,
         "canonical_alias": "#switchcraft:bark.lgbt",
-        "aliases": ""
-    },
-    {
-        "id": 2303,
-        "server": "matrix.gemeinsam.jetzt",
-        "room_id": "!HwRvlEFRKlBdtqzoAA:gemeinsam.jetzt",
-        "name": "Falter Radio",
-        "topic": "Falter podcast auf https://www.falter.at/falter/radio?ref=social",
-        "num_joined_members": 21,
-        "world_readable": 0,
-        "guest_can_join": 1,
-        "avatar_url": "mxc://gemeinsam.jetzt/vFniQTmZktyMfRQirQzyeBJJ",
-        "canonical_alias": "#falter-radio:gemeinsam.jetzt",
         "aliases": ""
     },
     {
@@ -40950,6 +40950,19 @@
         "aliases": ""
     },
     {
+        "id": 121729,
+        "server": "matrix.gemeinsam.jetzt",
+        "room_id": "!bcJfYTVxBdFTCrTsQz:gemeinsam.jetzt",
+        "name": "VirtuellerSteg",
+        "topic": null,
+        "num_joined_members": 11,
+        "world_readable": 0,
+        "guest_can_join": 0,
+        "avatar_url": null,
+        "canonical_alias": "#my-room:gemeinsam.jetzt",
+        "aliases": ""
+    },
+    {
         "id": 127986,
         "server": "matrix.grin.hu",
         "room_id": "!CjKUpJd89GzltS3jCPJOyVIIaos-Stl4sz5t5Bk6wvM",
@@ -42117,19 +42130,6 @@
         "guest_can_join": 0,
         "avatar_url": "mxc://gemeinsam.jetzt/TqbabLDbywRddxVqVAwEMFfZ",
         "canonical_alias": "#grazwiki:gemeinsam.jetzt",
-        "aliases": ""
-    },
-    {
-        "id": 121729,
-        "server": "matrix.gemeinsam.jetzt",
-        "room_id": "!bcJfYTVxBdFTCrTsQz:gemeinsam.jetzt",
-        "name": "VirtuellerSteg",
-        "topic": null,
-        "num_joined_members": 10,
-        "world_readable": 0,
-        "guest_can_join": 0,
-        "avatar_url": null,
-        "canonical_alias": "#my-room:gemeinsam.jetzt",
         "aliases": ""
     },
     {
