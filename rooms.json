@@ -14703,6 +14703,19 @@
         "aliases": ""
     },
     {
+        "id": 2292,
+        "server": "matrix.gemeinsam.jetzt",
+        "room_id": "!hpsvYXDsDZQBDQPYYH:gemeinsam.jetzt",
+        "name": "matrix / element",
+        "topic": "Fragen, Anregungen, Wünsche rund um matrix / element bei gemeinsam.jetzt",
+        "num_joined_members": 753,
+        "world_readable": 0,
+        "guest_can_join": 0,
+        "avatar_url": "mxc://gemeinsam.jetzt/akKUYfWhCtGpestnkSewbCmw",
+        "canonical_alias": "#matrix:gemeinsam.jetzt",
+        "aliases": ""
+    },
+    {
         "id": 1022,
         "server": "matrix-federation.matrix.org",
         "room_id": "!TbfhOaSJCogOPBppGN:matrix.org",
@@ -14934,19 +14947,6 @@
         "guest_can_join": 0,
         "avatar_url": "mxc://matrix.org/uLEBQUUVZODPnnpentFygeKI",
         "canonical_alias": "#liberaturadio:matrix.org",
-        "aliases": ""
-    },
-    {
-        "id": 2292,
-        "server": "matrix.gemeinsam.jetzt",
-        "room_id": "!hpsvYXDsDZQBDQPYYH:gemeinsam.jetzt",
-        "name": "matrix / element",
-        "topic": "Fragen, Anregungen, Wünsche rund um matrix / element bei gemeinsam.jetzt",
-        "num_joined_members": 739,
-        "world_readable": 0,
-        "guest_can_join": 0,
-        "avatar_url": "mxc://gemeinsam.jetzt/akKUYfWhCtGpestnkSewbCmw",
-        "canonical_alias": "#matrix:gemeinsam.jetzt",
         "aliases": ""
     },
     {
@@ -22425,6 +22425,19 @@
         "aliases": ""
     },
     {
+        "id": 2293,
+        "server": "matrix.gemeinsam.jetzt",
+        "room_id": "!BaXVucgDTZWOFrZrcV:gemeinsam.jetzt",
+        "name": "Håck-mas-Castle General",
+        "topic": "27.08.-30.08.2026 - Ottenschlag\nAnreisetag: 26.08.2026",
+        "num_joined_members": 295,
+        "world_readable": 0,
+        "guest_can_join": 0,
+        "avatar_url": "mxc://tchncs.de/2fc1fdf1bd06274597cc85123170c09e311c168d2027798221362823168",
+        "canonical_alias": "#hackmas:gemeinsam.jetzt",
+        "aliases": ""
+    },
+    {
         "id": 1573,
         "server": "matrix-federation.matrix.org",
         "room_id": "!yUPvZVTmeInlmCnQAG:livingutopia.org",
@@ -22435,19 +22448,6 @@
         "guest_can_join": 0,
         "avatar_url": null,
         "canonical_alias": null,
-        "aliases": ""
-    },
-    {
-        "id": 2293,
-        "server": "matrix.gemeinsam.jetzt",
-        "room_id": "!BaXVucgDTZWOFrZrcV:gemeinsam.jetzt",
-        "name": "Håck-mas-Castle General",
-        "topic": "27.08.-30.08.2026 - Ottenschlag\nAnreisetag: 26.08.2026",
-        "num_joined_members": 293,
-        "world_readable": 0,
-        "guest_can_join": 0,
-        "avatar_url": "mxc://tchncs.de/2fc1fdf1bd06274597cc85123170c09e311c168d2027798221362823168",
-        "canonical_alias": "#hackmas:gemeinsam.jetzt",
         "aliases": ""
     },
     {
@@ -23387,6 +23387,19 @@
         "aliases": ""
     },
     {
+        "id": 2294,
+        "server": "matrix.gemeinsam.jetzt",
+        "room_id": "!ueYUKCUmdMsJMRBGgP:gemeinsam.jetzt",
+        "name": "Håck-mas-Castle General Space",
+        "topic": "",
+        "num_joined_members": 211,
+        "world_readable": 1,
+        "guest_can_join": 1,
+        "avatar_url": "mxc://tchncs.de/2fc1fdf1bd06274597cc85123170c09e311c168d2027798221362823168",
+        "canonical_alias": "#hackmasspace:gemeinsam.jetzt",
+        "aliases": ""
+    },
+    {
         "id": 2212,
         "server": "matrix.constellatory.net",
         "room_id": "!QWmSRsAvuPESGVtbzx:constellatory.net",
@@ -23410,19 +23423,6 @@
         "guest_can_join": 0,
         "avatar_url": "mxc://matrix.opulus.space/PXaBxokcOdzpsedwDAszVvyj",
         "canonical_alias": "#django_ukraine:matrix.org",
-        "aliases": ""
-    },
-    {
-        "id": 2294,
-        "server": "matrix.gemeinsam.jetzt",
-        "room_id": "!ueYUKCUmdMsJMRBGgP:gemeinsam.jetzt",
-        "name": "Håck-mas-Castle General Space",
-        "topic": "",
-        "num_joined_members": 210,
-        "world_readable": 1,
-        "guest_can_join": 1,
-        "avatar_url": "mxc://tchncs.de/2fc1fdf1bd06274597cc85123170c09e311c168d2027798221362823168",
-        "canonical_alias": "#hackmasspace:gemeinsam.jetzt",
         "aliases": ""
     },
     {
@@ -26741,6 +26741,19 @@
         "aliases": ""
     },
     {
+        "id": 2295,
+        "server": "matrix.gemeinsam.jetzt",
+        "room_id": "!KQjvvQVpMfbVDLJOVV:gemeinsam.jetzt",
+        "name": "spektral",
+        "topic": "Spektral Community",
+        "num_joined_members": 81,
+        "world_readable": 0,
+        "guest_can_join": 0,
+        "avatar_url": "mxc://gemeinsam.jetzt/OdlEQOARsmHkpmPRXtxZzhcH",
+        "canonical_alias": "#spektral:gemeinsam.jetzt",
+        "aliases": ""
+    },
+    {
         "id": 2437,
         "server": "matrix.netho.tk",
         "room_id": "!YCpgFNFcVYtUQUyjcM:matrix.netho.tk",
@@ -26894,19 +26907,6 @@
         "guest_can_join": 1,
         "avatar_url": null,
         "canonical_alias": null,
-        "aliases": ""
-    },
-    {
-        "id": 2295,
-        "server": "matrix.gemeinsam.jetzt",
-        "room_id": "!KQjvvQVpMfbVDLJOVV:gemeinsam.jetzt",
-        "name": "spektral",
-        "topic": "Spektral Community",
-        "num_joined_members": 79,
-        "world_readable": 0,
-        "guest_can_join": 0,
-        "avatar_url": "mxc://gemeinsam.jetzt/OdlEQOARsmHkpmPRXtxZzhcH",
-        "canonical_alias": "#spektral:gemeinsam.jetzt",
         "aliases": ""
     },
     {
@@ -30472,6 +30472,19 @@
         "aliases": ""
     },
     {
+        "id": 2300,
+        "server": "matrix.gemeinsam.jetzt",
+        "room_id": "!gDVyDhbRbkXwXOuxUL:gemeinsam.jetzt",
+        "name": "graz.social",
+        "topic": "Diskussionen Rund https://info.graz.social",
+        "num_joined_members": 39,
+        "world_readable": 0,
+        "guest_can_join": 1,
+        "avatar_url": "mxc://gemeinsam.jetzt/dijuzeBJAUWfWNQssxveFvND",
+        "canonical_alias": "#graz.social:gemeinsam.jetzt",
+        "aliases": ""
+    },
+    {
         "id": 2603,
         "server": "nope.chat",
         "room_id": "!CLnxcznixTxoVLFlJX:nakama.tv",
@@ -30612,19 +30625,6 @@
         "guest_can_join": 1,
         "avatar_url": null,
         "canonical_alias": "#un0rick:matrix.org",
-        "aliases": ""
-    },
-    {
-        "id": 2300,
-        "server": "matrix.gemeinsam.jetzt",
-        "room_id": "!gDVyDhbRbkXwXOuxUL:gemeinsam.jetzt",
-        "name": "graz.social",
-        "topic": "Diskussionen Rund https://info.graz.social",
-        "num_joined_members": 38,
-        "world_readable": 0,
-        "guest_can_join": 1,
-        "avatar_url": "mxc://gemeinsam.jetzt/dijuzeBJAUWfWNQssxveFvND",
-        "canonical_alias": "#graz.social:gemeinsam.jetzt",
         "aliases": ""
     },
     {
@@ -30784,6 +30784,19 @@
         "aliases": ""
     },
     {
+        "id": 2298,
+        "server": "matrix.gemeinsam.jetzt",
+        "room_id": "!hxzEzZXGZBURLofjvt:gemeinsam.jetzt",
+        "name": "GJ",
+        "topic": "Alles rund um gemeinsam.jetzt",
+        "num_joined_members": 37,
+        "world_readable": 1,
+        "guest_can_join": 0,
+        "avatar_url": "mxc://gemeinsam.jetzt/QblasfnDaXadfwrCtjTOxXDM",
+        "canonical_alias": "#sgj:gemeinsam.jetzt",
+        "aliases": ""
+    },
+    {
         "id": 2438,
         "server": "matrix.netho.tk",
         "room_id": "!fzTsFsxYSfMmWKgBbL:matrix.netho.tk",
@@ -30911,6 +30924,19 @@
         "guest_can_join": 1,
         "avatar_url": null,
         "canonical_alias": "#computerhacking101:matrix.org",
+        "aliases": ""
+    },
+    {
+        "id": 2297,
+        "server": "matrix.gemeinsam.jetzt",
+        "room_id": "!WCCWjnQYeInXCoJQqb:gemeinsam.jetzt",
+        "name": "Solidarische Bezugsgruppen/ Solidary affinity groups",
+        "topic": null,
+        "num_joined_members": 36,
+        "world_readable": 0,
+        "guest_can_join": 0,
+        "avatar_url": null,
+        "canonical_alias": "#solidarischebezugsgruppen:gemeinsam.jetzt",
         "aliases": ""
     },
     {
@@ -31109,32 +31135,6 @@
         "aliases": ""
     },
     {
-        "id": 2297,
-        "server": "matrix.gemeinsam.jetzt",
-        "room_id": "!WCCWjnQYeInXCoJQqb:gemeinsam.jetzt",
-        "name": "Solidarische Bezugsgruppen/ Solidary affinity groups",
-        "topic": null,
-        "num_joined_members": 34,
-        "world_readable": 0,
-        "guest_can_join": 0,
-        "avatar_url": null,
-        "canonical_alias": "#solidarischebezugsgruppen:gemeinsam.jetzt",
-        "aliases": ""
-    },
-    {
-        "id": 2298,
-        "server": "matrix.gemeinsam.jetzt",
-        "room_id": "!hxzEzZXGZBURLofjvt:gemeinsam.jetzt",
-        "name": "GJ",
-        "topic": "Alles rund um gemeinsam.jetzt",
-        "num_joined_members": 34,
-        "world_readable": 1,
-        "guest_can_join": 0,
-        "avatar_url": "mxc://gemeinsam.jetzt/QblasfnDaXadfwrCtjTOxXDM",
-        "canonical_alias": "#sgj:gemeinsam.jetzt",
-        "aliases": ""
-    },
-    {
         "id": 2605,
         "server": "nope.chat",
         "room_id": "!UwgxWtfxflYbGWZNhl:matrix.cocamserverguild.com",
@@ -31317,6 +31317,19 @@
         "aliases": ""
     },
     {
+        "id": 2299,
+        "server": "matrix.gemeinsam.jetzt",
+        "room_id": "!WqJLlkQiFCUbexSsbk:gemeinsam.jetzt",
+        "name": "Foodkoop KrautKOOPf",
+        "topic": "Öffentlicher Raum der Foodkoop KrautKOOPf in Graz-Geidorf. Hier findest du mehr Infos & Infotermine: https://krautkoopf.at",
+        "num_joined_members": 33,
+        "world_readable": 1,
+        "guest_can_join": 0,
+        "avatar_url": "mxc://gemeinsam.jetzt/FWmAvbAbOrxEvUWzLIwAtipD",
+        "canonical_alias": "#krautkoopf:gemeinsam.jetzt",
+        "aliases": ""
+    },
+    {
         "id": 2465,
         "server": "riot.firechicken.net",
         "room_id": "!rkApxMtWrUPjqzvGCX:riot.firechicken.net",
@@ -31392,19 +31405,6 @@
         "guest_can_join": 0,
         "avatar_url": "mxc://matrix.org/eqSrwNkLiTJOhbnfQCyyZJmI",
         "canonical_alias": "#osm-jeloles:matrix.org",
-        "aliases": ""
-    },
-    {
-        "id": 2299,
-        "server": "matrix.gemeinsam.jetzt",
-        "room_id": "!WqJLlkQiFCUbexSsbk:gemeinsam.jetzt",
-        "name": "Foodkoop KrautKOOPf",
-        "topic": "Öffentlicher Raum der Foodkoop KrautKOOPf in Graz-Geidorf. Hier findest du mehr Infos & Infotermine: https://krautkoopf.at",
-        "num_joined_members": 32,
-        "world_readable": 1,
-        "guest_can_join": 0,
-        "avatar_url": "mxc://gemeinsam.jetzt/FWmAvbAbOrxEvUWzLIwAtipD",
-        "canonical_alias": "#krautkoopf:gemeinsam.jetzt",
         "aliases": ""
     },
     {
@@ -32227,6 +32227,19 @@
         "aliases": ""
     },
     {
+        "id": 90499,
+        "server": "matrix.gemeinsam.jetzt",
+        "room_id": "!mGDckUpoUpmrtPzALJ:gemeinsam.jetzt",
+        "name": "GLT",
+        "topic": "Grazer Linuxtage Space",
+        "num_joined_members": 29,
+        "world_readable": 1,
+        "guest_can_join": 1,
+        "avatar_url": "mxc://gemeinsam.jetzt/kvaODxwpSuyUmlZpHecBbuof",
+        "canonical_alias": "#glt:gemeinsam.jetzt",
+        "aliases": ""
+    },
+    {
         "id": 107403,
         "server": "matrix.opulus.space",
         "room_id": "!kDfOexrYGJvPetlbxc:matrix.org",
@@ -32627,19 +32640,6 @@
         "guest_can_join": 0,
         "avatar_url": "mxc://glasgow.social/fUilgSlpSJDDVzHrgWElPlvf",
         "canonical_alias": "#quiz:glasgow.social",
-        "aliases": ""
-    },
-    {
-        "id": 90499,
-        "server": "matrix.gemeinsam.jetzt",
-        "room_id": "!mGDckUpoUpmrtPzALJ:gemeinsam.jetzt",
-        "name": "GLT",
-        "topic": "Grazer Linuxtage Space",
-        "num_joined_members": 27,
-        "world_readable": 1,
-        "guest_can_join": 1,
-        "avatar_url": "mxc://gemeinsam.jetzt/kvaODxwpSuyUmlZpHecBbuof",
-        "canonical_alias": "#glt:gemeinsam.jetzt",
         "aliases": ""
     },
     {
@@ -34645,6 +34645,19 @@
         "aliases": ""
     },
     {
+        "id": 2305,
+        "server": "matrix.gemeinsam.jetzt",
+        "room_id": "!tKMtBXThDMlPIJGgXu:gemeinsam.jetzt",
+        "name": "Radio Helsinki",
+        "topic": null,
+        "num_joined_members": 21,
+        "world_readable": 1,
+        "guest_can_join": 1,
+        "avatar_url": "mxc://gemeinsam.jetzt/vetGspUXcAViSWqphrHJZKHJ",
+        "canonical_alias": "#helsinki-feed:gemeinsam.jetzt",
+        "aliases": ""
+    },
+    {
         "id": 2321,
         "server": "matrix.underworld.fr",
         "room_id": "!rJlMzaIAaSNbcMrCUm:matrix.underworld.fr",
@@ -35110,19 +35123,6 @@
         "guest_can_join": 0,
         "avatar_url": "mxc://matrix.org/ICzJGaKoNQccNtNaFFGXHbmN",
         "canonical_alias": "#fotografie:matrix.org",
-        "aliases": ""
-    },
-    {
-        "id": 2305,
-        "server": "matrix.gemeinsam.jetzt",
-        "room_id": "!tKMtBXThDMlPIJGgXu:gemeinsam.jetzt",
-        "name": "Radio Helsinki",
-        "topic": null,
-        "num_joined_members": 20,
-        "world_readable": 1,
-        "guest_can_join": 1,
-        "avatar_url": "mxc://gemeinsam.jetzt/vetGspUXcAViSWqphrHJZKHJ",
-        "canonical_alias": "#helsinki-feed:gemeinsam.jetzt",
         "aliases": ""
     },
     {
@@ -39231,6 +39231,19 @@
         "guest_can_join": 0,
         "avatar_url": null,
         "canonical_alias": "#ebooks:glasgow.social",
+        "aliases": ""
+    },
+    {
+        "id": 136840,
+        "server": "matrix.gemeinsam.jetzt",
+        "room_id": "!9738zW0SLcj9yzMk_afiGTCSlFk441urtr9TA_PJCO0",
+        "name": "CTG Commodore-Treffen Graz",
+        "topic": "CTG$4E=Sa.19.Dez.|17:00|spektral",
+        "num_joined_members": 13,
+        "world_readable": 0,
+        "guest_can_join": 1,
+        "avatar_url": "mxc://matrix.org/pfOjMrvheWCCfoZSskiyCtAF",
+        "canonical_alias": "#ctg:matrix.org",
         "aliases": ""
     },
     {
